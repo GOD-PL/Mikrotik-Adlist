@@ -113,13 +113,13 @@ def main():
     
     # Zapisz w formacie hosts kompatybilnym z Mikrotik
     with open('blocklist.txt', 'w') as f:
-        f.write(f"# Wygenerowano automatycznie: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC+2')}\n")
+        f.write(f"# Wygenerowano automatycznie: {datetime.now("Europe/Warsaw").strftime('%Y-%m-%d %H:%M:%S %Z%z')}\n")
         f.write(f"# Liczba unikalnych domen: {len(sorted_domains)}\n")
         f.write(f"# Źródła: {len(BLOCKLIST_URLS)}\n")
         f.write("#\n")
         f.write("# Statystyki:\n")
         for url, stat in stats.items():
-            f.write(f"# - {url.split('/')[-1]}: {stat['total']} domains ({stat['new']} unique, {stat['duplicates']} duplicates)\n")
+            f.write(f"# - {url.split('/')[-1]}: {stat['total']} domen ({stat['new']} unikalnych, {stat['duplicates']} duplikatów)\n")
         f.write("#\n\n")
         
         for domain in sorted_domains:
@@ -127,7 +127,7 @@ def main():
     
     # Zapisz statystyki do osobnego pliku
     with open('stats.txt', 'w') as f:
-        f.write(f"Statystyka - {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
+        f.write(f"Statystyka - {datetime.now("Europe/Warsaw").strftime('%Y-%m-%d %H:%M:%S %Z%z')}\n")
         f.write("=" * 80 + "\n\n")
         f.write(f"Liczba unikalnych domen: {len(all_domains)}\n")
         f.write(f"Liczba domen we wszystkich listach: {len(domains_in_multiple_lists)}\n\n")
