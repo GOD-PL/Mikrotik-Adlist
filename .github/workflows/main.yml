@@ -3,7 +3,7 @@ name: Update Blocklist
 on:
     schedule:
     # Uruchamia się codziennie o 3:00 UTC
-    - cron: '0 3 * * *'
+        - cron: '0 3 * * *'
   push:
       branches: [ main ]
   workflow_dispatch:  # Pozwala na ręczne uruchomienie
