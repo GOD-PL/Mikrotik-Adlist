@@ -88,9 +88,9 @@ def main():
         new_domains = domains_from_this_list - all_domains
         duplicate_domains = domains_from_this_list & all_domains
         
-        print(f"  - Znaleziono domen: {len(domains_from_this_list)}")
-        print(f"  - Nowych domen: {len(new_domains)}")
-        print(f"  - Duplikatów (już w liście): {len(duplicate_domains)}")
+        print(f"\tZnaleziono domen: {len(domains_from_this_list)}")
+        print(f"\tNowych domen: {len(new_domains)}")
+        print(f"\tDuplikatów (już w liście): {len(duplicate_domains)}")
         
         stats[url] = {
             'total': len(domains_from_this_list),
@@ -102,22 +102,22 @@ def main():
     
     print("\n" + "=" * 80)
     print(f"PODSUMOWANIE:")
-    print(f"  - Łącznie unikalnych domen: {len(all_domains)}")
+    print(f"\tŁącznie unikalnych domen: {len(all_domains)}")
     
     # Znajdź domeny występujące w wielu listach
     domains_in_multiple_lists = {d: sources for d, sources in domain_sources.items() if len(sources) > 1}
-    print(f"  - Domen występujących w wielu listach: {len(domains_in_multiple_lists)}")
+    print(f"\tDomen występujących w wielu listach: {len(domains_in_multiple_lists)}")
     
     # Sortuj domeny alfabetycznie
     sorted_domains = sorted(all_domains)
     
     # Zapisz w formacie hosts kompatybilnym z Mikrotik
     with open('blocklist.txt', 'w') as f:
-        f.write(f"# Automated blocklist generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
-        f.write(f"# Total unique domains: {len(sorted_domains)}\n")
-        f.write(f"# Sources: {len(BLOCKLIST_URLS)}\n")
+        f.write(f"# Wygenerowano automatycznie: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC+2')}\n")
+        f.write(f"# Liczba unikalnych domen: {len(sorted_domains)}\n")
+        f.write(f"# Źródła: {len(BLOCKLIST_URLS)}\n")
         f.write("#\n")
-        f.write("# Statistics:\n")
+        f.write("# Statystyki:\n")
         for url, stat in stats.items():
             f.write(f"# - {url.split('/')[-1]}: {stat['total']} domains ({stat['new']} unique, {stat['duplicates']} duplicates)\n")
         f.write("#\n\n")
@@ -127,17 +127,17 @@ def main():
     
     # Zapisz statystyki do osobnego pliku
     with open('stats.txt', 'w') as f:
-        f.write(f"Blocklist Statistics - {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
+        f.write(f"Statystyka - {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
         f.write("=" * 80 + "\n\n")
-        f.write(f"Total unique domains: {len(all_domains)}\n")
-        f.write(f"Domains in multiple lists: {len(domains_in_multiple_lists)}\n\n")
+        f.write(f"Liczba unikalnych domen: {len(all_domains)}\n")
+        f.write(f"Liczba domen we wszystkich listach: {len(domains_in_multiple_lists)}\n\n")
         
-        f.write("Domains per source:\n")
+        f.write("Domeny per źródło:\n")
         for url, stat in stats.items():
-            f.write(f"  {url.split('/')[-1]}:\n")
-            f.write(f"    - Total: {stat['total']}\n")
-            f.write(f"    - Unique contributions: {stat['new']}\n")
-            f.write(f"    - Already in other lists: {stat['duplicates']}\n\n")
+            f.write(f"\t{url.split('/')[-1]}:\n")
+            f.write(f"\tOgólnie: {stat['total']}\n")
+            f.write(f"\tUnikalnych: {stat['new']}\n")
+            f.write(f"\tW innych listach: {stat['duplicates']}\n\n")
     
     print(f"\nLista zapisana jako blocklist.txt")
     print(f"Statystyki zapisane jako stats.txt")
