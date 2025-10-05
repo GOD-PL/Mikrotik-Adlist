@@ -8,6 +8,7 @@ from collections import defaultdict
 BLOCKLIST_URLS = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt", # ~9MB
     #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt", # ~21MB
+    #"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts", # ~3MB
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/oisd/big.fork.txt", # ~6MB 
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/notracking/hostnames.fork.txt", # ~10MB
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt", # ~9MB
