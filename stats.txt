@@ -1,0 +1,72 @@
+Blocklist Statistics - 2025-10-05 17:09:10 UTC
+================================================================================
+
+Total unique domains: 2906177
+Domains in multiple lists: 485297
+
+Domains per source:
+  pro.txt:
+    - Total: 334663
+    - Unique contributions: 334663
+    - Already in other lists: 0
+
+  tif.txt:
+    - Total: 870360
+    - Unique contributions: 804249
+    - Already in other lists: 66111
+
+  big.fork.txt:
+    - Total: 198807
+    - Unique contributions: 56352
+    - Already in other lists: 142455
+
+  hostnames.fork.txt:
+    - Total: 250170
+    - Unique contributions: 233674
+    - Already in other lists: 16496
+
+  GoodbyeAds.fork.txt:
+    - Total: 277770
+    - Unique contributions: 193972
+    - Already in other lists: 83798
+
+  AdguardDNS.fork.txt:
+    - Total: 135237
+    - Unique contributions: 39165
+    - Already in other lists: 96072
+
+  youtubelist.fork.txt:
+    - Total: 16841
+    - Unique contributions: 16841
+    - Already in other lists: 0
+
+  youtube.fork.txt:
+    - Total: 24280
+    - Unique contributions: 18335
+    - Already in other lists: 5945
+
+  adservers.fork.txt:
+    - Total: 42363
+    - Unique contributions: 0
+    - Already in other lists: 42363
+
+  malware.fork.txt:
+    - Total: 435199
+    - Unique contributions: 412091
+    - Already in other lists: 23108
+
+  domains-hosts.fork.txt:
+    - Total: 132824
+    - Unique contributions: 69435
+    - Already in other lists: 63389
+
+  Phishing-Angriffe.fork.txt:
+    - Total: 864412
+    - Unique contributions: 662623
+    - Already in other lists: 201789
+
+  tracking.fork.txt:
+    - Total: 110759
+    - Unique contributions: 64777
+    - Already in other lists: 45982
+
