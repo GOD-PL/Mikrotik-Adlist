@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import requests
 import sys
-from datetime import datetime
+import datetime
 from collections import defaultdict
 
 # Listy do połączenia (URL)
@@ -113,7 +113,7 @@ def main():
     
     # Zapisz w formacie hosts kompatybilnym z Mikrotik
     with open('blocklist.txt', 'w') as f:
-        f.write(f"# Wygenerowano automatycznie: {datetime.now("Europe/Warsaw").strftime('%Y-%m-%d %H:%M:%S %Z%z')}\n")
+        f.write(f"# Wygenerowano automatycznie: {datetime.now().strftime('%Y-%m-%d %H:%M:%S %Z%z')}\n")
         f.write(f"# Liczba unikalnych domen: {len(sorted_domains)}\n")
         f.write(f"# Źródła: {len(BLOCKLIST_URLS)}\n")
         f.write("#\n")
@@ -127,7 +127,7 @@ def main():
     
     # Zapisz statystyki do osobnego pliku
     with open('stats.txt', 'w') as f:
-        f.write(f"Statystyka - {datetime.now("Europe/Warsaw").strftime('%Y-%m-%d %H:%M:%S %Z%z')}\n")
+        f.write(f"Statystyka - {datetime.now().strftime('%Y-%m-%d %H:%M:%S %Z%z')}\n")
         f.write("=" * 80 + "\n\n")
         f.write(f"Liczba unikalnych domen: {len(all_domains)}\n")
         f.write(f"Liczba domen we wszystkich listach: {len(domains_in_multiple_lists)}\n\n")
