@@ -4,8 +4,7 @@ import sys
 from datetime import datetime
 
 # Listy do połączenia (URL)
-BLOCKLIST_URLS =
-[
+BLOCKLIST_URLS = [
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt
     https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/oisd/big.fork.txt
