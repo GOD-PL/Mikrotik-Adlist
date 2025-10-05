@@ -8,6 +8,9 @@ on:
         branches: [ main ]
     workflow_dispatch:  # Pozwala na ręczne uruchomienie
 
+permissions:
+    contents: write  # Zezwala na zapis w repozytorium
+
 jobs:
     update-blocklist:
         runs-on: ubuntu-latest
