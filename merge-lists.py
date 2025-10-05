@@ -5,19 +5,19 @@ from datetime import datetime
 
 # Listy do połączenia (URL)
 BLOCKLIST_URLS = [
-    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt
-    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/oisd/big.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/notracking/hostnames.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/AdguardDNS.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/kboghdady/youtubelist.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/youtube.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/anudeepND/adservers.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/blocklistproject/malware.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/cert.pl/domains-hosts.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt
-    https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/oisd/big.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/notracking/hostnames.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/AdguardDNS.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/kboghdady/youtubelist.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/youtube.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/anudeepND/adservers.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/blocklistproject/malware.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/cert.pl/domains-hosts.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt"
 ]
 
 def download_list(url):
