@@ -1,72 +1,72 @@
-Blocklist Statistics - 2025-10-05 17:09:10 UTC
+Statystyka - 2025-10-05 17:20:26 UTC
 ================================================================================
 
-Total unique domains: 2906177
-Domains in multiple lists: 485297
+Liczba unikalnych domen: 2906177
+Liczba domen we wszystkich listach: 485297
 
-Domains per source:
-  pro.txt:
-    - Total: 334663
-    - Unique contributions: 334663
-    - Already in other lists: 0
+Domeny per źródło:
+	pro.txt:
+	Ogólnie: 334663
+	Unikalnych: 334663
+	W innych listach: 0
 
-  tif.txt:
-    - Total: 870360
-    - Unique contributions: 804249
-    - Already in other lists: 66111
+	tif.txt:
+	Ogólnie: 870360
+	Unikalnych: 804249
+	W innych listach: 66111
 
-  big.fork.txt:
-    - Total: 198807
-    - Unique contributions: 56352
-    - Already in other lists: 142455
+	big.fork.txt:
+	Ogólnie: 198807
+	Unikalnych: 56352
+	W innych listach: 142455
 
-  hostnames.fork.txt:
-    - Total: 250170
-    - Unique contributions: 233674
-    - Already in other lists: 16496
+	hostnames.fork.txt:
+	Ogólnie: 250170
+	Unikalnych: 233674
+	W innych listach: 16496
 
-  GoodbyeAds.fork.txt:
-    - Total: 277770
-    - Unique contributions: 193972
-    - Already in other lists: 83798
+	GoodbyeAds.fork.txt:
+	Ogólnie: 277770
+	Unikalnych: 193972
+	W innych listach: 83798
 
-  AdguardDNS.fork.txt:
-    - Total: 135237
-    - Unique contributions: 39165
-    - Already in other lists: 96072
+	AdguardDNS.fork.txt:
+	Ogólnie: 135237
+	Unikalnych: 39165
+	W innych listach: 96072
 
-  youtubelist.fork.txt:
-    - Total: 16841
-    - Unique contributions: 16841
-    - Already in other lists: 0
+	youtubelist.fork.txt:
+	Ogólnie: 16841
+	Unikalnych: 16841
+	W innych listach: 0
 
-  youtube.fork.txt:
-    - Total: 24280
-    - Unique contributions: 18335
-    - Already in other lists: 5945
+	youtube.fork.txt:
+	Ogólnie: 24280
+	Unikalnych: 18335
+	W innych listach: 5945
 
-  adservers.fork.txt:
-    - Total: 42363
-    - Unique contributions: 0
-    - Already in other lists: 42363
+	adservers.fork.txt:
+	Ogólnie: 42363
+	Unikalnych: 0
+	W innych listach: 42363
 
-  malware.fork.txt:
-    - Total: 435199
-    - Unique contributions: 412091
-    - Already in other lists: 23108
+	malware.fork.txt:
+	Ogólnie: 435199
+	Unikalnych: 412091
+	W innych listach: 23108
 
-  domains-hosts.fork.txt:
-    - Total: 132824
-    - Unique contributions: 69435
-    - Already in other lists: 63389
+	domains-hosts.fork.txt:
+	Ogólnie: 132824
+	Unikalnych: 69435
+	W innych listach: 63389
 
-  Phishing-Angriffe.fork.txt:
-    - Total: 864412
-    - Unique contributions: 662623
-    - Already in other lists: 201789
+	Phishing-Angriffe.fork.txt:
+	Ogólnie: 864412
+	Unikalnych: 662623
+	W innych listach: 201789
 
-  tracking.fork.txt:
-    - Total: 110759
-    - Unique contributions: 64777
-    - Already in other lists: 45982
+	tracking.fork.txt:
+	Ogólnie: 110759
+	Unikalnych: 64777
+	W innych listach: 45982
 
