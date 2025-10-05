@@ -1,8 +1,8 @@
-Statystyka - 2025-10-05 18:53:59 
+Statystyka - 2025-10-05 18:57:00 
 ================================================================================
 
-Liczba unikalnych domen: 2906177
-Liczba domen we wszystkich listach: 485297
+Liczba unikalnych domen: 2424728
+Liczba domen we wszystkich listach: 366546
 
 Domeny per źródło:
 	pro.txt:
@@ -60,13 +60,13 @@ Domeny per źródło:
 	Unikalnych: 69435
 	W innych listach: 63389
 
-	Phishing-Angriffe.fork.txt:
-	Ogólnie: 864412
-	Unikalnych: 662623
-	W innych listach: 201789
+	phishing.fork.txt:
+	Ogólnie: 190197
+	Unikalnych: 181167
+	W innych listach: 9030
 
 	tracking.fork.txt:
 	Ogólnie: 110759
-	Unikalnych: 64777
-	W innych listach: 45982
+	Unikalnych: 64784
+	W innych listach: 45975
 
