@@ -2,6 +2,7 @@
 import requests
 import sys
 from datetime import datetime
+from collections import defaultdict
 
 # Listy do połączenia (URL)
 BLOCKLIST_URLS = [
