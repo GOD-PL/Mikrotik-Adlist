@@ -1,34 +1,34 @@
-Statystyka - 2025-11-28 03:46:14 
+Statystyka - 2025-11-29 03:45:51 
 ================================================================================
 
-Liczba unikalnych domen: 1544077
-Liczba domen we wszystkich listach: 280472
+Liczba unikalnych domen: 1543939
+Liczba domen we wszystkich listach: 280232
 
 Domeny per źródło:
 	pro.txt:
-	Ogólnie: 332675
-	Unikalnych: 332675
+	Ogólnie: 331848
+	Unikalnych: 331848
 	W innych listach: 0
 
 	big.fork.txt:
-	Ogólnie: 214738
-	Unikalnych: 142040
-	W innych listach: 72698
+	Ogólnie: 214348
+	Unikalnych: 142069
+	W innych listach: 72279
 
 	hostnames.fork.txt:
 	Ogólnie: 250170
-	Unikalnych: 233483
-	W innych listach: 16687
+	Unikalnych: 233517
+	W innych listach: 16653
 
 	GoodbyeAds.fork.txt:
 	Ogólnie: 277770
-	Unikalnych: 195997
-	W innych listach: 81773
+	Unikalnych: 196087
+	W innych listach: 81683
 
 	AdguardDNS.fork.txt:
 	Ogólnie: 119142
-	Unikalnych: 26346
-	W innych listach: 92796
+	Unikalnych: 26333
+	W innych listach: 92809
 
 	youtubelist.fork.txt:
 	Ogólnie: 16841
@@ -42,21 +42,21 @@ Domeny per źródło:
 
 	Malware.fork.txt:
 	Ogólnie: 288177
-	Unikalnych: 253475
-	W innych listach: 34702
+	Unikalnych: 253692
+	W innych listach: 34485
 
 	domains-hosts.fork.txt:
-	Ogólnie: 151188
-	Unikalnych: 60748
-	W innych listach: 90440
+	Ogólnie: 151448
+	Unikalnych: 61034
+	W innych listach: 90414
 
 	phishing.fork.txt:
 	Ogólnie: 190197
-	Unikalnych: 187943
-	W innych listach: 2254
+	Unikalnych: 187939
+	W innych listach: 2258
 
 	tracking.fork.txt:
-	Ogólnie: 113616
-	Unikalnych: 76194
-	W innych listach: 37422
+	Ogólnie: 113615
+	Unikalnych: 76244
+	W innych listach: 37371
 
