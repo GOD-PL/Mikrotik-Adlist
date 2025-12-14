@@ -79,17 +79,17 @@ def main():
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
     for category, domains in category_domains.items():
-        filename = f"{category}_blocklist.txt"
+        filename = f'{category}_blocklist.txt'
         sorted_domains = sorted(domains)
         
-        with open(filename, 'w', encoding='utf-8') as f:
+        with open(filename, 'w') as f:
             f.write(f"# WYGENEROWANO: {timestamp}\n# KATEGORIA: {category}\n# RAZEM: {len(sorted_domains)}\n\n")
             for domain in sorted_domains:
                 f.write(f"0.0.0.0 {domain}\n")
         
         print(f"ZAPISANO: {filename} ({len(sorted_domains)})")
     
-    with open('stats.txt', 'w', encoding='utf-8') as f:
+    with open('stats.txt', 'w') as f:
         total = sum(len(d) for d in category_domains.values())
         f.write(f"STATS: {timestamp}\n{'=' * 80}\n\n")
         for cat, domains in category_domains.items():
