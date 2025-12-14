@@ -1,148 +1,103 @@
 #!/usr/bin/env python3
 import requests
-import sys
 from datetime import datetime
 from collections import defaultdict
 
-# Listy do połączenia (URL)
 BLOCKLIST_URLS = [
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt", # ~9MB
-    #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt", # ~21MB
-    #"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts", # ~3MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/oisd/big.fork.txt", # ~6MB 
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/notracking/hostnames.fork.txt", # ~10MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt", # ~9MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/AdguardDNS.fork.txt", # ~4MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/kboghdady/youtubelist.fork.txt", # ~1MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/youtube.fork.txt", # ~1MB
-    #"https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/blocklistproject/malware.fork.txt", # ~13MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/RPiList/Malware.fork.txt", # ~6MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/cert.pl/domains-hosts.fork.txt", # ~4MB
-    #"https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt", # ~25MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/blocklistproject/phishing.fork.txt", # ~6MB
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt"# ~6MB
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/youtube.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/AdguardDNS.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/kboghdady/youtubelist.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/hagezi/pro.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/oisd/big.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/fakenews/StevenBlack/hosts.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/fraud/blocklistproject/hosts.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/RPiList/Malware.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/blocklistproject/malware.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/StevenBlack/hosts.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/cert.pl/domains-hosts.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/blocklistproject/phishing.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ransomware/blocklistproject/ransomware.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/redirect/blocklistproject/redirect.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/jarelllama/scam.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/youtube-extended.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/youtube.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/instagram.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/snapchat.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/tiktok.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/RPiList/spam-mails.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt",
 ]
 
+def extract_category(url):
+    return url.split("/0.0.0.0/")[1].split("/")[0]
+
 def download_list(url):
-    # Pobiera listę z podanego URL
     try:
-        response = requests.get(url, timeout = 30)
-        response.raise_for_status()
-        return response.text.splitlines()
-    except Exception as e:
-        print(f"Błąd pobierania {url}: {e}")
+        r = requests.get(url, timeout = 30)
+        r.raise_for_status()
+        return r.text.splitlines()
+    except requests.RequestException as e:
+        print(f"BŁĄD: {e}")
         return []
 
-def clean_line(line):
-    # Czyści linię z komentarzy i białych znaków
-    line = line.strip()
-    if '#' in line:
-        line = line.split('#')[0].strip()
-    return line
-
-def is_valid_entry(line):
-    # Sprawdza czy linia jest prawidłowym wpisem
-    if not line or line.startswith('#'):
-        return False
-    # Pomija nagłówki i komentarze
-    if line.startswith('!') or line.startswith('['):
-        return False
-    # Sprawdza czy to format hosts (0.0.0.0 domena lub 127.0.0.1 domena)
-    parts = line.split()
-    if len(parts) >= 2 and parts[0] in ['0.0.0.0', '127.0.0.1']:
-        return True
-    # Sprawdza czy to sama domena
-    if len(parts) == 1 and '.' in parts[0]:
-        return True
-    return False
-
-def extract_domain(line):
-    # Wyciąga domenę z linii
-    parts = line.split()
-    if len(parts) >= 2 and parts[0] in ['0.0.0.0', '127.0.0.1']:
-        return parts[1]
-    elif len(parts) == 1:
-        return parts[0]
+def parse_domain(line):
+    if line[0] == '0':
+        return line.split()[1]
     return None
 
 def main():
-    all_domains = set()
-    stats = defaultdict(int)
-    domain_sources = defaultdict(list)
+    category_domains = defaultdict(set)
+    url_stats = []
     
-    print(f"Rozpoczynam pobieranie {len(BLOCKLIST_URLS)} list...")
+    print(f"Pobieram {len(BLOCKLIST_URLS)} list...")
     print("=" * 80)
     
     for url in BLOCKLIST_URLS:
-        print(f"\nPobieram: {url}")
+        category = extract_category(url)
+        print(f"\nURL: {url}\nKAT: [{category}]")
+        
         lines = download_list(url)
-        domains_from_this_list = set()
         
+        domains = set()
         for line in lines:
-            cleaned = clean_line(line)
-            if is_valid_entry(cleaned):
-                domain = extract_domain(cleaned)
-                if domain and domain != 'localhost':
-                    domains_from_this_list.add(domain)
-                    domain_sources[domain].append(url.split('/')[-1])  # Zapisz źródło
+            domain = parse_domain(line)
+            if domain:
+                domains.add(domain)
         
-        # Statystyki dla tej listy
-        new_domains = domains_from_this_list - all_domains
-        duplicate_domains = domains_from_this_list & all_domains
+        category_domains[category].update(domains)
+        url_stats.append((category, url.split('/')[-1], len(domains)))
         
-        print(f"\tZnaleziono domen: {len(domains_from_this_list)}")
-        print(f"\tNowych domen: {len(new_domains)}")
-        print(f"\tDuplikatów (już w liście): {len(duplicate_domains)}")
+        print(f"DOMEN: {len(domains)} | KAT_OGÓŁEM: {len(category_domains[category])}")
+    
+    print("\n" + "=" * 80 + "\nZAPISYWANIE...")
+    
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    
+    for category, domains in category_domains.items():
+        filename = f"{category}_blocklist.txt"
+        sorted_domains = sorted(domains)
         
-        stats[url] = {
-            'total': len(domains_from_this_list),
-            'new': len(new_domains),
-            'duplicates': len(duplicate_domains)
-        }
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(f"# GEN: {timestamp}\n# KAT: {category}\n# ILE: {len(sorted_domains)}\n\n")
+            for domain in sorted_domains:
+                f.write(f"0.0.0.0 {domain}\n")
         
-        all_domains.update(domains_from_this_list)
+        print(f"OK: {filename} ({len(sorted_domains)})")
     
-    print("\n" + "=" * 80)
-    print(f"PODSUMOWANIE:")
-    print(f"\tŁącznie unikalnych domen: {len(all_domains)}")
+    with open('stats.txt', 'w', encoding='utf-8') as f:
+        total = sum(len(d) for d in category_domains.values())
+        f.write(f"STATS: {timestamp}\n{'=' * 80}\n\n")
+        for cat, domains in category_domains.items():
+            f.write(f"{cat}: {len(domains)}\n")
+        f.write(f"\nRAZEM: {total}\n\nURL:\n")
+        for cat, name, count in url_stats:
+            f.write(f"{cat} | {name} | {count}\n")
     
-    # Znajdź domeny występujące w wielu listach
-    domains_in_multiple_lists = {d: sources for d, sources in domain_sources.items() if len(sources) > 1}
-    print(f"\tDomen występujących w wielu listach: {len(domains_in_multiple_lists)}")
-    
-    # Sortuj domeny alfabetycznie
-    sorted_domains = sorted(all_domains)
-    
-    # Zapisz w formacie hosts kompatybilnym z Mikrotik
-    with open('blocklist.txt', 'w') as f:
-        f.write(f"# Wygenerowano automatycznie: {datetime.now().strftime('%Y-%m-%d %H:%M:%S %Z')}\n")
-        f.write(f"# Liczba unikalnych domen: {len(sorted_domains)}\n")
-        f.write(f"# Źródła: {len(BLOCKLIST_URLS)}\n")
-        f.write("#\n")
-        f.write("# Statystyki:\n")
-        for url, stat in stats.items():
-            f.write(f"# - {url.split('/')[-1]}: {stat['total']} domen ({stat['new']} unikalnych, {stat['duplicates']} duplikatów)\n")
-        f.write("#\n\n")
-        
-        for domain in sorted_domains:
-            f.write(f"0.0.0.0 {domain}\n")
-    
-    # Zapisz statystyki do osobnego pliku
-    with open('stats.txt', 'w') as f:
-        f.write(f"Statystyka - {datetime.now().strftime('%Y-%m-%d %H:%M:%S %Z')}\n")
-        f.write("=" * 80 + "\n\n")
-        f.write(f"Liczba unikalnych domen: {len(all_domains)}\n")
-        f.write(f"Liczba domen we wszystkich listach: {len(domains_in_multiple_lists)}\n\n")
-        
-        f.write("Domeny per źródło:\n")
-        for url, stat in stats.items():
-            f.write(f"\t{url.split('/')[-1]}:\n")
-            f.write(f"\tOgólnie: {stat['total']}\n")
-            f.write(f"\tUnikalnych: {stat['new']}\n")
-            f.write(f"\tW innych listach: {stat['duplicates']}\n\n")
-    
-    print(f"\nLista zapisana jako blocklist.txt")
-    print(f"Statystyki zapisane jako stats.txt")
+    print(f"\nOK: {len(category_domains)} plików")
 
 if __name__ == "__main__":
     main()
