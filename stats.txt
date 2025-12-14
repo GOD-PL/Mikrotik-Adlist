@@ -1,62 +1,46 @@
-Statystyka - 2025-12-14 19:51:52 
+STATS: 2025-12-14 22:23:01
 ================================================================================
 
-Liczba unikalnych domen: 1579717
-Liczba domen we wszystkich listach: 282764
+ads: 376990
+extensions: 549523
+fakenews: 2188
+fraud: 196078
+malicious: 729712
+other: 220573
+phishing: 0
+ransomware: 1904
+redirect: 108684
+scam: 468727
+sites: 292
+social: 4666
+spam: 146366
+tracking-and-telemetry: 205954
 
-Domeny per źródło:
-	pro.txt:
-	Ogólnie: 345993
-	Unikalnych: 345993
-	W innych listach: 0
+RAZEM: 3011657
 
-	big.fork.txt:
-	Ogólnie: 222310
-	Unikalnych: 147458
-	W innych listach: 74852
-
-	hostnames.fork.txt:
-	Ogólnie: 250170
-	Unikalnych: 233496
-	W innych listach: 16674
-
-	GoodbyeAds.fork.txt:
-	Ogólnie: 277770
-	Unikalnych: 196560
-	W innych listach: 81210
-
-	AdguardDNS.fork.txt:
-	Ogólnie: 120888
-	Unikalnych: 27459
-	W innych listach: 93429
-
-	youtubelist.fork.txt:
-	Ogólnie: 16841
-	Unikalnych: 16841
-	W innych listach: 0
-
-	youtube.fork.txt:
-	Ogólnie: 24280
-	Unikalnych: 18335
-	W innych listach: 5945
-
-	Malware.fork.txt:
-	Ogólnie: 297488
-	Unikalnych: 263224
-	W innych listach: 34264
-
-	domains-hosts.fork.txt:
-	Ogólnie: 155404
-	Unikalnych: 66942
-	W innych listach: 88462
-
-	phishing.fork.txt:
-	Ogólnie: 190197
-	Unikalnych: 187944
-	W innych listach: 2253
-
-	tracking.fork.txt:
-	Ogólnie: 113622
-	Unikalnych: 75465
-	W innych listach: 38157
-
+URL:
+ads | youtube.fork.txt | 24280
+ads | AdguardDNS.fork.txt | 120888
+ads | GoodbyeAds.fork.txt | 277770
+ads | youtubelist.fork.txt | 16841
+extensions | adguard-host.fork.txt | 121331
+extensions | pro.fork.txt | 349677
+extensions | big.fork.txt | 222310
+fakenews | hosts.fork.txt | 2188
+fraud | hosts.fork.txt | 196078
+malicious | Malware.fork.txt | 297488
+malicious | malware.fork.txt | 435199
+other | hosts.fork.txt | 85715
+other | domains-hosts.fork.txt | 155404
+phishing | phishing.fork.txt | 0
+ransomware | ransomware.fork.txt | 1904
+redirect | redirect.fork.txt | 108684
+scam | scam.fork.txt | 468727
+sites | youtube-extended.txt | 292
+sites | youtube.txt | 282
+social | instagram.txt | 67
+social | snapchat.txt | 2269
+social | tiktok.txt | 3789
+spam | spam-mails.fork.txt | 146366
+tracking-and-telemetry | tracking.fork.txt | 113622
+tracking-and-telemetry | host.fork.txt | 106607
