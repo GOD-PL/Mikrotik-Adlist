@@ -1,4 +1,4 @@
-STATS: 2025-12-14 22:23:01
+STATS: 2025-12-14 22:26:12
 ================================================================================
 
 ads: 376990
@@ -7,7 +7,7 @@ fakenews: 2188
 fraud: 196078
 malicious: 729712
 other: 220573
-phishing: 0
+phishing: 1162856
 ransomware: 1904
 redirect: 108684
 scam: 468727
@@ -16,7 +16,7 @@ social: 4666
 spam: 146366
 tracking-and-telemetry: 205954
 
-RAZEM: 3011657
+RAZEM: 4174513
 
 URL:
 ads | youtube.fork.txt | 24280
@@ -32,7 +32,8 @@ malicious | Malware.fork.txt | 297488
 malicious | malware.fork.txt | 435199
 other | hosts.fork.txt | 85715
 other | domains-hosts.fork.txt | 155404
-phishing | phishing.fork.txt | 0
+phishing | Phishing-Angriffe.fork.txt | 973470
+phishing | phishing.fork.txt | 190197
 ransomware | ransomware.fork.txt | 1904
 redirect | redirect.fork.txt | 108684
 scam | scam.fork.txt | 468727
