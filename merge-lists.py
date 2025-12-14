@@ -45,8 +45,9 @@ def download_list(url):
         return []
 
 def parse_domain(line):
-    if line[0] == '0':
-        return line.split()[1]
+    parts = line.split()
+    if parts[0] == '0.0.0.0':
+        return parts[1]
     return None
 
 def main():
@@ -58,7 +59,7 @@ def main():
     
     for url in BLOCKLIST_URLS:
         category = extract_category(url)
-        print(f"\nURL: {url}\nKAT: [{category}]")
+        print(f"\nURL: {url}\nKATEGORIA: [{category}]")
         
         lines = download_list(url)
         
@@ -71,7 +72,7 @@ def main():
         category_domains[category].update(domains)
         url_stats.append((category, url.split('/')[-1], len(domains)))
         
-        print(f"DOMEN: {len(domains)} | KAT_OGÓŁEM: {len(category_domains[category])}")
+        print(f"DOMEN: {len(domains)} | W KATEGORII RAZEM: {len(category_domains[category])}")
     
     print("\n" + "=" * 80 + "\nZAPISYWANIE...")
     
@@ -82,11 +83,11 @@ def main():
         sorted_domains = sorted(domains)
         
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write(f"# GEN: {timestamp}\n# KAT: {category}\n# ILE: {len(sorted_domains)}\n\n")
+            f.write(f"# WYGENEROWANO: {timestamp}\n# KATEGORIA: {category}\n# RAZEM: {len(sorted_domains)}\n\n")
             for domain in sorted_domains:
                 f.write(f"0.0.0.0 {domain}\n")
         
-        print(f"OK: {filename} ({len(sorted_domains)})")
+        print(f"ZAPISANO: {filename} ({len(sorted_domains)})")
     
     with open('stats.txt', 'w', encoding='utf-8') as f:
         total = sum(len(d) for d in category_domains.values())
@@ -97,7 +98,7 @@ def main():
         for cat, name, count in url_stats:
             f.write(f"{cat} | {name} | {count}\n")
     
-    print(f"\nOK: {len(category_domains)} plików")
+    print(f"\nZAPISANO: {len(category_domains)} plików")
 
 if __name__ == "__main__":
     main()
