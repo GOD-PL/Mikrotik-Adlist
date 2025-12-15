@@ -77,9 +77,6 @@ def main():
             domain = parse_domain(line)
             if domain:
                 domains.add(domain)
-                #''' V2
-                domain_categories[domain].add(category)
-                #'''
         
         category_domains[category].update(domains)
         url_stats.append((category, url.split('/')[-1], len(domains)))
