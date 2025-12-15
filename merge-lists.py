@@ -45,11 +45,20 @@ def download_list(url):
         return []
 
 def parse_domain(line):
-    parts = line.split()
-    if parts[0] == '0.0.0.0':
-        return parts[1]
+    if line and line[0] == '0':
+        return line.split()[1]
     return None
 
+#''' V2 ONLY
+def write_blocklist(filename, domains, category, timestamp):
+    sorted_domains = sorted(domains)
+    with open(filename, 'w') as f:
+        f.write(f"# WYGENEROWANO: {timestamp}\n# KATEGORIA: {category}\n# RAZEM: {len(sorted_domains)}\n\n")
+        for domain in sorted_domains:
+            f.write(f"0.0.0.0 {domain}\n")
+    return len(sorted_domains)
+#'''
+''' V1
 def main():
     category_domains = defaultdict(set)
     url_stats = []
@@ -68,6 +77,9 @@ def main():
             domain = parse_domain(line)
             if domain:
                 domains.add(domain)
+                #''' V2
+                domain_categories[domain].add(category)
+                #'''
         
         category_domains[category].update(domains)
         url_stats.append((category, url.split('/')[-1], len(domains)))
@@ -99,6 +111,65 @@ def main():
             f.write(f"{cat} | {name} | {count}\n")
     
     print(f"\nZAPISANO: {len(category_domains)} plików")
-
+'''
+#'''V2
+def main():
+    category_domains = defaultdict(set)
+    domain_categories = defaultdict(set)  # domena -> w których kategoriach występuje
+    url_stats = []
+    
+    print(f"Pobieram {len(BLOCKLIST_URLS)} list...")
+    print("=" * 80)
+    
+    for url in BLOCKLIST_URLS:
+        category = extract_category(url)
+        print(f"\nURL: {url}\nKATEGORIA: [{category}]")
+        
+        lines = download_list(url)
+        
+        domains = set()
+        for line in lines:
+            domain = parse_domain(line)
+            if domain:
+                domains.add(domain)
+                domain_categories[domain].add(category)
+        
+        category_domains[category].update(domains)
+        url_stats.append((category, url.split('/')[-1], len(domains)))
+        
+        print(f"DOMEN: {len(domains)} | W KATEGORII RAZEM: {len(category_domains[category])}")
+    
+    # Rozdziel domeny: wspólne vs unikalne dla kategorii
+    shared_domains = {d for d, cats in domain_categories.items() if len(cats) > 1}
+    
+    print("\n" + "=" * 80 + "\nZAPISYWANIE...")
+    
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    
+    # Zapisz wspólne domeny
+    count = write_blocklist('blocklist.txt', shared_domains, 'shared', timestamp)
+    print(f"ZAPISANO: blocklist.txt ({count})")
+    
+    # Zapisz unikalne dla każdej kategorii
+    for category, domains in category_domains.items():
+        unique = domains - shared_domains
+        filename = f'{category}_blocklist.txt'
+        count = write_blocklist(filename, unique, category, timestamp)
+        print(f"ZAPISANO: {filename} ({count})")
+    
+    # Stats
+    with open('stats.txt', 'w') as f:
+        total_unique = sum(len(d - shared_domains) for d in category_domains.values())
+        f.write(f"STATS: {timestamp}\n{'=' * 80}\n\n")
+        f.write(f"SHARED: {len(shared_domains)}\n\n")
+        for cat, domains in category_domains.items():
+            unique = len(domains - shared_domains)
+            f.write(f"{cat}: {unique} (total: {len(domains)})\n")
+        f.write(f"\nUNIQUE TOTAL: {total_unique}\nALL DOMAINS: {len(domain_categories)}\n\nURL:\n")
+        for cat, name, count in url_stats:
+            f.write(f"{cat} | {name} | {count}\n")
+    
+    print(f"\nZAPISANO: {len(category_domains) + 1} plików")
+#'''
 if __name__ == "__main__":
     main()
