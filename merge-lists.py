@@ -49,7 +49,7 @@ def parse_domain(line):
         return line.split()[1]
     return None
 
-#''' V2 ONLY
+''' V2 ONLY
 def write_blocklist(filename, domains, category, timestamp):
     sorted_domains = sorted(domains)
     with open(filename, 'w') as f:
@@ -57,8 +57,8 @@ def write_blocklist(filename, domains, category, timestamp):
         for domain in sorted_domains:
             f.write(f"0.0.0.0 {domain}\n")
     return len(sorted_domains)
-#'''
-''' V1
+'''
+#''' V1
 def main():
     category_domains = defaultdict(set)
     url_stats = []
@@ -108,8 +108,8 @@ def main():
             f.write(f"{cat} | {name} | {count}\n")
     
     print(f"\nZAPISANO: {len(category_domains)} plików")
-'''
-#'''V2
+#'''
+'''V2
 def main():
     category_domains = defaultdict(set)
     domain_categories = defaultdict(set)  # domena -> w których kategoriach występuje
@@ -167,6 +167,6 @@ def main():
             f.write(f"{cat} | {name} | {count}\n")
     
     print(f"\nZAPISANO: {len(category_domains) + 1} plików")
-#'''
+'''
 if __name__ == "__main__":
     main()
