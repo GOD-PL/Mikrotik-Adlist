@@ -60,7 +60,7 @@ def main():
         count = 0
 
         for line in lines:
-            domain = parse_domain(line)
+            domain = extract_domain(line)
             if domain:
                 all_domains.add(domain)
                 count += 1
