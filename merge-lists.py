@@ -47,50 +47,51 @@ def extract_domain(line):
 
 def main():
     all_domains = set()
-    stats = {}
+    stats = []
 
-    print(f"Pobieranie {len(BLOCKLIST_URLS)} list...\n")
+    print(f"Pobieram {len(BLOCKLIST_URLS)} list...")
 
     for url in BLOCKLIST_URLS:
-        print(f"Pobieram: {url.split('/')[-1]}")
-        
+        name = url.split('/')[-1]
         lines = download_list(url)
-        list_domains = set()
-        
-        # Wyciągnij domeny z tej listy
+
+        before = len(all_domains)
+        count = 0
+
         for line in lines:
-            domain = extract_domain(line)
+            domain = parse_domain(line)
             if domain:
-                list_domains.add(domain)
-        
-        # Statystyki
-        new = list_domains - all_domains
-        duplicates = list_domains & all_domains
-        
-        stats[url] = {
-            'total': len(list_domains),
-            'new': len(new),
-            'dup': len(duplicates)
-        }
-        
-        all_domains.update(list_domains)
-        
-        print(f"  Znaleziono: {len(list_domains)}, nowych: {len(new)}, duplikatów: {len(duplicates)}\n")
+                all_domains.add(domain)
+                count += 1
 
-    with open('blocklist.txt', 'w') as f:
-        f.write(f"# Wygenerowano: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"# Unikalnych domen: {len(all_domains)}\n#\n")
-        for domain in sorted(all_domains):
+        new = len(all_domains) - before
+        dup = count - new
+        stats.append((name, count, new, dup))
+
+        print(f"{name}: {count} domen, {new} nowych, {dup} duplikatów")
+
+    # Zapisz blocklist.txt
+    sorted_domains = sorted(all_domains)
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+    with open('blocklist.txt', 'w', encoding='utf-8') as f:
+        f.write(f"# Wygenerowano: {timestamp}\n")
+        f.write(f"# Unikalnych domen: {len(sorted_domains)}\n#\n")
+        for domain in sorted_domains:
             f.write(f"0.0.0.0 {domain}\n")
+            
+    with open('stats.txt', 'w', encoding='utf-8') as f:
+        f.write(f"Statystyki - {timestamp}\n")
+        f.write("=" * 80 + "\n\n")
+        f.write(f"Unikalnych domen: {len(all_domains)}\n")
+        f.write(f"Źródeł: {len(BLOCKLIST_URLS)}\n\n")
+        f.write(f"{'Źródło':40} {'Razem':>10} {'Nowe':>10} {'Dupl.':>10}\n")
+        f.write("-" * 80 + "\n")
+        for name, total, new, dup in stats:
+            f.write(f"{name:40} {total:10} {new:10} {dup:10}\n")
 
-    with open('stats.txt', 'w') as f:
-        f.write(f"Statystyki - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"Unikalnych domen: {len(all_domains)}\n\n")
-        for url, s in stats.items():
-            f.write(f"{url.split('/')[-1]}\n")
-            f.write(f"  Ogółem: {s['total']}, nowych: {s['new']}, duplikatów: {s['dup']}\n\n")
-
-    print(f"\nGotowe! {len(all_domains)} unikalnych domen w blocklist.txt")
+    print(f"\nZapisano: blocklist.txt ({len(sorted_domains)} unikalnych domen)")
+    print("Zapisano: stats.txt")
 
 if __name__ == "__main__":
     main()
