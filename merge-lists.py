@@ -21,13 +21,13 @@ BLOCKLIST_URLS = [
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/blocklistproject/phishing.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ransomware/blocklistproject/ransomware.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/redirect/blocklistproject/redirect.fork.txt",
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/jarelllama/scam.fork.txt",
+    #"https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/jarelllama/scam.fork.txt",
     #"https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/youtube-extended.txt",
     #"https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/youtube.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/instagram.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/snapchat.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/tiktok.txt",
-    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/RPiList/spam-mails.fork.txt",
+    #"https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/RPiList/spam-mails.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt"
 ]
