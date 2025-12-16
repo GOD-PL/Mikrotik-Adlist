@@ -70,7 +70,6 @@ def main():
 
         print(f"{name}: {count} domen, {new} nowych, {dup} duplikatów")
 
-    # Zapisz blocklist.txt
     sorted_domains = sorted(all_domains)
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
