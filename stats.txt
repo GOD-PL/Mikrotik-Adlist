@@ -1,25 +1,22 @@
-STATS: 2025-12-16 03:58:00
+STATS: 2025-12-16 17:11:41
 ================================================================================
 
-SHARED: 589863
+ads: 377855
+extensions: 543473
+fakenews: 2188
+fraud: 196078
+malicious: 731969
+other: 223455
+phishing: 1168349
+ransomware: 1904
+redirect: 108684
+scam: 468727
+sites: 292
+social: 4666
+spam: 146500
+tracking-and-telemetry: 206563
 
-ads: 219490 (total: 377855)
-extensions: 269939 (total: 546967)
-fakenews: 217 (total: 2188)
-fraud: 194484 (total: 196078)
-malicious: 470391 (total: 731910)
-other: 33674 (total: 222745)
-phishing: 800625 (total: 1168349)
-ransomware: 3 (total: 1904)
-redirect: 107158 (total: 108684)
-scam: 444741 (total: 468727)
-sites: 61 (total: 292)
-social: 4495 (total: 4666)
-spam: 133954 (total: 146501)
-tracking-and-telemetry: 90574 (total: 206563)
-
-UNIQUE TOTAL: 2769806
-ALL DOMAINS: 3359669
+RAZEM: 4180703
 
 URL:
 ads | youtube.fork.txt | 24280
@@ -27,14 +24,14 @@ ads | AdguardDNS.fork.txt | 121862
 ads | GoodbyeAds.fork.txt | 277770
 ads | youtubelist.fork.txt | 16841
 extensions | adguard-host.fork.txt | 121610
-extensions | pro.fork.txt | 343342
-extensions | big.fork.txt | 260516
+extensions | pro.fork.txt | 341246
+extensions | big.fork.txt | 257689
 fakenews | hosts.fork.txt | 2188
 fraud | hosts.fork.txt | 196078
-malicious | Malware.fork.txt | 299687
+malicious | Malware.fork.txt | 299744
 malicious | malware.fork.txt | 435199
-other | hosts.fork.txt | 85715
-other | domains-hosts.fork.txt | 157579
+other | hosts.fork.txt | 86672
+other | domains-hosts.fork.txt | 157702
 phishing | Phishing-Angriffe.fork.txt | 978964
 phishing | phishing.fork.txt | 190197
 ransomware | ransomware.fork.txt | 1904
@@ -45,6 +42,6 @@ sites | youtube.txt | 282
 social | instagram.txt | 67
 social | snapchat.txt | 2269
 social | tiktok.txt | 3789
-spam | spam-mails.fork.txt | 146501
+spam | spam-mails.fork.txt | 146500
 tracking-and-telemetry | tracking.fork.txt | 113617
 tracking-and-telemetry | host.fork.txt | 107224
