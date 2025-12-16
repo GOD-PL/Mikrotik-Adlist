@@ -1,47 +1,75 @@
-STATS: 2025-12-16 17:11:41
-================================================================================
+Statystyki - 2025-12-16 18:15:00
+Unikalnych domen: 3358685
 
-ads: 377855
-extensions: 543473
-fakenews: 2188
-fraud: 196078
-malicious: 731969
-other: 223455
-phishing: 1168349
-ransomware: 1904
-redirect: 108684
-scam: 468727
-sites: 292
-social: 4666
-spam: 146500
-tracking-and-telemetry: 206563
+youtube.fork.txt
+  Ogółem: 24280, nowych: 24280, duplikatów: 0
 
-RAZEM: 4180703
+AdguardDNS.fork.txt
+  Ogółem: 121862, nowych: 121862, duplikatów: 0
 
-URL:
-ads | youtube.fork.txt | 24280
-ads | AdguardDNS.fork.txt | 121862
-ads | GoodbyeAds.fork.txt | 277770
-ads | youtubelist.fork.txt | 16841
-extensions | adguard-host.fork.txt | 121610
-extensions | pro.fork.txt | 341246
-extensions | big.fork.txt | 257689
-fakenews | hosts.fork.txt | 2188
-fraud | hosts.fork.txt | 196078
-malicious | Malware.fork.txt | 299744
-malicious | malware.fork.txt | 435199
-other | hosts.fork.txt | 86672
-other | domains-hosts.fork.txt | 157702
-phishing | Phishing-Angriffe.fork.txt | 978964
-phishing | phishing.fork.txt | 190197
-ransomware | ransomware.fork.txt | 1904
-redirect | redirect.fork.txt | 108684
-scam | scam.fork.txt | 468727
-sites | youtube-extended.txt | 292
-sites | youtube.txt | 282
-social | instagram.txt | 67
-social | snapchat.txt | 2269
-social | tiktok.txt | 3789
-spam | spam-mails.fork.txt | 146500
-tracking-and-telemetry | tracking.fork.txt | 113617
-tracking-and-telemetry | host.fork.txt | 107224
+GoodbyeAds.fork.txt
+  Ogółem: 277770, nowych: 220817, duplikatów: 56953
+
+youtubelist.fork.txt
+  Ogółem: 16841, nowych: 10896, duplikatów: 5945
+
+adguard-host.fork.txt
+  Ogółem: 121610, nowych: 5, duplikatów: 121605
+
+pro.fork.txt
+  Ogółem: 341246, nowych: 258132, duplikatów: 83114
+
+big.fork.txt
+  Ogółem: 257689, nowych: 144655, duplikatów: 113034
+
+hosts.fork.txt
+  Ogółem: 2188, nowych: 2176, duplikatów: 12
+
+hosts.fork.txt
+  Ogółem: 196078, nowych: 195686, duplikatów: 392
+
+Malware.fork.txt
+  Ogółem: 299744, nowych: 265173, duplikatów: 34571
+
+malware.fork.txt
+  Ogółem: 435199, nowych: 412967, duplikatów: 22232
+
+hosts.fork.txt
+  Ogółem: 86672, nowych: 41580, duplikatów: 45092
+
+domains-hosts.fork.txt
+  Ogółem: 157702, nowych: 63108, duplikatów: 94594
+
+Phishing-Angriffe.fork.txt
+  Ogółem: 978964, nowych: 633847, duplikatów: 345117
+
+phishing.fork.txt
+  Ogółem: 190197, nowych: 182154, duplikatów: 8043
+
+ransomware.fork.txt
+  Ogółem: 1904, nowych: 3, duplikatów: 1901
+
+redirect.fork.txt
+  Ogółem: 108684, nowych: 107171, duplikatów: 1513
+
+scam.fork.txt
+  Ogółem: 468727, nowych: 444977, duplikatów: 23750
+
+instagram.txt
+  Ogółem: 67, nowych: 66, duplikatów: 1
+
+snapchat.txt
+  Ogółem: 2269, nowych: 2189, duplikatów: 80
+
+tiktok.txt
+  Ogółem: 3789, nowych: 2257, duplikatów: 1532
+
+spam-mails.fork.txt
+  Ogółem: 146500, nowych: 134103, duplikatów: 12397
+
+tracking.fork.txt
+  Ogółem: 113617, nowych: 75300, duplikatów: 38317
+
+host.fork.txt
+  Ogółem: 107224, nowych: 15281, duplikatów: 91943
+
