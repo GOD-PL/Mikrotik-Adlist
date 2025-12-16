@@ -1,69 +1,30 @@
-Statystyki - 2025-12-16 18:31:57
+Statystyki - 2025-12-16 19:26:40
+================================================================================
+
 Unikalnych domen: 2779796
+Źródeł: 22
 
-youtube.fork.txt
-  Ogółem: 24280, nowych: 24280, duplikatów: 0
-
-AdguardDNS.fork.txt
-  Ogółem: 121862, nowych: 121862, duplikatów: 0
-
-GoodbyeAds.fork.txt
-  Ogółem: 277770, nowych: 220817, duplikatów: 56953
-
-youtubelist.fork.txt
-  Ogółem: 16841, nowych: 10896, duplikatów: 5945
-
-adguard-host.fork.txt
-  Ogółem: 121610, nowych: 5, duplikatów: 121605
-
-pro.fork.txt
-  Ogółem: 341246, nowych: 258132, duplikatów: 83114
-
-big.fork.txt
-  Ogółem: 257689, nowych: 144655, duplikatów: 113034
-
-hosts.fork.txt
-  Ogółem: 2188, nowych: 2176, duplikatów: 12
-
-hosts.fork.txt
-  Ogółem: 196078, nowych: 195686, duplikatów: 392
-
-Malware.fork.txt
-  Ogółem: 299744, nowych: 265173, duplikatów: 34571
-
-malware.fork.txt
-  Ogółem: 435199, nowych: 412967, duplikatów: 22232
-
-hosts.fork.txt
-  Ogółem: 86672, nowych: 41580, duplikatów: 45092
-
-domains-hosts.fork.txt
-  Ogółem: 157702, nowych: 63108, duplikatów: 94594
-
-Phishing-Angriffe.fork.txt
-  Ogółem: 978964, nowych: 633847, duplikatów: 345117
-
-phishing.fork.txt
-  Ogółem: 190197, nowych: 182154, duplikatów: 8043
-
-ransomware.fork.txt
-  Ogółem: 1904, nowych: 3, duplikatów: 1901
-
-redirect.fork.txt
-  Ogółem: 108684, nowych: 107171, duplikatów: 1513
-
-instagram.txt
-  Ogółem: 67, nowych: 66, duplikatów: 1
-
-snapchat.txt
-  Ogółem: 2269, nowych: 2189, duplikatów: 80
-
-tiktok.txt
-  Ogółem: 3789, nowych: 2257, duplikatów: 1532
-
-tracking.fork.txt
-  Ogółem: 113617, nowych: 75425, duplikatów: 38192
-
-host.fork.txt
-  Ogółem: 107224, nowych: 15347, duplikatów: 91877
-
+Źródło                                        Razem       Nowe      Dupl.
+--------------------------------------------------------------------------------
+youtube.fork.txt                              24280      24280          0
+AdguardDNS.fork.txt                          121862     121862          0
+GoodbyeAds.fork.txt                          277770     220817      56953
+youtubelist.fork.txt                          16841      10896       5945
+adguard-host.fork.txt                        121610          5     121605
+pro.fork.txt                                 341246     258132      83114
+big.fork.txt                                 257689     144655     113034
+hosts.fork.txt                                 2188       2176         12
+hosts.fork.txt                               196078     195686        392
+Malware.fork.txt                             299744     265173      34571
+malware.fork.txt                             435199     412967      22232
+hosts.fork.txt                                86672      41580      45092
+domains-hosts.fork.txt                       157702      63108      94594
+Phishing-Angriffe.fork.txt                   978964     633847     345117
+phishing.fork.txt                            190197     182154       8043
+ransomware.fork.txt                            1904          3       1901
+redirect.fork.txt                            108684     107171       1513
+instagram.txt                                    67         66          1
+snapchat.txt                                   2269       2189         80
+tiktok.txt                                     3789       2257       1532
+tracking.fork.txt                            113617      75425      38192
+host.fork.txt                                107224      15347      91877
