@@ -31,6 +31,7 @@ BLOCKLIST_URLS = [
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt"
 ]
+
 def download_list(url):
     try:
         response = requests.get(url, timeout=30)
