@@ -1,30 +1,30 @@
-Statystyki - 2025-12-17 03:55:30
+Statystyki - 2025-12-18 03:56:41
 ================================================================================
 
-Unikalnych domen: 2780823
+Unikalnych domen: 2776244
 Źródeł: 22
 
 Źródło                                        Razem       Nowe      Dupl.
 --------------------------------------------------------------------------------
 youtube.fork.txt                              24280      24280          0
-AdguardDNS.fork.txt                          121862     121862          0
-GoodbyeAds.fork.txt                          277770     220817      56953
+AdguardDNS.fork.txt                          119153     119153          0
+GoodbyeAds.fork.txt                          277770     223487      54283
 youtubelist.fork.txt                          16841      10896       5945
-adguard-host.fork.txt                        121610          5     121605
-pro.fork.txt                                 341641     258208      83433
-big.fork.txt                                 263921     148475     115446
+adguard-host.fork.txt                        118877          2     118875
+pro.fork.txt                                 328563     249506      79057
+big.fork.txt                                 257031     147007     110024
 hosts.fork.txt                                 2188       2176         12
-hosts.fork.txt                               196078     195686        392
-Malware.fork.txt                             300095     264788      35307
-malware.fork.txt                             435199     412910      22289
-hosts.fork.txt                                86672      39799      46873
-domains-hosts.fork.txt                       158121      62220      95901
-Phishing-Angriffe.fork.txt                   980326     634220     346106
-phishing.fork.txt                            190197     182153       8044
+hosts.fork.txt                               196078     195693        385
+Malware.fork.txt                             300095     265307      34788
+malware.fork.txt                             435199     412983      22216
+hosts.fork.txt                                86672      43670      43002
+domains-hosts.fork.txt                       158677      62495      96182
+Phishing-Angriffe.fork.txt                   980326     634530     345796
+phishing.fork.txt                            190197     182158       8039
 ransomware.fork.txt                            1904          3       1901
 redirect.fork.txt                            108684     107171       1513
 instagram.txt                                    67         66          1
 snapchat.txt                                   2269       2190         79
-tiktok.txt                                     3789       2257       1532
-tracking.fork.txt                            113617      75284      38333
-host.fork.txt                                107239      15357      91882
+tiktok.txt                                     3789       2258       1531
+tracking.fork.txt                            113614      75833      37781
+host.fork.txt                                107889      15380      92509
