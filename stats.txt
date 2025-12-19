@@ -1,30 +1,50 @@
-Statystyki - 2025-12-19 03:57:37
+STATS: 2025-12-19 22:53:52
 ================================================================================
 
-Unikalnych domen: 2778114
-Źródeł: 22
+SHARED: 590956
 
-Źródło                                        Razem       Nowe      Dupl.
---------------------------------------------------------------------------------
-youtube.fork.txt                              24280      24280          0
-AdguardDNS.fork.txt                          119153     119153          0
-GoodbyeAds.fork.txt                          277767     223484      54283
-youtubelist.fork.txt                          16841      10896       5945
-adguard-host.fork.txt                        118877          2     118875
-pro.fork.txt                                 328955     250387      78568
-big.fork.txt                                 258106     147338     110768
-hosts.fork.txt                                 2188       2176         12
-hosts.fork.txt                               196078     195694        384
-Malware.fork.txt                             300095     265424      34671
-malware.fork.txt                             435199     412986      22213
-hosts.fork.txt                                86669      43850      42819
-domains-hosts.fork.txt                       158885      62513      96372
-Phishing-Angriffe.fork.txt                   980326     634865     345461
-phishing.fork.txt                            190197     182159       8038
-ransomware.fork.txt                            1904          3       1901
-redirect.fork.txt                            108684     107171       1513
-instagram.txt                                    67         66          1
-snapchat.txt                                   2269       2190         79
-tiktok.txt                                     3789       2258       1531
-tracking.fork.txt                            113614      75825      37789
-host.fork.txt                                107887      15394      92493
+ads: 219517 (total: 377813)
+extensions: 263062 (total: 537072)
+fakenews: 219 (total: 2188)
+fraud: 194490 (total: 196078)
+malicious: 471043 (total: 732317)
+other: 34890 (total: 224506)
+phishing: 801785 (total: 1169711)
+ransomware: 3 (total: 1904)
+redirect: 107158 (total: 108684)
+scam: 444809 (total: 468727)
+sites: 61 (total: 292)
+social: 4496 (total: 4666)
+spam: 134044 (total: 146575)
+tracking-and-telemetry: 91027 (total: 207224)
+
+UNIQUE TOTAL: 2766604
+ALL DOMAINS: 3357560
+
+URL:
+ads | youtube.fork.txt | 24280
+ads | AdguardDNS.fork.txt | 119153
+ads | GoodbyeAds.fork.txt | 277767
+ads | youtubelist.fork.txt | 16841
+extensions | adguard-host.fork.txt | 119493
+extensions | pro.fork.txt | 329242
+extensions | big.fork.txt | 258105
+fakenews | hosts.fork.txt | 2188
+fraud | hosts.fork.txt | 196078
+malicious | Malware.fork.txt | 300095
+malicious | malware.fork.txt | 435199
+other | hosts.fork.txt | 86669
+other | domains-hosts.fork.txt | 158758
+phishing | Phishing-Angriffe.fork.txt | 980326
+phishing | phishing.fork.txt | 190197
+ransomware | ransomware.fork.txt | 1904
+redirect | redirect.fork.txt | 108684
+scam | scam.fork.txt | 468727
+sites | youtube-extended.txt | 292
+sites | youtube.txt | 282
+social | instagram.txt | 67
+social | snapchat.txt | 2269
+social | tiktok.txt | 3789
+spam | spam-mails.fork.txt | 146575
+tracking-and-telemetry | tracking.fork.txt | 113614
+tracking-and-telemetry | host.fork.txt | 107887
