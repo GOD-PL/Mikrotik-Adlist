@@ -2,14 +2,13 @@ name: Update Blocklist
 
 on:
     schedule:
-    # Uruchamia się codziennie o 3:00 UTC
         - cron: "0 3 * * *"
     push:
         branches: [ main ]
-    workflow_dispatch:  # Pozwala na ręczne uruchomienie
+    workflow_dispatch:
 
 permissions:
-    contents: write  # Zezwala na zapis w repozytorium
+    contents: write
 
 jobs:
     update-blocklist:
@@ -18,6 +17,8 @@ jobs:
         steps:
         - name: Checkout repository
           uses: actions/checkout@v3
+          with:
+              fetch-depth: 0
     
         - name: Setup Python
           uses: actions/setup-python@v4
@@ -37,4 +38,4 @@ jobs:
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Action"
             git add *.txt
-            git diff --quiet && git diff --staged --quiet || (git commit -m "Update blocklist - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+            git diff --quiet && git diff --staged --quiet || (git commit -m "Update blocklist - $(date +'%Y-%m-%d %H:%M:%S')" && git push --force)
