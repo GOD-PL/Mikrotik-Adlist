@@ -45,8 +45,10 @@ def download_list(url):
         return []
 
 def parse_domain(line):
-    if line and line[0] == '0':
-        return line.split()[1]
+    parts = line.strip().split()
+    if len(parts) >= 2:
+        if parts[0] == '0.0.0.0':
+            return parts[1]
     return None
 
 def write_blocklist(filename, domains, category, timestamp):
