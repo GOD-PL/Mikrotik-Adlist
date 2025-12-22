@@ -46,7 +46,7 @@ def download_list(url):
 
 def parse_domain(line):
     parts = line.strip().split()
-    if len(parts) >= 2:
+    if len(parts) > 1:
         if parts[0] == '0.0.0.0':
             return parts[1]
     return None
