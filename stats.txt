@@ -1,15 +1,15 @@
-STATS: 2025-12-22 16:55:20
+STATS: 2025-12-22 17:10:36
 ================================================================================
 
-SHARED: 415306
+SHARED: 416002
 
 ads: 219592 (total: 378439)
-extensions: 264057 (total: 539250)
+extensions: 263365 (total: 539250)
 fakenews: 212 (total: 2188)
 fraud: 194586 (total: 196078)
 malicious: 635193 (total: 733560)
-other: 34386 (total: 225873)
-phishing: 184557 (total: 356115)
+other: 39025 (total: 231214)
+phishing: 184553 (total: 356115)
 ransomware: 3 (total: 1904)
 redirect: 107169 (total: 108684)
 scam: 451798 (total: 468727)
@@ -18,8 +18,8 @@ social: 4496 (total: 4666)
 spam: 141828 (total: 146692)
 tracking-and-telemetry: 91078 (total: 207911)
 
-UNIQUE TOTAL: 2329016
-ALL DOMAINS: 2744322
+UNIQUE TOTAL: 2332959
+ALL DOMAINS: 2748961
 
 URL:
 ads | youtube.fork.txt | 24280
@@ -38,6 +38,7 @@ other | domains-hosts.fork.txt | 159221
 phishing | Phishing-Angriffe.fork.txt | 165937
 phishing | phishing.fork.txt | 190197
 ransomware | ransomware.fork.txt | 1904
+other | KADhosts.fork.txt | 57464
 redirect | redirect.fork.txt | 108684
 scam | scam.fork.txt | 468727
 sites | youtube-extended.txt | 292
