@@ -20,6 +20,7 @@ BLOCKLIST_URLS = [
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/blocklistproject/phishing.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ransomware/blocklistproject/ransomware.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/PolishFiltersTeam/KADhosts.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/redirect/blocklistproject/redirect.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/jarelllama/scam.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/youtube-extended.txt",
