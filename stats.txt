@@ -1,25 +1,25 @@
-STATS: 2025-12-25 19:19:24
+STATS: 2025-12-26 03:58:13
 ================================================================================
 
-SHARED: 417085
+SHARED: 414221
 
-ads: 220256 (total: 379534)
-extensions: 259641 (total: 535712)
-fakenews: 212 (total: 2188)
+ads: 220294 (total: 379534)
+extensions: 259852 (total: 534951)
+fakenews: 213 (total: 2188)
 fraud: 194585 (total: 196078)
-malicious: 636831 (total: 734784)
-other: 39561 (total: 229949)
-phishing: 188472 (total: 360294)
+malicious: 639857 (total: 734784)
+other: 36946 (total: 226693)
+phishing: 184504 (total: 353457)
 ransomware: 3 (total: 1904)
 redirect: 107169 (total: 108684)
-scam: 451760 (total: 468727)
+scam: 451815 (total: 468727)
 sites: 61 (total: 292)
 social: 4496 (total: 4666)
-spam: 141983 (total: 146848)
-tracking-and-telemetry: 91650 (total: 208651)
+spam: 141987 (total: 146849)
+tracking-and-telemetry: 91700 (total: 208609)
 
-UNIQUE TOTAL: 2336680
-ALL DOMAINS: 2753765
+UNIQUE TOTAL: 2333482
+ALL DOMAINS: 2747703
 
 URL:
 ads | youtube.fork.txt | 24280
@@ -27,18 +27,18 @@ ads | AdguardDNS.fork.txt | 121155
 ads | GoodbyeAds.fork.txt | 277767
 ads | youtubelist.fork.txt | 16841
 extensions | adguard-host.fork.txt | 120897
-extensions | pro.fork.txt | 328013
-extensions | big.fork.txt | 223732
+extensions | pro.fork.txt | 328050
+extensions | big.fork.txt | 223013
 fakenews | hosts.fork.txt | 2188
 fraud | hosts.fork.txt | 196078
 malicious | Malware.fork.txt | 302562
 malicious | malware.fork.txt | 435199
-other | hosts.fork.txt | 88500
-other | domains-hosts.fork.txt | 157066
-phishing | Phishing-Angriffe.fork.txt | 170129
+other | hosts.fork.txt | 86828
+other | domains-hosts.fork.txt | 156512
+phishing | Phishing-Angriffe.fork.txt | 163279
 phishing | phishing.fork.txt | 190197
 ransomware | ransomware.fork.txt | 1904
-other | KADhosts.fork.txt | 56833
+other | KADhosts.fork.txt | 55879
 redirect | redirect.fork.txt | 108684
 scam | scam.fork.txt | 468727
 sites | youtube-extended.txt | 292
@@ -46,6 +46,6 @@ sites | youtube.txt | 282
 social | instagram.txt | 67
 social | snapchat.txt | 2269
 social | tiktok.txt | 3789
-spam | spam-mails.fork.txt | 146848
+spam | spam-mails.fork.txt | 146849
 tracking-and-telemetry | tracking.fork.txt | 113677
-tracking-and-telemetry | host.fork.txt | 109252
+tracking-and-telemetry | host.fork.txt | 109201
