@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2025-12-30 04:01:54
+# WYGENEROWANO: 2025-12-30 22:56:58
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 88865
+# RAZEM: 88852
 
 0.0.0.0 0.0.0.0.com
 0.0.0.0 0.092920.com
@@ -590,6 +590,7 @@
 0.0.0.0 3995224559.brainbook-verlag.de
 0.0.0.0 3998841689.adlerapotheke.at
 0.0.0.0 3ba11288cf.delight-vr.com
+0.0.0.0 3brosstore.com
 0.0.0.0 3dp.doho.co.jp
 0.0.0.0 3etrk.com
 0.0.0.0 3gu.com
@@ -16567,7 +16568,6 @@
 0.0.0.0 chrigi.robertovicius.ch
 0.0.0.0 christybox.thankbox.com
 0.0.0.0 chrome--stats-com.webpkgcache.com
-0.0.0.0 chromecast-beacons.xumo.com
 0.0.0.0 chromedata.com
 0.0.0.0 chronischepancreatitis.nl
 0.0.0.0 chryseumtrck.com
@@ -21426,7 +21426,6 @@
 0.0.0.0 demdextest.net
 0.0.0.0 demeter2.openweb.co.za
 0.0.0.0 demirorenteknoloji.com
-0.0.0.0 demo-beacons.xumo.com
 0.0.0.0 demo.jointreport-switch.com
 0.0.0.0 demo.xinqcr.com
 0.0.0.0 demomautic.arenainteractive.fi
@@ -24492,7 +24491,6 @@
 0.0.0.0 fir4trk.com
 0.0.0.0 firefly.daroncreative.co
 0.0.0.0 fireshooters.s3.amazonaws.com
-0.0.0.0 firetv-beacons.xumo.com
 0.0.0.0 fireworkapi.com
 0.0.0.0 fireworktv.com
 0.0.0.0 firmowastrefa.pl
@@ -28396,8 +28394,6 @@
 0.0.0.0 hippobingo.com
 0.0.0.0 his.v4company.com
 0.0.0.0 hisdc.shakerandspoon.com
-0.0.0.0 hisense-beacons.xumo.com
-0.0.0.0 hisense-lite-beacons.xumo.com
 0.0.0.0 history.google.com
 0.0.0.0 hit-360.com
 0.0.0.0 hit-counter-26c68-default-rtdb.firebaseio.com
@@ -28522,6 +28518,8 @@
 0.0.0.0 hljdnserror4.wo.com.cn
 0.0.0.0 hljdnserror5.wo.com.cn
 0.0.0.0 hlq2trj.com
+0.0.0.0 hls-beacons-us.xumo.com
+0.0.0.0 hls-beacons.xumo.com
 0.0.0.0 hlwtj.com
 0.0.0.0 hm.baidu.cn
 0.0.0.0 hm.baidu.com.caiziwuyou.com
@@ -31821,9 +31819,7 @@
 0.0.0.0 lf1.mail.ru
 0.0.0.0 lfanalytics.io
 0.0.0.0 lforen-cloud-trace.com
-0.0.0.0 lg-beacons.xumo.com
 0.0.0.0 lg-india.com
-0.0.0.0 lg-lite-beacons.xumo.com
 0.0.0.0 lg2.jointreport-switch.com
 0.0.0.0 lg3-a.akamaihd.net
 0.0.0.0 lg4.jointreport-switch.com
@@ -37507,7 +37503,6 @@
 0.0.0.0 magicbet.com
 0.0.0.0 magicflute.club
 0.0.0.0 magiczenith.com
-0.0.0.0 magnavox-beacons.xumo.com
 0.0.0.0 magnum4d.my
 0.0.0.0 magnus.probioform.com
 0.0.0.0 magpie.rogerschaeli.com
@@ -47720,7 +47715,6 @@
 0.0.0.0 mobiletech.no
 0.0.0.0 mobiletracker.org
 0.0.0.0 mobilewalla.com
-0.0.0.0 mobileweb-beacons.xumo.com
 0.0.0.0 mobilexpression.com
 0.0.0.0 mobilityinsight.net
 0.0.0.0 mobiresults.net
@@ -49979,7 +49973,6 @@
 0.0.0.0 panalytics.luminatedata.com
 0.0.0.0 panalyticsgroup.com
 0.0.0.0 panamplify.com
-0.0.0.0 panasonic-beacons.xumo.com
 0.0.0.0 panda.along.video
 0.0.0.0 pandabet.net
 0.0.0.0 pandoiq.com
@@ -50262,7 +50255,6 @@
 0.0.0.0 phef6trk.com
 0.0.0.0 phenomtrackapi.phenompeople.com
 0.0.0.0 phh3dnsk.com
-0.0.0.0 philips-beacons.xumo.com
 0.0.0.0 phjml.cn
 0.0.0.0 phnx.click
 0.0.0.0 photo.0234408.cn
@@ -59137,7 +59129,6 @@
 0.0.0.0 roinattrack.com
 0.0.0.0 rojoma.com
 0.0.0.0 roktinternal.com
-0.0.0.0 roku-beacons.xumo.com
 0.0.0.0 rol.co.uk
 0.0.0.0 rolla.com
 0.0.0.0 rollbar.com
@@ -60149,6 +60140,7 @@
 0.0.0.0 salespanel.io
 0.0.0.0 salespot.pl
 0.0.0.0 salespredictiveanalytics.com
+0.0.0.0 salessteer.com
 0.0.0.0 saleswingsapp.com
 0.0.0.0 salford-systems.com
 0.0.0.0 salsa.salsalabs.com
@@ -60172,7 +60164,6 @@
 0.0.0.0 samla.vasakronan.se
 0.0.0.0 sampa.saidsom.com.br
 0.0.0.0 sams.manager-lounge.de
-0.0.0.0 samsung-beacons.xumo.com
 0.0.0.0 samsungpositioning.com
 0.0.0.0 samsungpositioning.com.cn
 0.0.0.0 samtykke.bilbasen.dk
@@ -72461,7 +72452,6 @@
 0.0.0.0 stat1-mlycdn.bmyy520.com
 0.0.0.0 stat1-mlycdn.bmyy520.com.cdn.cloudflare.net
 0.0.0.0 stat2.teamwareplaza.com
-0.0.0.0 stat3.airdroid.com
 0.0.0.0 statanalyticscdn.com
 0.0.0.0 statcloud.ru
 0.0.0.0 statcounter.hu
@@ -84848,7 +84838,6 @@
 0.0.0.0 viz-matomo.de
 0.0.0.0 vizb.ai
 0.0.0.0 vizergy.com
-0.0.0.0 vizio-beacons.xumo.com
 0.0.0.0 vj.tianji520.cn
 0.0.0.0 vj.x-ssp.com
 0.0.0.0 vjd2trk.com
@@ -85576,7 +85565,6 @@
 0.0.0.0 webstatistik-sinalco.de
 0.0.0.0 webstatistik.bg-kooperation.de
 0.0.0.0 webstatistik.bih.de
-0.0.0.0 webstatistik.uni-giessen.de
 0.0.0.0 webstats.4youcard.at
 0.0.0.0 webstats.abanet.org
 0.0.0.0 webstats.app
@@ -88083,7 +88071,6 @@
 0.0.0.0 x1.go.sohu.com
 0.0.0.0 x10.andresagui.com
 0.0.0.0 x1798.com
-0.0.0.0 x1box-beacons.xumo.com
 0.0.0.0 x2p9ytrk.com
 0.0.0.0 x61mesm2i.com
 0.0.0.0 x7gbdj8dh.com
