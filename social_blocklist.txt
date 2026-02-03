@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-02-02 04:59:48
+# WYGENEROWANO: 2026-02-03 04:49:26
 # KATEGORIA: social
-# RAZEM: 4495
+# RAZEM: 4484
 
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
@@ -1383,7 +1383,6 @@
 0.0.0.0 effect-lf.snssdk.com
 0.0.0.0 effect-lq.snssdk.com
 0.0.0.0 effect.sgsnssdk.com
-0.0.0.0 effect.snssdk.com
 0.0.0.0 effect.tiktok.com
 0.0.0.0 egg.games.snapchat.com
 0.0.0.0 elasticbeanstalk-chat-gateway234-prod.antivirus.snappublisher.snapchat.com
@@ -1505,7 +1504,6 @@
 0.0.0.0 gecko-va-useast2a.musical.ly
 0.0.0.0 gecko-va-useast2a.musical.ly.edgesuite.net
 0.0.0.0 gecko-va.byteoversea.com
-0.0.0.0 gecko-va.byteoversea.com.edgesuite.net
 0.0.0.0 gecko-va.musical.ly
 0.0.0.0 gecko-va.musical.ly.edgesuite.net
 0.0.0.0 gecko-va.snssdk.com
@@ -1598,7 +1596,6 @@
 0.0.0.0 hypstarcdn.com
 0.0.0.0 hypstarcdn.com.akamaized.net
 0.0.0.0 hypstarcdn.com.edgesuite.net
-0.0.0.0 i-hl.snssdk.com
 0.0.0.0 i-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 i-ipv6.snssdk.com
 0.0.0.0 i-lf.snssdk.com
@@ -1653,7 +1650,6 @@
 0.0.0.0 ichannel-va.tiktokv.com
 0.0.0.0 ichannel.musical.ly
 0.0.0.0 ichannel.sgsnssdk.com
-0.0.0.0 ichannel.snssdk.com
 0.0.0.0 ichannel.snssdk.com.bytedns.net
 0.0.0.0 icweiliimg1.pstatp.com
 0.0.0.0 icweiliimg1.pstatp.com.wsglb0.com
@@ -1803,7 +1799,6 @@
 0.0.0.0 is-h2.snssdk.com
 0.0.0.0 is-h2.snssdk.com.w.kunluncan.com
 0.0.0.0 is-hl-ipv6.snssdk.com
-0.0.0.0 is-hl.snssdk.com
 0.0.0.0 is-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 is-lf.snssdk.com
 0.0.0.0 is-lf.snssdk.com.w.kunluncan.com
@@ -2108,7 +2103,6 @@
 0.0.0.0 mcs-va.tiktok.com.edgekey.net
 0.0.0.0 media.tiktok.com
 0.0.0.0 mercury-vivo.snssdk.com
-0.0.0.0 mercury.snssdk.com
 0.0.0.0 messaging.snapchat.com
 0.0.0.0 metrics.snssdk.com
 0.0.0.0 mevynuwj.mzfvozqybf.com
@@ -2985,7 +2979,6 @@
 0.0.0.0 ra.byteoversea.com
 0.0.0.0 radiance.snssdk.com
 0.0.0.0 rc.snssdk.com
-0.0.0.0 reading-hl.snssdk.com
 0.0.0.0 reading.snssdk.com
 0.0.0.0 registry.snapchat.com
 0.0.0.0 rela.pc.cdn.bitgravity.com
@@ -3382,7 +3375,6 @@
 0.0.0.0 story-insights.snapchat.com
 0.0.0.0 story.snapchat.com
 0.0.0.0 storysharing.snapchat.com
-0.0.0.0 stream.snssdk.com
 0.0.0.0 studio-app.snapchat.com
 0.0.0.0 studio-crash.snapchat.com
 0.0.0.0 subscriptions-beta.snapchat.com
@@ -3675,7 +3667,6 @@
 0.0.0.0 tp-pay-test.snssdk.com
 0.0.0.0 tp-pay.byteoversea.com
 0.0.0.0 tp-pay.byteoversea.com.bytegeo.akadns.net
-0.0.0.0 tp-pay.snssdk.com
 0.0.0.0 tp-pay.snssdk.com.w.kunluncan.com
 0.0.0.0 tp-paymva.snssdk.com
 0.0.0.0 tp-paysg.snssdk.com
@@ -4111,7 +4102,6 @@
 0.0.0.0 vas-alisg21.byteoversea.com
 0.0.0.0 vas-alisg22-quic.byteoversea.com
 0.0.0.0 vas-boei18n.bytedance.net
-0.0.0.0 vas-lf-x.snssdk.com
 0.0.0.0 vas-lf-x.snssdk.com.w.kunluncan.com
 0.0.0.0 vas-maliva-useast2a.byteoversea.com
 0.0.0.0 vas-maliva.byteoversea.com
@@ -4122,7 +4112,6 @@
 0.0.0.0 vas-maliva21.byteoversea.com
 0.0.0.0 vas.isnssdk.com
 0.0.0.0 vas.sgsnssdk.com
-0.0.0.0 vas.snssdk.com
 0.0.0.0 vas.tiktokcdn.com
 0.0.0.0 vc-brain.snssdk.com
 0.0.0.0 vc-foresight.snssdk.com
