@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-02-16 05:02:11
+# WYGENEROWANO: 2026-02-17 04:55:14
 # KATEGORIA: ads
-# RAZEM: 216185
+# RAZEM: 216297
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-0-0-birkart-clws-ifs-globalmn.net.daraz.com
@@ -19530,7 +19530,6 @@
 0.0.0.0 32066.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 3207695.notify6.com
 0.0.0.0 3208.luronews.com
-0.0.0.0 3208073.notifysrv.com
 0.0.0.0 3209.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 3209.lycheenews.com
 0.0.0.0 32091.connector-qa1.marketingcloudqaapis.com
@@ -19920,7 +19919,6 @@
 0.0.0.0 3348428.notify6.com
 0.0.0.0 3349.reminews.com
 0.0.0.0 3350.reminews.com
-0.0.0.0 3351068.notify6.com
 0.0.0.0 3351068.notifysrv.com
 0.0.0.0 3351072.notify6.com
 0.0.0.0 3351072.notifysrv.com
@@ -20105,7 +20103,6 @@
 0.0.0.0 3420743.notifysrv.com
 0.0.0.0 3420755.notifysrv.com
 0.0.0.0 3420763.notifysrv.com
-0.0.0.0 3420777.notifysrv.com
 0.0.0.0 3420793.notifysrv.com
 0.0.0.0 3421.luronews.com
 0.0.0.0 3421353.notifysrv.com
@@ -20452,7 +20449,6 @@
 0.0.0.0 355684560.keywordblocks.com
 0.0.0.0 355742541.keywordblocks.com
 0.0.0.0 3557559.notify6.com
-0.0.0.0 3557821.notifysrv.com
 0.0.0.0 3558.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 3558.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 3558.sfap-qa1.marketingcloudqaops.com
@@ -21339,21 +21335,25 @@
 0.0.0.0 3964.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 3964.engine.mobileapptracking.com
 0.0.0.0 396500.ortb.adtelligent.com
+0.0.0.0 3965102.notify6.com
 0.0.0.0 3965759.fls.doubleclick.net
 0.0.0.0 397-tim-001.mktoresp.com
 0.0.0.0 3970.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 3970.lootynews.com
 0.0.0.0 39700.global.siteimproveanalytics.io
 0.0.0.0 3972-3716-5be6-a227.reporo.net
+0.0.0.0 3972246.notify6.com
 0.0.0.0 3973.luronews.com
 0.0.0.0 3973258.fls.doubleclick.net
 0.0.0.0 3974.jemonews.com
 0.0.0.0 3974.tegronews.com
 0.0.0.0 3975.luronews.com
 0.0.0.0 3975.lycheenews.com
+0.0.0.0 3975710.notify6.com
 0.0.0.0 397654-hb.adomik.com
 0.0.0.0 397704.ortb.adtelligent.com
 0.0.0.0 3979.luronews.com
+0.0.0.0 3979160.notify6.com
 0.0.0.0 397z2gcey5nklu27.assets.net.daraz.com
 0.0.0.0 397z2gcey5nklu27.net.daraz.com
 0.0.0.0 398-iba-570.mktoresp.com
@@ -21363,7 +21363,9 @@
 0.0.0.0 3982.huronews.com
 0.0.0.0 3982067.fls.doubleclick.net
 0.0.0.0 3982178.fls.doubleclick.net
+0.0.0.0 3982708.notify6.com
 0.0.0.0 3983.5clo0xmbf.com
+0.0.0.0 3984926.notify6.com
 0.0.0.0 3985.jemonews.com
 0.0.0.0 3985.reminews.com
 0.0.0.0 3987.loopanews.com
@@ -21373,6 +21375,7 @@
 0.0.0.0 3989.luronews.com
 0.0.0.0 3989692.notify6.com
 0.0.0.0 3990.luronews.com
+0.0.0.0 3990818.notify6.com
 0.0.0.0 3991.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 3991.luronews.com
 0.0.0.0 3991.reminews.com
@@ -21386,6 +21389,8 @@
 0.0.0.0 3995186.notify6.com
 0.0.0.0 399710.artb.adtelligent.com
 0.0.0.0 3997384.notify6.com
+0.0.0.0 3997386.notify6.com
+0.0.0.0 3997886.notify6.com
 0.0.0.0 3998.bealanews.com
 0.0.0.0 399846.artb.adtelligent.com
 0.0.0.0 399846.ecrtb.adtelligent.com
@@ -21491,6 +21496,7 @@
 0.0.0.0 3d-buildings.net.daraz.com
 0.0.0.0 3d.laserdesign.com
 0.0.0.0 3d.news-subscribe.com
+0.0.0.0 3d.notifysrv.com
 0.0.0.0 3d11-2d06-9461-2244.reporo.net
 0.0.0.0 3d2672504b.d1523a346a.com
 0.0.0.0 3d435cd34347e255ef1536bfbd72413c.api.appsee.com
@@ -21898,6 +21904,8 @@
 0.0.0.0 400218.ortb.adtelligent.com
 0.0.0.0 4003.reminews.com
 0.0.0.0 4003022.notify6.com
+0.0.0.0 4003752.notify6.com
+0.0.0.0 4004928.notify6.com
 0.0.0.0 4005.bestoffers-wt.com
 0.0.0.0 4005.reminews.com
 0.0.0.0 4010.sifenews.com
@@ -21912,13 +21920,17 @@
 0.0.0.0 4020.reminews.com
 0.0.0.0 40209f514e.com
 0.0.0.0 4021.luronews.com
+0.0.0.0 4021032.notify6.com
 0.0.0.0 4021800.fls.doubleclick.net
+0.0.0.0 4022280.notify6.com
+0.0.0.0 4022684.notify6.com
 0.0.0.0 4024.cosmicnewspulse.com
 0.0.0.0 402539.ortb.adtelligent.com
 0.0.0.0 4026.jemonews.com
 0.0.0.0 40276.global.siteimproveanalytics.io
 0.0.0.0 4028.deeginews.com
 0.0.0.0 4028.luronews.com
+0.0.0.0 4028412.notify6.com
 0.0.0.0 4028414.notify6.com
 0.0.0.0 402ed82a43.2e5e4544c4.com
 0.0.0.0 402f670a1b.870ea458b4.com
@@ -21927,6 +21939,7 @@
 0.0.0.0 4030.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4030.lootynews.com
 0.0.0.0 4031.connector-qa1.marketingcloudqaapis.com
+0.0.0.0 4031264.notify6.com
 0.0.0.0 4031266.notify6.com
 0.0.0.0 40314807.adoric-om.com
 0.0.0.0 4033.lookinews.com
@@ -21937,6 +21950,8 @@
 0.0.0.0 4034.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 4034988.fls.doubleclick.net
 0.0.0.0 4035140.notify6.com
+0.0.0.0 4035148.notify6.com
+0.0.0.0 4035234.notify6.com
 0.0.0.0 40354375.adoric-om.com
 0.0.0.0 4036.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4036.jumronews.com
@@ -21944,6 +21959,8 @@
 0.0.0.0 4037.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4037.ftp-qa1.marketingcloudqaops.com
 0.0.0.0 4037.jemonews.com
+0.0.0.0 4037374.notify6.com
+0.0.0.0 4037384.notify6.com
 0.0.0.0 4038.luronews.com
 0.0.0.0 404-bgd-511.mktoresp.com
 0.0.0.0 404-mobile.net.daraz.com
@@ -21957,6 +21974,8 @@
 0.0.0.0 4045.lycheenews.com
 0.0.0.0 40451343.xyz
 0.0.0.0 4046.reminews.com
+0.0.0.0 4046268.notify6.com
+0.0.0.0 4046272.notify6.com
 0.0.0.0 404715.ortb.adtelligent.com
 0.0.0.0 404730aaa7.3b9af5d326.com
 0.0.0.0 4048.5clo0xmbf.com
@@ -21965,11 +21984,13 @@
 0.0.0.0 4049.jemonews.com
 0.0.0.0 405-igq-340.mktoresp.com
 0.0.0.0 4050.luronews.com
+0.0.0.0 4050544.notify6.com
 0.0.0.0 405176.artb.adtelligent.com
 0.0.0.0 405176.ecrtb.adtelligent.com
 0.0.0.0 405176.eurtb.adtelligent.com
 0.0.0.0 4052.notify.optimizesrv.com
 0.0.0.0 4052.seponews.com
+0.0.0.0 4052808.notify6.com
 0.0.0.0 4052828.notify6.com
 0.0.0.0 4053.833enmhob.com
 0.0.0.0 4053.editor-qa1.marketingcloudqaapis.com
@@ -21981,14 +22002,20 @@
 0.0.0.0 4057.tegronews.com
 0.0.0.0 405763861.keywordblocks.com
 0.0.0.0 406-tvz-560.mktoresp.com
+0.0.0.0 4060008.notify6.com
 0.0.0.0 4061.loopanews.com
 0.0.0.0 4061366.notify6.com
+0.0.0.0 4061378.notify6.com
+0.0.0.0 4062424.notify6.com
 0.0.0.0 4062428.notify6.com
+0.0.0.0 4065194.notify6.com
+0.0.0.0 4065944.notify6.com
 0.0.0.0 4066.lookinews.com
 0.0.0.0 4066784.fls.doubleclick.net
 0.0.0.0 4067.reminews.com
 0.0.0.0 4067912.notify6.com
 0.0.0.0 4068.reminews.com
+0.0.0.0 4068856.notify6.com
 0.0.0.0 4069.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4069.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 407-phq-501.mktoresp.com
@@ -22006,6 +22033,7 @@
 0.0.0.0 408053.artb.adtelligent.com
 0.0.0.0 408053.ecrtb.adtelligent.com
 0.0.0.0 4080560.notify6.com
+0.0.0.0 4080606.notify6.com
 0.0.0.0 4080840.fls.doubleclick.net
 0.0.0.0 4080872.notify6.com
 0.0.0.0 4081.deeginews.com
@@ -22028,6 +22056,7 @@
 0.0.0.0 4092.engine.mobileapptracking.com
 0.0.0.0 4092.jemonews.com
 0.0.0.0 4093684.notify6.com
+0.0.0.0 4093704.notify6.com
 0.0.0.0 40937223.adoric-om.com
 0.0.0.0 4094.gofenews.com
 0.0.0.0 4095.jemonews.com
@@ -22094,10 +22123,12 @@
 0.0.0.0 413-fzz-310.mktoresp.com
 0.0.0.0 4131.lookinews.com
 0.0.0.0 413107.eurtb.adtelligent.com
+0.0.0.0 4131834.notify6.com
 0.0.0.0 4133.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4133.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 4133.huronews.com
 0.0.0.0 4133.reminews.com
+0.0.0.0 4133026.notify6.com
 0.0.0.0 4133110.fls.doubleclick.net
 0.0.0.0 4134.reminews.com
 0.0.0.0 4134200.fls.doubleclick.net
@@ -22108,11 +22139,14 @@
 0.0.0.0 4137.lookinews.com
 0.0.0.0 41375241.adoric-om.com
 0.0.0.0 413808761.keywordblocks.com
+0.0.0.0 4138684.notify6.com
 0.0.0.0 4140700.fls.doubleclick.net
 0.0.0.0 414073572.keywordblocks.com
 0.0.0.0 4141.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4141.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 4141.sfap-qa1.marketingcloudqaops.com
+0.0.0.0 4142702.notify6.com
+0.0.0.0 4143324.notify6.com
 0.0.0.0 41444.sites.tt.omtrdc.net
 0.0.0.0 4145.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4145.editor-qa1.marketingcloudqaapis.com
@@ -22121,11 +22155,15 @@
 0.0.0.0 414811.ortb.adtelligent.com
 0.0.0.0 414813.ortb.adtelligent.com
 0.0.0.0 4148d83c3c.f3f202565b.com
+0.0.0.0 4149204.notify6.com
 0.0.0.0 415-tru-131.mktoresp.com
 0.0.0.0 415033.eurtb.adtelligent.com
 0.0.0.0 4151.reminews.com
 0.0.0.0 415120.ortb.adtelligent.com
+0.0.0.0 4151384.notify6.com
 0.0.0.0 4152.reminews.com
+0.0.0.0 4152316.notify6.com
+0.0.0.0 4152328.notify6.com
 0.0.0.0 4153216.notify6.com
 0.0.0.0 415592201.keywordblocks.com
 0.0.0.0 415677.com
@@ -22133,6 +22171,7 @@
 0.0.0.0 4157.jemonews.com
 0.0.0.0 415757512.keywordblocks.com
 0.0.0.0 416-ldx-286.mktoresp.com
+0.0.0.0 4160048.notify6.com
 0.0.0.0 416106221.keywordblocks.com
 0.0.0.0 4162.reminews.com
 0.0.0.0 4162032.notify6.com
@@ -22148,6 +22187,7 @@
 0.0.0.0 4164d5b6eb.com
 0.0.0.0 4165.deeginews.com
 0.0.0.0 41655245.adoric-om.com
+0.0.0.0 4165670.notify6.com
 0.0.0.0 416593.ortb.adtelligent.com
 0.0.0.0 4166040.notify6.com
 0.0.0.0 416787.ortb.adtelligent.com
@@ -22161,6 +22201,7 @@
 0.0.0.0 4172.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4172.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 4172.groovinews.com
+0.0.0.0 4172026.notify6.com
 0.0.0.0 4172200.fls.doubleclick.net
 0.0.0.0 4173.reminews.com
 0.0.0.0 4173271.fls.doubleclick.net
@@ -22188,6 +22229,9 @@
 0.0.0.0 4187.lootynews.com
 0.0.0.0 4187.sifenews.com
 0.0.0.0 4189.reminews.com
+0.0.0.0 4189332.notify6.com
+0.0.0.0 4189910.notify6.com
+0.0.0.0 4189916.notify6.com
 0.0.0.0 4190.huronews.com
 0.0.0.0 4191.jemonews.com
 0.0.0.0 4191.km14hkusz.com
@@ -22231,6 +22275,7 @@
 0.0.0.0 4211.luronews.com
 0.0.0.0 421126251.keywordblocks.com
 0.0.0.0 4212642.notify6.com
+0.0.0.0 4213112.notify6.com
 0.0.0.0 4215.luronews.com
 0.0.0.0 4215.reminews.com
 0.0.0.0 4217.shockynews.com
@@ -22238,6 +22283,7 @@
 0.0.0.0 4218500.fls.doubleclick.net
 0.0.0.0 4219.bealanews.com
 0.0.0.0 421f03c2e5.46acd35e41.com
+0.0.0.0 4220540.notify6.com
 0.0.0.0 422060.ortb.adtelligent.com
 0.0.0.0 422063.ortb.adtelligent.com
 0.0.0.0 4222.freshalldaynews.com
@@ -22245,7 +22291,9 @@
 0.0.0.0 4224.reminews.com
 0.0.0.0 422437.artb.adtelligent.com
 0.0.0.0 422437.eurtb.adtelligent.com
+0.0.0.0 4224486.notify6.com
 0.0.0.0 4225.tegronews.com
+0.0.0.0 4225290.notify6.com
 0.0.0.0 422662952.keywordblocks.com
 0.0.0.0 422680d506.7d2d5e588a.com
 0.0.0.0 4227.5clo0xmbf.com
@@ -22255,6 +22303,7 @@
 0.0.0.0 423.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 423.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 4230.5clo0xmbf.com
+0.0.0.0 4230500.notify6.com
 0.0.0.0 4231.reminews.com
 0.0.0.0 4231372.notify6.com
 0.0.0.0 4232.reminews.com
@@ -22280,6 +22329,8 @@
 0.0.0.0 4240.reminews.com
 0.0.0.0 4240528.fls.doubleclick.net
 0.0.0.0 4241.prod.cloud.prod.cloud.tt.omtrdc.net
+0.0.0.0 4241048.notify6.com
+0.0.0.0 4241052.notify6.com
 0.0.0.0 4241738.fls.doubleclick.net
 0.0.0.0 4242.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4242.editor-qa1.marketingcloudqaapis.com
@@ -22287,6 +22338,7 @@
 0.0.0.0 4242400.fls.doubleclick.net
 0.0.0.0 4243400.fls.doubleclick.net
 0.0.0.0 424347201.keywordblocks.com
+0.0.0.0 4243868.notify6.com
 0.0.0.0 4244210.fls.doubleclick.net
 0.0.0.0 42444.engine.mobileapptracking.com
 0.0.0.0 42444.tlnk.io
@@ -22316,6 +22368,7 @@
 0.0.0.0 4260.bealanews.com
 0.0.0.0 4260058.fls.doubleclick.net
 0.0.0.0 426020297.keywordblocks.com
+0.0.0.0 4260738.notify6.com
 0.0.0.0 42611.global.siteimproveanalytics.io
 0.0.0.0 4262.lookinews.com
 0.0.0.0 426280721.keywordblocks.com
@@ -22333,11 +22386,13 @@
 0.0.0.0 4269.reminews.com
 0.0.0.0 426b5ba3f1.c5cdfd1601.com
 0.0.0.0 4270200.fls.doubleclick.net
+0.0.0.0 4270606.notify6.com
 0.0.0.0 4270713.fls.doubleclick.net
 0.0.0.0 4270844.fls.doubleclick.net
 0.0.0.0 4271.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 42728fnuekmxusjv.agent.datadoghq.com
 0.0.0.0 42740729.adoric-om.com
+0.0.0.0 4274618.notify6.com
 0.0.0.0 4275.jemonews.com
 0.0.0.0 42777217.adoric-om.com
 0.0.0.0 4278650.fls.doubleclick.net
@@ -22360,6 +22415,7 @@
 0.0.0.0 429.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 429.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 429055122.keywordblocks.com
+0.0.0.0 4290976.notify6.com
 0.0.0.0 42916498.adoric-om.com
 0.0.0.0 4292.4puuqeh41.com
 0.0.0.0 429374912.keywordblocks.com
@@ -22370,6 +22426,7 @@
 0.0.0.0 4296.reminews.com
 0.0.0.0 429614c72b.153acc74fd.com
 0.0.0.0 429661571.keywordblocks.com
+0.0.0.0 4298194.notify6.com
 0.0.0.0 429993012.keywordblocks.com
 0.0.0.0 42a63fe825.5edc9c9218.com
 0.0.0.0 42ce2b0955.com
@@ -22403,6 +22460,7 @@
 0.0.0.0 432-kyj-480.mktoresp.com
 0.0.0.0 432.guesswhatnews.com
 0.0.0.0 4321.net.daraz.com
+0.0.0.0 4322316.notify6.com
 0.0.0.0 4323.jemonews.com
 0.0.0.0 4323.reminews.com
 0.0.0.0 4324895.fls.doubleclick.net
@@ -22411,6 +22469,8 @@
 0.0.0.0 4328110.fls.doubleclick.net
 0.0.0.0 432813.global.siteimproveanalytics.io
 0.0.0.0 432825806.search.media.net
+0.0.0.0 4329294.notify6.com
+0.0.0.0 4329306.notify6.com
 0.0.0.0 433-oeo-111.mktoresp.com
 0.0.0.0 433-vpy-330.mktoresp.com
 0.0.0.0 433.connector-qa1.marketingcloudqaapis.com
@@ -22480,6 +22540,7 @@
 0.0.0.0 436281632.keywordblocks.com
 0.0.0.0 4363.reminews.com
 0.0.0.0 4363210.fls.doubleclick.net
+0.0.0.0 4365744.notify6.com
 0.0.0.0 4366754.fls.doubleclick.net
 0.0.0.0 4367.5clo0xmbf.com
 0.0.0.0 43681e8af5.dde2488558.com
@@ -22516,6 +22577,7 @@
 0.0.0.0 438803552.keywordblocks.com
 0.0.0.0 438901212.keywordblocks.com
 0.0.0.0 4389371.fls.doubleclick.net
+0.0.0.0 4389756.notify6.com
 0.0.0.0 439-esm-690.mktoresp.com
 0.0.0.0 4390419.fls.doubleclick.net
 0.0.0.0 4390425.fls.doubleclick.net
@@ -22524,8 +22586,10 @@
 0.0.0.0 439551611.keywordblocks.com
 0.0.0.0 4395525.fls.doubleclick.net
 0.0.0.0 439604.adoric-om.com
+0.0.0.0 4399198.notify6.com
 0.0.0.0 4399660.fls.doubleclick.net
 0.0.0.0 4399750608.log.optimizely.com
+0.0.0.0 4399896.notify6.com
 0.0.0.0 43a8f5806e.46bd8e62a2.com
 0.0.0.0 43b71e837e.d8388cd984.com
 0.0.0.0 43c.tt.tt.omtrdc.net
@@ -22554,6 +22618,7 @@
 0.0.0.0 4406fd3cbb.fad1ef26a9.com
 0.0.0.0 4407.luronews.com
 0.0.0.0 4407078.fls.doubleclick.net
+0.0.0.0 4407878.notify6.com
 0.0.0.0 4408.jemonews.com
 0.0.0.0 440870.ortb.adtelligent.com
 0.0.0.0 4409.sock-qa1.marketingcloudqaops.com
@@ -22571,6 +22636,7 @@
 0.0.0.0 4420.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 4421.l5eamr17d.com
 0.0.0.0 4421.lookinews.com
+0.0.0.0 4421184.notify6.com
 0.0.0.0 442192460.keywordblocks.com
 0.0.0.0 4423.jemonews.com
 0.0.0.0 4424.deeginews.com
@@ -22634,6 +22700,7 @@
 0.0.0.0 4458400.fls.doubleclick.net
 0.0.0.0 446-ref-821.mktoresp.com
 0.0.0.0 4462.shockynews.com
+0.0.0.0 4465254.notify6.com
 0.0.0.0 4466.lootynews.com
 0.0.0.0 446662684.keywordblocks.com
 0.0.0.0 4469.ogrt80r65.com
@@ -22756,6 +22823,7 @@
 0.0.0.0 4523.jemonews.com
 0.0.0.0 4523.lookinews.com
 0.0.0.0 4524.editor-qa1.marketingcloudqaapis.com
+0.0.0.0 4527824.notify6.com
 0.0.0.0 4528.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4528.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 4528203.group3.sites.tt.omtrdc.net
@@ -22844,6 +22912,7 @@
 0.0.0.0 458538611.keywordblocks.com
 0.0.0.0 4586.engine.mobileapptracking.com
 0.0.0.0 4586.notify.optimizesrv.com
+0.0.0.0 4587228.notify6.com
 0.0.0.0 4587320.fls.doubleclick.net
 0.0.0.0 4587700.fls.doubleclick.net
 0.0.0.0 4588.connector-qa1.marketingcloudqaapis.com
@@ -22861,6 +22930,7 @@
 0.0.0.0 459505.ortb.adtelligent.com
 0.0.0.0 45972375.adoric-om.com
 0.0.0.0 4598379.fls.doubleclick.net
+0.0.0.0 4598410.notify6.com
 0.0.0.0 4598706.notify6.com
 0.0.0.0 4599.jemonews.com
 0.0.0.0 45ankrn8ksuts3b3.authenticate.net.daraz.com
@@ -22911,7 +22981,6 @@
 0.0.0.0 4618627.fls.doubleclick.net
 0.0.0.0 46188081.adoric-om.com
 0.0.0.0 461914.ortb.adtelligent.com
-0.0.0.0 4619653.fls.doubleclick.net
 0.0.0.0 462.luronews.com
 0.0.0.0 4620.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 462251252.keywordblocks.com
@@ -23004,6 +23073,7 @@
 0.0.0.0 4682.jumronews.com
 0.0.0.0 4682.lookinews.com
 0.0.0.0 4682.luronews.com
+0.0.0.0 4682394.notify6.com
 0.0.0.0 46825276.adoric-om.com
 0.0.0.0 4683316.fls.doubleclick.net
 0.0.0.0 4684.connector-qa1.marketingcloudqaapis.com
@@ -23164,6 +23234,7 @@
 0.0.0.0 4793.reminews.com
 0.0.0.0 4793913.fls.doubleclick.net
 0.0.0.0 4795274.notify6.com
+0.0.0.0 4795280.notify6.com
 0.0.0.0 4795947.fls.doubleclick.net
 0.0.0.0 4796.jemonews.com
 0.0.0.0 4796113.fls.doubleclick.net
@@ -23194,6 +23265,7 @@
 0.0.0.0 4808150.fls.doubleclick.net
 0.0.0.0 4808196.fls.doubleclick.net
 0.0.0.0 480926c626.5661c81449.com
+0.0.0.0 4809426.notify6.com
 0.0.0.0 4810105.fls.doubleclick.net
 0.0.0.0 481168072.keywordblocks.com
 0.0.0.0 4813.deeginews.com
@@ -23297,6 +23369,7 @@
 0.0.0.0 489-pqj-121.mktoresp.com
 0.0.0.0 4893.reminews.com
 0.0.0.0 4896.groovinews.com
+0.0.0.0 4896576.notify6.com
 0.0.0.0 4896800.fls.doubleclick.net
 0.0.0.0 4898.jemonews.com
 0.0.0.0 4898100.fls.doubleclick.net
@@ -23341,6 +23414,7 @@
 0.0.0.0 4914.gofenews.com
 0.0.0.0 4914.jemonews.com
 0.0.0.0 4917131.fls.doubleclick.net
+0.0.0.0 4917212.notify6.com
 0.0.0.0 4918300.fls.doubleclick.net
 0.0.0.0 4919.jemonews.com
 0.0.0.0 4919.reminews.com
@@ -24520,6 +24594,7 @@
 0.0.0.0 5083110.fls.doubleclick.net
 0.0.0.0 5084.5clo0xmbf.com
 0.0.0.0 5084.jemonews.com
+0.0.0.0 5085594.notify6.com
 0.0.0.0 5088.gofenews.com
 0.0.0.0 509-aps-230.mktoresp.com
 0.0.0.0 509.lycheenews.com
@@ -27144,7 +27219,6 @@
 0.0.0.0 5bdb6e0e40.com
 0.0.0.0 5bdc059842.com
 0.0.0.0 5be16.v.fwmrm.net
-0.0.0.0 5bec9.v.fwmrm.net
 0.0.0.0 5bf177fbac.938b97e5ba.com
 0.0.0.0 5bljvf000ua3rrd7.net.daraz.com
 0.0.0.0 5bljvf000ua3rrd7.partner.net.daraz.com
@@ -27161,6 +27235,7 @@
 0.0.0.0 5c5991d906.9a857c6721.com
 0.0.0.0 5c6f2.v.fwmrm.net
 0.0.0.0 5c7d9.v.fwmrm.net
+0.0.0.0 5c910.v.fwmrm.net
 0.0.0.0 5c94f.v.fwmrm.net
 0.0.0.0 5ca90.v.fwmrm.net
 0.0.0.0 5cc3ac02.xyz
@@ -30576,6 +30651,7 @@
 0.0.0.0 7293793.collect.igodigital.com
 0.0.0.0 7294204.collect.igodigital.com
 0.0.0.0 7294218.collect.igodigital.com
+0.0.0.0 7294568.collect.igodigital.com
 0.0.0.0 7294716.collect.igodigital.com
 0.0.0.0 7294747.collect.igodigital.com
 0.0.0.0 7294770.collect.igodigital.com
@@ -31003,7 +31079,6 @@
 0.0.0.0 7468.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 7468.lootynews.com
 0.0.0.0 7468.tegronews.com
-0.0.0.0 7468.v.fwmrm.net
 0.0.0.0 746a-12e2-b984-05b7.reporo.net
 0.0.0.0 747-wtc-401.mktoresp.com
 0.0.0.0 7470.luronews.com
@@ -32212,6 +32287,7 @@
 0.0.0.0 8063.5clo0xmbf.com
 0.0.0.0 8063.bealanews.com
 0.0.0.0 8067.reminews.com
+0.0.0.0 8068700.fls.doubleclick.net
 0.0.0.0 8070.guesswhatnews.com
 0.0.0.0 8070.lookinews.com
 0.0.0.0 8071.luronews.com
@@ -35315,6 +35391,7 @@
 0.0.0.0 a.berunews.com
 0.0.0.0 a.beta.tribalfusion.com
 0.0.0.0 a.billing-ns.emailvision.net.daraz.com
+0.0.0.0 a.bizonads-ssp.com
 0.0.0.0 a.bosda.xyz
 0.0.0.0 a.broim.xyz
 0.0.0.0 a.buicks.xyz
@@ -36882,6 +36959,7 @@
 0.0.0.0 abmismagiusom.com
 0.0.0.0 abmxxd.printoclock.com
 0.0.0.0 abnaki.tt.omtrdc.net
+0.0.0.0 abnamro.tt.omtrdc.net
 0.0.0.0 abnegationdenoteimprobable.com
 0.0.0.0 abnehmen.de.intellitxt.com
 0.0.0.0 abniorant.com
@@ -37004,7 +37082,6 @@
 0.0.0.0 acaa-va5.everesttech.net
 0.0.0.0 acaciaarraydebate.com
 0.0.0.0 academico.b2bmktg.com
-0.0.0.0 academicvast.com
 0.0.0.0 academy-pardot.marcomm.wharton.upenn.edu
 0.0.0.0 academy-test.addthis.com
 0.0.0.0 academy.avadacom.com
@@ -37342,6 +37419,7 @@
 0.0.0.0 acsam-relay.ivwonline.org
 0.0.0.0 acsegt86.shop
 0.0.0.0 acsurvey.brightroll.com
+0.0.0.0 acswso.tt.omtrdc.net
 0.0.0.0 act.change.org
 0.0.0.0 act.ropescoursesinc.com
 0.0.0.0 act1.apusapps.com
@@ -39476,6 +39554,8 @@
 0.0.0.0 aet.trafficjunky.net
 0.0.0.0 aetgjds.com
 0.0.0.0 aetna-analytics.user-segment.mathtag.com
+0.0.0.0 aetna.d1.sc.omtrdc.net
+0.0.0.0 aetna.tt.omtrdc.net
 0.0.0.0 aetuim-uncategorized.t.domdex.com
 0.0.0.0 aeucyo.xyz
 0.0.0.0 aevxntibcqirvj0t.net.daraz.com
@@ -40877,7 +40957,6 @@
 0.0.0.0 alocalhosthorization.summer.net.daraz.com
 0.0.0.0 aloneshapeless.com
 0.0.0.0 alongsidelizard.com
-0.0.0.0 alont.xyz
 0.0.0.0 aloofformidabledistant.com
 0.0.0.0 aloofsunstrokecircular.com
 0.0.0.0 alopezie.de.intellitxt.com
@@ -41093,10 +41172,13 @@
 0.0.0.0 americaninternationa.tt.omtrdc.net
 0.0.0.0 americanlandmark.actonservice.com
 0.0.0.0 americanmade.silfabsolar.com
+0.0.0.0 americansocietyofcli.tt.omtrdc.net
 0.0.0.0 americanswan-com.b.appier.net
 0.0.0.0 americas.bystronic.com
 0.0.0.0 americas.fptsoftware.com
+0.0.0.0 amerigaspropanelp.tt.omtrdc.net
 0.0.0.0 amerika-forum.de.intellitxt.com
+0.0.0.0 ameriprisefinancial.tt.omtrdc.net
 0.0.0.0 amerivalue.7eer.net
 0.0.0.0 amersfoort.treker.fun
 0.0.0.0 amex.activate.ensighten.com
@@ -41310,6 +41392,7 @@
 0.0.0.0 analytics-bos-nba.yinzcam.com
 0.0.0.0 analytics-bre-fa.yinzcam.com
 0.0.0.0 analytics-breeders-venues.yinzcam.com
+0.0.0.0 analytics-buf-nfl.yinzcam.com
 0.0.0.0 analytics-cao-ten.yinzcam.com
 0.0.0.0 analytics-car-nhl.yinzcam.com
 0.0.0.0 analytics-cbj-nhl.yinzcam.com
@@ -41616,6 +41699,7 @@
 0.0.0.0 animeconsortiumjapan.hb.omtrdc.net
 0.0.0.0 animemanga.de.intellitxt.com
 0.0.0.0 animoseelegy.top
+0.0.0.0 anixterinc.tt.omtrdc.net
 0.0.0.0 anjdwmq.xyz
 0.0.0.0 anjneia.xyz
 0.0.0.0 anketa.rciadventure.com
@@ -43368,6 +43452,7 @@
 0.0.0.0 araman.kameleoon.com
 0.0.0.0 aramark.evergage.com
 0.0.0.0 aramark.evyy.net
+0.0.0.0 aramarkservices.tt.omtrdc.net
 0.0.0.0 arangod.mboxedge38.tt.omtrdc.net
 0.0.0.0 aranzulla-d.openx.net
 0.0.0.0 ararat.treker.fun
@@ -44084,6 +44169,7 @@
 0.0.0.0 athbzeobts.com
 0.0.0.0 atheismperplex.com
 0.0.0.0 athena.mtb.tt.omtrdc.net
+0.0.0.0 athenahealth.tt.omtrdc.net
 0.0.0.0 athentech.evyy.net
 0.0.0.0 atherthishinhe.com
 0.0.0.0 athitmontopon.com
@@ -45037,13 +45123,13 @@
 0.0.0.0 avir28.com
 0.0.0.0 avis.cz.ssl.sc.tt.omtrdc.net
 0.0.0.0 avis.evergage.com
-0.0.0.0 avisbudgetgroup.tt.omtrdc.net
 0.0.0.0 avivacanada.demdex.net
 0.0.0.0 avivacanada.tt.omtrdc.net
 0.0.0.0 avivafrance.demdex.net
 0.0.0.0 avivafrance.tt.omtrdc.net
 0.0.0.0 avivaireland.tt.omtrdc.net
 0.0.0.0 avivasingapore.tt.omtrdc.net
+0.0.0.0 avivauk.tt.omtrdc.net
 0.0.0.0 avjywldfaa.xyz
 0.0.0.0 avkktuywj.xyz
 0.0.0.0 avnet.tt.omtrdc.net
@@ -45851,7 +45937,6 @@
 0.0.0.0 bambooops-ns2.viviotech.net.daraz.com
 0.0.0.0 bamboopatner.net.daraz.com
 0.0.0.0 bamtech-d.openx.net
-0.0.0.0 banalbjar.com
 0.0.0.0 banalrestart.com
 0.0.0.0 banana.rciadventure.com
 0.0.0.0 banawgaht.com
@@ -45896,6 +45981,7 @@
 0.0.0.0 bankofthewest.tt.omtrdc.net
 0.0.0.0 bankrakyat.sc.tt.omtrdc.net
 0.0.0.0 bankwest.tt.omtrdc.net
+0.0.0.0 bankwithunited.tt.omtrdc.net
 0.0.0.0 banner-link.com.br
 0.0.0.0 banner-mtb.dspcdn.com
 0.0.0.0 banner.adriver.ru
@@ -46287,6 +46373,7 @@
 0.0.0.0 bd.kube-partner.net.daraz.com
 0.0.0.0 bd.moatads.com
 0.0.0.0 bd.overpetleersia.com
+0.0.0.0 bd.tt.omtrdc.net
 0.0.0.0 bd.vungle.com
 0.0.0.0 bd0dc.v.fwmrm.net
 0.0.0.0 bd2.guancha.cn
@@ -47191,7 +47278,6 @@
 0.0.0.0 bespakerubbles.com
 0.0.0.0 bespoke.evyy.net
 0.0.0.0 best-clic.adk2x.com
-0.0.0.0 best-prize.life
 0.0.0.0 best-seat.pro
 0.0.0.0 best.alphonso.tv
 0.0.0.0 best.biolifesupplement.com
@@ -47702,6 +47788,7 @@
 0.0.0.0 biopsyheadless.com
 0.0.0.0 biopsyintruder.com
 0.0.0.0 biopyrenees.ubilab.me
+0.0.0.0 biorad.tt.omtrdc.net
 0.0.0.0 bioscience.biomb.ca
 0.0.0.0 biospace.evergage.com
 0.0.0.0 biotimemm.teva.0-www-sciencedirect-com.net.daraz.com
@@ -48023,6 +48110,7 @@
 0.0.0.0 blue.soju.openx.net
 0.0.0.0 blueberryastronomy.com
 0.0.0.0 bluecoda.evergage.com
+0.0.0.0 bluecross.tt.omtrdc.net
 0.0.0.0 bluecrossblueshieldm.tt.omtrdc.net
 0.0.0.0 bluedata.actonservice.com
 0.0.0.0 blueeagle.smaato.net
@@ -48037,6 +48125,7 @@
 0.0.0.0 bluelink-parenting.t.domdex.com
 0.0.0.0 bluelink-pets.t.domdex.com
 0.0.0.0 bluelink-travel.t.domdex.com
+0.0.0.0 bluemercury.tt.omtrdc.net
 0.0.0.0 bluepages.smaato.net
 0.0.0.0 blueprints.retireearly.ie
 0.0.0.0 blueprints.thefire.ie
@@ -48417,6 +48506,7 @@
 0.0.0.0 bot.outbrain.com
 0.0.0.0 bot.qa.pleasedonotblockme.com
 0.0.0.0 bot.trackall.site
+0.0.0.0 bot.tt.omtrdc.net
 0.0.0.0 botaptipo.net
 0.0.0.0 botdev.c.appier.net
 0.0.0.0 botevgrad.treker.fun
@@ -48715,7 +48805,6 @@
 0.0.0.0 briefcasebotany.com
 0.0.0.0 briefcasehq.pxf.io
 0.0.0.0 briefengineer.pro
-0.0.0.0 briefext.com
 0.0.0.0 briefredos.click
 0.0.0.0 briesziphius.com
 0.0.0.0 briexp.traningspartner.se
@@ -48723,6 +48812,7 @@
 0.0.0.0 briggsstratton.tt.omtrdc.net
 0.0.0.0 brightedge.net.daraz.com
 0.0.0.0 brightenpleasurejest.com
+0.0.0.0 brighthousefinancial.tt.omtrdc.net
 0.0.0.0 brighthub-uncategorized.t.domdex.com
 0.0.0.0 brightpathway.live
 0.0.0.0 brightroll-bid-west.dotomi.com
@@ -48837,6 +48927,7 @@
 0.0.0.0 brunetteattendanceawful.com
 0.0.0.0 bruno.agent.datadoghq.com
 0.0.0.0 bruno.webspecmail.com
+0.0.0.0 brunswickcorporation.tt.omtrdc.net
 0.0.0.0 bruscharogers.top
 0.0.0.0 brusmedia.g2afse.com
 0.0.0.0 brutvncv.top
@@ -48900,6 +48991,7 @@
 0.0.0.0 bt3.marinsm.com
 0.0.0.0 btb.adx1.com
 0.0.0.0 btbmentoring.connectr.co.uk
+0.0.0.0 btbusiness.tt.omtrdc.net
 0.0.0.0 btbzz.ymaqdv.bapb.gdn
 0.0.0.0 btc440.top
 0.0.0.0 btfjjwt.xyz
@@ -49291,7 +49383,6 @@
 0.0.0.0 byttliv.jipstaas.website
 0.0.0.0 bytupkvc.xyz
 0.0.0.0 byub.tt.omtrdc.net
-0.0.0.0 byubroadcasting.hb.omtrdc.net
 0.0.0.0 byuebq.monevo.co.uk
 0.0.0.0 byunsh.novasol.pl
 0.0.0.0 byuwkbv.top
@@ -49890,6 +49981,7 @@
 0.0.0.0 camberchimp.com
 0.0.0.0 cambridgecollege.evergage.com
 0.0.0.0 cambridgeinadmissibleapathetic.com
+0.0.0.0 cambridgeinvestmentr.tt.omtrdc.net
 0.0.0.0 cambrige.trekkeeee.space
 0.0.0.0 camelcappuccino.com
 0.0.0.0 camelot.d3.sc.omtrdc.net
@@ -50343,6 +50435,7 @@
 0.0.0.0 catering.movingvenue.com
 0.0.0.0 cateringblizzardburn.com
 0.0.0.0 caterpilla.ibon.live
+0.0.0.0 caterpillarsigns.tt.omtrdc.net
 0.0.0.0 catfish.lucalabs.com
 0.0.0.0 catharskeek.top
 0.0.0.0 cathayunitedbank.tt.omtrdc.net
@@ -51203,6 +51296,7 @@
 0.0.0.0 centredrag.com
 0.0.0.0 centrenicelyteaching.com
 0.0.0.0 centrex.adx1.com
+0.0.0.0 centricaplc.tt.omtrdc.net
 0.0.0.0 centurybending.com
 0.0.0.0 centurylink.inq.com
 0.0.0.0 centurylink.touchcommerce.com
@@ -51250,7 +51344,6 @@
 0.0.0.0 ceskedrahy01.webtrekk.net
 0.0.0.0 cessationcorrectmist.com
 0.0.0.0 cessationrepulsivehumid.com
-0.0.0.0 cetelem.d3.sc.omtrdc.net
 0.0.0.0 cetelemportugal.tt.omtrdc.net
 0.0.0.0 cetelemspain.tt.omtrdc.net
 0.0.0.0 cetlwsf.top
@@ -51877,9 +51970,11 @@
 0.0.0.0 christeningfathom.com
 0.0.0.0 christeningscholarship.com
 0.0.0.0 christianscience.tt.omtrdc.net
+0.0.0.0 christiesinc.tt.omtrdc.net
 0.0.0.0 christof.net.daraz.com
 0.0.0.0 christopher-and-banks.7eer.net
 0.0.0.0 christushealthsjc.d1.sc.omtrdc.net
+0.0.0.0 chrobinson.tt.omtrdc.net
 0.0.0.0 chroenl.com
 0.0.0.0 chrolae.com
 0.0.0.0 chron.moengage.com
@@ -51891,6 +51986,7 @@
 0.0.0.0 chsdwjes.xyz
 0.0.0.0 chshop-www.partner.net.daraz.com
 0.0.0.0 chtwrth2.112.2o7.net
+0.0.0.0 chubb.tt.omtrdc.net
 0.0.0.0 chubbymess.pro
 0.0.0.0 chubclub.chubbiesshorts.com
 0.0.0.0 chubsxmg.xyz
@@ -51971,6 +52067,7 @@
 0.0.0.0 ci58.actonsoftware.com
 0.0.0.0 ci59.actonsoftware.com
 0.0.0.0 ci60.actonsoftware.com
+0.0.0.0 ci61.actonsoftware.com
 0.0.0.0 ci62.actonsoftware.com
 0.0.0.0 ci63.actonsoftware.com
 0.0.0.0 ci64.actonsoftware.com
@@ -57352,6 +57449,7 @@
 0.0.0.0 content.espace-client.hellobank.fr
 0.0.0.0 content.etoa.org
 0.0.0.0 content.exclaimer.io
+0.0.0.0 content.experience.appsflyer.com
 0.0.0.0 content.fcgroningen.nl
 0.0.0.0 content.firstinterstatebank.com
 0.0.0.0 content.fisglobal.com
@@ -57675,6 +57773,7 @@
 0.0.0.0 coonandeg.xyz
 0.0.0.0 cooperateboneco.com
 0.0.0.0 cooperativechuckledhunter.com
+0.0.0.0 cooperativegroup.tt.omtrdc.net
 0.0.0.0 coopermedia.g2afse.com
 0.0.0.0 coopertire.evergage.com
 0.0.0.0 coordinatereopen.com
@@ -57752,7 +57851,6 @@
 0.0.0.0 corp.leanplum.com
 0.0.0.0 corp.net.daraz.com
 0.0.0.0 corp.ns1.viviotech.net.daraz.com
-0.0.0.0 corp.outbrain.com
 0.0.0.0 corp.sonobi.com
 0.0.0.0 corpae2-dfw3-dr02.net.daraz.com
 0.0.0.0 corpcar20.net.daraz.com.00-bootstrap.net.daraz.com
@@ -57976,7 +58074,6 @@
 0.0.0.0 cpm.reachableads.com
 0.0.0.0 cpm.readywind.media
 0.0.0.0 cpm.revlift.io
-0.0.0.0 cpm.rtbanalytica.com
 0.0.0.0 cpm.rtbplatform.net
 0.0.0.0 cpm.saturndynamic.pt
 0.0.0.0 cpm.showcasead.com
@@ -58058,6 +58155,7 @@
 0.0.0.0 crampincompetent.com
 0.0.0.0 crane.thegardenroomguide.co.uk
 0.0.0.0 cranyundue.com
+0.0.0.0 craommunications.tt.omtrdc.net
 0.0.0.0 crash-master.corp.appnexus.com
 0.0.0.0 crash.amplitude.com
 0.0.0.0 crashplan.net.daraz.com
@@ -58887,6 +58985,7 @@
 0.0.0.0 cvs-car10.net.daraz.com
 0.0.0.0 cvs-doitruy.emailvision.net.daraz.com
 0.0.0.0 cvs.adx1.com
+0.0.0.0 cvs.flir.com
 0.0.0.0 cvs.net.daraz.com
 0.0.0.0 cvscar40.net.daraz.com.00-bootstrap.net.daraz.com
 0.0.0.0 cvsclaimtrk.com
@@ -60237,6 +60336,7 @@
 0.0.0.0 data.email.aepdemo.net
 0.0.0.0 data.email.chriscarter.io
 0.0.0.0 data.emails.imaginbank.com
+0.0.0.0 data.experience.appsflyer.com
 0.0.0.0 data.heapanalytics.com
 0.0.0.0 data.hiido.com
 0.0.0.0 data.infreewifi.com
@@ -61436,6 +61536,7 @@
 0.0.0.0 deu.schroders.com
 0.0.0.0 deula01.webtrekk.net
 0.0.0.0 deutschebank01.webtrekk.net
+0.0.0.0 deutschebankag.tt.omtrdc.net
 0.0.0.0 deutschepost01.webtrekk.net
 0.0.0.0 deutshpost-zollgebuhren.com
 0.0.0.0 dev-00proplus3xn.net.daraz.com
@@ -62460,6 +62561,7 @@
 0.0.0.0 ditfw-gfx.doitbest.tt.omtrdc.net
 0.0.0.0 divan.adtelligent.com
 0.0.0.0 divcom.evergage.com
+0.0.0.0 divcom.tt.omtrdc.net
 0.0.0.0 divedresign.com
 0.0.0.0 divergeimperfect.com
 0.0.0.0 divergence.net.daraz.com
@@ -63149,6 +63251,7 @@
 0.0.0.0 domsov.mirtesen.ru
 0.0.0.0 domuipan.com
 0.0.0.0 donaldjpliner.adlegend.com
+0.0.0.0 donaldson.tt.omtrdc.net
 0.0.0.0 donate.breadforthecity.org
 0.0.0.0 donatecars.7eer.net
 0.0.0.0 donateentrailskindly.com
@@ -64406,6 +64509,7 @@
 0.0.0.0 dtcloud.verwin.com
 0.0.0.0 dtdzz.jvfup3byv.bapb.gdn
 0.0.0.0 dtedpypskgbdap.com
+0.0.0.0 dteenergy.tt.omtrdc.net
 0.0.0.0 dtgprinters.brother.com
 0.0.0.0 dtheharityhild.info
 0.0.0.0 dthepeoplewhoc.org
@@ -65966,7 +66070,6 @@
 0.0.0.0 el.webspecmail.com
 0.0.0.0 ela1.bankofscotland.co.uk
 0.0.0.0 elal.com.ssl.sc.tt.omtrdc.net
-0.0.0.0 elal.tt.omtrdc.net
 0.0.0.0 elas666.pics
 0.0.0.0 elastic-ae2-dfw3-dr02.net.daraz.com
 0.0.0.0 elastic.ams.justpremium.com
@@ -98594,7 +98697,6 @@
 0.0.0.0 emurp656mmuoewzr.mobilecl.bellsouth.net.daraz.com
 0.0.0.0 emurp656mmuoewzr.partner.net.daraz.com
 0.0.0.0 emusic.d1.sc.omtrdc.net
-0.0.0.0 emvhtqdou.com
 0.0.0.0 emxbqs.t-shirt.ca
 0.0.0.0 emxxxx.rent.app
 0.0.0.0 emynwlz.xyz
@@ -99716,6 +99818,7 @@
 0.0.0.0 events.appnext.com
 0.0.0.0 events.aq-investment.ch
 0.0.0.0 events.assurant.com
+0.0.0.0 events.baesystems.com
 0.0.0.0 events.bankbazaar.com
 0.0.0.0 events.blis.com
 0.0.0.0 events.bounceexchange.com
@@ -101692,6 +101795,7 @@
 0.0.0.0 fidelity-media-ssp.rtb.adx1.com
 0.0.0.0 fidelity.activate.ensighten.com
 0.0.0.0 fidelitybarge.com
+0.0.0.0 fidelityinternationa.tt.omtrdc.net
 0.0.0.0 fidelitywi.tt.omtrdc.net
 0.0.0.0 fidelius.cn
 0.0.0.0 fieldparishskip.com
@@ -102001,6 +102105,7 @@
 0.0.0.0 fisch-rezepte.de.intellitxt.com
 0.0.0.0 fischerenergyapp.boxharryservices.com
 0.0.0.0 fiseqj.yoursuper.com
+0.0.0.0 fiservsolution.tt.omtrdc.net
 0.0.0.0 fisgmbh01.webtrekk.net
 0.0.0.0 fish.whitney.org
 0.0.0.0 fisherman2000.mirtesen.ru
@@ -102657,6 +102762,7 @@
 0.0.0.0 forthnorriscombustible.com
 0.0.0.0 forthright-car.pro
 0.0.0.0 fortiesgaudy.top
+0.0.0.0 fortinet.tt.omtrdc.net
 0.0.0.0 fortisbank01.webtrekk.net
 0.0.0.0 fortitudeare.com
 0.0.0.0 fortnum-and-mason.7eer.net
@@ -102704,7 +102810,6 @@
 0.0.0.0 foundchoked.com
 0.0.0.0 foundroi.d1.sc.omtrdc.net
 0.0.0.0 fountaingreat.com
-0.0.0.0 foupeethaija.com
 0.0.0.0 four.net.daraz.com
 0.0.0.0 foursigmatictracksdk.optimove.net
 0.0.0.0 fourteenthcongratulate.com
@@ -103055,7 +103160,6 @@
 0.0.0.0 freudenthal.de.intellitxt.com
 0.0.0.0 freyaacronal.com
 0.0.0.0 frezahkthnz.com
-0.0.0.0 frfetchme.com
 0.0.0.0 frfhhcxeqkubk.xyz
 0.0.0.0 frfve33.fun
 0.0.0.0 frgf99.fun
@@ -104160,6 +104264,7 @@
 0.0.0.0 geewedurisou.net
 0.0.0.0 geezersrecusal.website
 0.0.0.0 gegn.peblla.app
+0.0.0.0 gehealthcare.tt.omtrdc.net
 0.0.0.0 geicmu.xyz
 0.0.0.0 geilekarre.de.intellitxt.com
 0.0.0.0 geirod141.km14hkusz.com
@@ -113144,7 +113249,6 @@
 0.0.0.0 happy.klever.jp
 0.0.0.0 happy.projecthappiness.org
 0.0.0.0 happychic.d1.sc.omtrdc.net
-0.0.0.0 happydate.today
 0.0.0.0 happydog.smi2.ru
 0.0.0.0 happypancake-d.openx.net
 0.0.0.0 happypavilion.com
@@ -113631,6 +113735,7 @@
 0.0.0.0 helpcmsecurity0.ksmobile.com
 0.0.0.0 helpcmsecurity1.ksmobile.com
 0.0.0.0 helpdesk-123pago-loginvc.doclogin.net.daraz.com
+0.0.0.0 helpdesk.notifysrv.com
 0.0.0.0 helpfulduty.pro
 0.0.0.0 helpfulrectifychiefly.com
 0.0.0.0 helpingnauseous.com
@@ -113658,6 +113763,7 @@
 0.0.0.0 hencefusionbuiltin.com
 0.0.0.0 hencemakesheavy.com
 0.0.0.0 hendricks.hrm.healthgrades.com
+0.0.0.0 henkel.tt.omtrdc.net
 0.0.0.0 henride.widget.criteo.com
 0.0.0.0 henried.tt.omtrdc.net
 0.0.0.0 henriettaproducesdecide.com
@@ -114243,6 +114349,7 @@
 0.0.0.0 honeypotmarketing2.actonsoftware.com
 0.0.0.0 honeyreadinesscentral.com
 0.0.0.0 honeywellchina.tt.omtrdc.net
+0.0.0.0 honeywellinternation.tt.omtrdc.net
 0.0.0.0 hongi7ie8owiie01.site
 0.0.0.0 hongi7ie8owiie02.site
 0.0.0.0 hongi7ie8owiie03.site
@@ -114838,6 +114945,7 @@
 0.0.0.0 hscnpk86.shop
 0.0.0.0 hscq8.cyou
 0.0.0.0 hsdaknd.com
+0.0.0.0 hsfaffiliatesllc.tt.omtrdc.net
 0.0.0.0 hsfewosve.xyz
 0.0.0.0 hsh01.webtrekk.net
 0.0.0.0 hshmbx.xyz
@@ -115183,6 +115291,7 @@
 0.0.0.0 hvlitr.xyz
 0.0.0.0 hvll7eynf210cq0s.gwyancancook.net.daraz.com
 0.0.0.0 hvlvrj.gardentrends.com
+0.0.0.0 hvmllc.tt.omtrdc.net
 0.0.0.0 hvt243t5skw252rz.administrators.net.daraz.com
 0.0.0.0 hvt243t5skw252rz.docs.net.daraz.com
 0.0.0.0 hvt243t5skw252rz.mobilecl.bellsouth.net.daraz.com
@@ -117204,7 +117313,6 @@
 0.0.0.0 impayj243e5nk8dk.administrators.net.daraz.com
 0.0.0.0 impedergusher.shop
 0.0.0.0 impendingboisterousastray.com
-0.0.0.0 impendnotself.cyou
 0.0.0.0 impenetrableauthorslimbs.com
 0.0.0.0 imperativetheirs.com
 0.0.0.0 imperfect-impression.pro
@@ -117385,7 +117493,6 @@
 0.0.0.0 incomebreatherpartner.com
 0.0.0.0 incomejumpycurtains.com
 0.0.0.0 incoming.hotjar.com
-0.0.0.0 incommholdings.tt.omtrdc.net
 0.0.0.0 incommholdingsgift.tt.omtrdc.net
 0.0.0.0 incompatible-singer.pro
 0.0.0.0 incompatibleconfederatepsychological.com
@@ -117456,6 +117563,7 @@
 0.0.0.0 industrial-content.filtrationgroup.com
 0.0.0.0 industrial.mtu-solutions.com
 0.0.0.0 industrietreff.de.intellitxt.com
+0.0.0.0 industry.promo.skf.com
 0.0.0.0 indystar.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 inedibleendless.com
 0.0.0.0 ineffectivenaive.com
@@ -119639,6 +119747,7 @@
 0.0.0.0 ingotedbooze.com
 0.0.0.0 ingotheremplo.info
 0.0.0.0 ingraftmaskins.click
+0.0.0.0 ingrammicro.tt.omtrdc.net
 0.0.0.0 ingredientwritten.com
 0.0.0.0 ingredionincorporate.tt.omtrdc.net
 0.0.0.0 ingress-spring.net.daraz.com
@@ -119805,6 +119914,7 @@
 0.0.0.0 insight3.m-pathy.com
 0.0.0.0 insight6.m-pathy.com
 0.0.0.0 insight7.m-pathy.com
+0.0.0.0 insightenterprises.tt.omtrdc.net
 0.0.0.0 insightimage-d.openx.net
 0.0.0.0 insights-dc.hotjar.com
 0.0.0.0 insights.accessiblu.com
@@ -120142,6 +120252,7 @@
 0.0.0.0 inventory.veinteractive.com
 0.0.0.0 inventoryproducedjustice.com
 0.0.0.0 inventorysvc.adlearnop.advertising.com
+0.0.0.0 invescogroup.tt.omtrdc.net
 0.0.0.0 invest.admitad.com
 0.0.0.0 invest.centuria.co.nz
 0.0.0.0 invest.centuria.com.au
@@ -121007,6 +121118,7 @@
 0.0.0.0 jackpotcollation.com
 0.0.0.0 jackpotcontribute.com
 0.0.0.0 jacksonduct.com
+0.0.0.0 jacksonnationallifei.tt.omtrdc.net
 0.0.0.0 jacksonours.com
 0.0.0.0 jackspade.adlegend.com
 0.0.0.0 jaclottens.live
@@ -121717,6 +121829,7 @@
 0.0.0.0 jogylc.primalkitchen.com
 0.0.0.0 johannesburg.top
 0.0.0.0 johnelliott.pxf.io
+0.0.0.0 johnhancockfinancial.tt.omtrdc.net
 0.0.0.0 johnhardytracksdk.optimove.net
 0.0.0.0 johnlewis-insurance.com.102.112.2o7.net
 0.0.0.0 johnsonsmith.evergage.com
@@ -121858,6 +121971,7 @@
 0.0.0.0 jpi9co9o9g8ppbog.net.daraz.com
 0.0.0.0 jpi9co9o9g8ppbog.zvvm3v11w8ibbkqo.net.daraz.com
 0.0.0.0 jpmarket-d.openx.net
+0.0.0.0 jpmcam.tt.omtrdc.net
 0.0.0.0 jpmcbankna.tt.omtrdc.net
 0.0.0.0 jpmldwvjqd.xyz
 0.0.0.0 jpn.globalsign.com
@@ -122783,6 +122897,7 @@
 0.0.0.0 karwobeton.com
 0.0.0.0 kasamba-webtracksdk.optimove.net
 0.0.0.0 kasaze.babosarang.co.kr
+0.0.0.0 kasikornbankpublicco.tt.omtrdc.net
 0.0.0.0 kaspersky.net.daraz.com
 0.0.0.0 kasperskyse.widget.criteo.com
 0.0.0.0 kasukabe.treker.fun
@@ -123367,7 +123482,6 @@
 0.0.0.0 kmonitoring.voodoo-ads.io
 0.0.0.0 kmrnkjer.xyz
 0.0.0.0 kmsofficial.org
-0.0.0.0 kmspico-official.org
 0.0.0.0 kmtfme.kookpunt.nl
 0.0.0.0 kmubhgysjrrx7ib-p.unemissiveunjour.fr
 0.0.0.0 kmuk9mwyqxpnj86e.net.daraz.com
@@ -124934,6 +125048,7 @@
 0.0.0.0 legal.araggroup.com
 0.0.0.0 legal.fashionresource.com
 0.0.0.0 legal.lexisnexis.com
+0.0.0.0 legalandgeneral.tt.omtrdc.net
 0.0.0.0 legalizedistil.com
 0.0.0.0 legalsofafalter.com
 0.0.0.0 legaltodo.com
@@ -127784,7 +127899,6 @@
 0.0.0.0 locatchi.xyz
 0.0.0.0 locate.findfashionevents.com
 0.0.0.0 locatedstructure.com
-0.0.0.0 location.appcloudbox.net
 0.0.0.0 location.data.cnzz.com
 0.0.0.0 location.tabletwise.com
 0.0.0.0 locationaircondition.com
@@ -127829,7 +127943,6 @@
 0.0.0.0 log.hiido.com
 0.0.0.0 log.hinterstellar.com
 0.0.0.0 log.hm.baidu.com
-0.0.0.0 log.igamecj.com
 0.0.0.0 log.mangaina.com
 0.0.0.0 log.mekongasean.vn
 0.0.0.0 log.myfirsttab.com
@@ -129945,6 +130058,7 @@
 0.0.0.0 mammal.autoidle.com
 0.0.0.0 mammaldealbustle.com
 0.0.0.0 mammalsidewaysthankful.com
+0.0.0.0 mammothmountainskiar.tt.omtrdc.net
 0.0.0.0 mamonitoringketing.net.daraz.com
 0.0.0.0 mamsy.go2affise.com
 0.0.0.0 man-and-woman.mirtesen.ru
@@ -130271,6 +130385,7 @@
 0.0.0.0 manitari.openapp.link
 0.0.0.0 manitusbaclava.com
 0.0.0.0 mannerconflict.com
+0.0.0.0 mannhummel.tt.omtrdc.net
 0.0.0.0 manny.unbilletunjour.fr
 0.0.0.0 manoeuvrestretchingpeer.com
 0.0.0.0 manoirshrine.com
@@ -132101,6 +132216,7 @@
 0.0.0.0 mercedes-scene.de.intellitxt.com
 0.0.0.0 mercedesbenz.pxf.io
 0.0.0.0 mercedezbenzusallc.tt.omtrdc.net
+0.0.0.0 mercer.tt.omtrdc.net
 0.0.0.0 merceradvisors.tt.omtrdc.net
 0.0.0.0 mercersburg.unenoteunjour.fr
 0.0.0.0 merchandisingplazade.widget.criteo.com
@@ -132115,7 +132231,6 @@
 0.0.0.0 merchants.food.li
 0.0.0.0 merchants.viglink.com
 0.0.0.0 mercifulsurveysurpass.com
-0.0.0.0 mercolaconsultingser.tt.omtrdc.net
 0.0.0.0 mercor.cn
 0.0.0.0 mercury-int.marketo.com
 0.0.0.0 mercury.itv.com
@@ -132790,7 +132905,6 @@
 0.0.0.0 mini1.corp.appnexus.com
 0.0.0.0 mini5-4.021.htest1channel.htest1net.net.daraz.com
 0.0.0.0 mini5-4.legacy.net.daraz.com
-0.0.0.0 miniature-movie.pro
 0.0.0.0 miniaturecomfortable.com
 0.0.0.0 miniatureoffer.pro
 0.0.0.0 miniinthebox.7eer.net
@@ -133588,6 +133702,7 @@
 0.0.0.0 mole.rtbhouse.com
 0.0.0.0 mole.vcntlee.com
 0.0.0.0 molecularhouseholdadmiral.com
+0.0.0.0 molex.tt.omtrdc.net
 0.0.0.0 mollermarketing.tt.omtrdc.net
 0.0.0.0 mollusk.forwardmx.io
 0.0.0.0 molokerpterion.shop
@@ -133784,6 +133899,7 @@
 0.0.0.0 morrellinc.actonsoftware.com
 0.0.0.0 morris.gotomorris.com
 0.0.0.0 morroinane.com
+0.0.0.0 mortgagefamily.actonservice.com
 0.0.0.0 mortoncape.com
 0.0.0.0 morwell.treker.fun
 0.0.0.0 mos.appsflyer.com
@@ -133877,6 +133993,7 @@
 0.0.0.0 motto.sun-denshi.co.jp
 0.0.0.0 mouesdefaces.click
 0.0.0.0 moulterrouses.top
+0.0.0.0 mountainamericacredi.tt.omtrdc.net
 0.0.0.0 mountainbender.xyz
 0.0.0.0 mountaincaller.top
 0.0.0.0 mountaingaiety.com
@@ -134055,6 +134172,7 @@
 0.0.0.0 msc.baidu.com
 0.0.0.0 mscbos.baidu.com
 0.0.0.0 msccrociere.widget.criteo.com
+0.0.0.0 mscdirect.tt.omtrdc.net
 0.0.0.0 msdkevents.1rx.io
 0.0.0.0 msehm.com
 0.0.0.0 msft.addin365.com
@@ -134634,7 +134752,6 @@
 0.0.0.0 mybuys-uncategorized.t.domdex.com
 0.0.0.0 mycampaign.manulifeam.com
 0.0.0.0 mycareerdesign.shigoto-manabiya.jp
-0.0.0.0 myckdom.com
 0.0.0.0 mycleanpc.pxf.io
 0.0.0.0 mycloudreference.com
 0.0.0.0 mycolorpicker.net.daraz.com
@@ -135114,7 +135231,6 @@
 0.0.0.0 nailsandothesa.org
 0.0.0.0 nailumaihogo.com
 0.0.0.0 naimoate.xyz
-0.0.0.0 naipatouz.com
 0.0.0.0 naipsaigou.com
 0.0.0.0 naisepsaige.com
 0.0.0.0 naive-skin.pro
@@ -135669,7 +135785,6 @@
 0.0.0.0 newrosscreditunion.ca.102.112.2o7.net
 0.0.0.0 newrotationurl.com
 0.0.0.0 newrtbbid.com
-0.0.0.0 news-balica.com
 0.0.0.0 news-bizowa.com
 0.0.0.0 news-butoto.com
 0.0.0.0 news-capufu.com
@@ -135885,6 +136000,7 @@
 0.0.0.0 nexus.insert.io
 0.0.0.0 nexus2.ensighten.com
 0.0.0.0 nexus3.ensighten.com
+0.0.0.0 nf.nationwideadvisory.com
 0.0.0.0 nf2uores9sjws110.net.daraz.com
 0.0.0.0 nfaviz.demokau.com
 0.0.0.0 nfcnee.plez.jp
@@ -136448,6 +136564,7 @@
 0.0.0.0 northerntrust.tt.omtrdc.net
 0.0.0.0 northstartravelmedia.d1.sc.omtrdc.net
 0.0.0.0 northwell-test-dr-apm.agent.datadoghq.com
+0.0.0.0 northwesternmutual.tt.omtrdc.net
 0.0.0.0 norton.evyy.net
 0.0.0.0 norvaxb2b.tt.omtrdc.net
 0.0.0.0 norvos-cdn.polarmobile.com
@@ -136548,6 +136665,7 @@
 0.0.0.0 novembersightsoverhear.com
 0.0.0.0 novemberslantwilfrid.com
 0.0.0.0 novitrk4.com
+0.0.0.0 novo.tt.omtrdc.net
 0.0.0.0 novo1.adriver.ru
 0.0.0.0 novobanco.tt.omtrdc.net
 0.0.0.0 novocellsemi.actonsoftware.com
@@ -137741,6 +137859,7 @@
 0.0.0.0 nuerprwm.xyz
 0.0.0.0 nuevocliente.iagcargo.com
 0.0.0.0 nuezz.ouasflpydty21tf.bapb.gdn
+0.0.0.0 nuffieldhealth.tt.omtrdc.net
 0.0.0.0 nuforc.justjeans.co.nz
 0.0.0.0 nuftitoat.net
 0.0.0.0 nuggad.teads.tv
@@ -138482,7 +138601,6 @@
 0.0.0.0 odnoklassniki2010.mirtesen.ru
 0.0.0.0 odnoklassnikiuz.mirtesen.ru
 0.0.0.0 odnoseksnikis.mirtesen.ru
-0.0.0.0 odontickashasaudient.cfd
 0.0.0.0 odpgponumrw.com
 0.0.0.0 odqciqdazjuk.com
 0.0.0.0 ods.oncodesign-services.com
@@ -138624,7 +138742,6 @@
 0.0.0.0 ofninjasktor.com
 0.0.0.0 ofnkswddtp.xyz
 0.0.0.0 ofpiplupon.com
-0.0.0.0 ofppahlkiz.com
 0.0.0.0 ofqopmnpia.com
 0.0.0.0 ofqvca.xyz
 0.0.0.0 ofrapidashr.com
@@ -139619,6 +139736,7 @@
 0.0.0.0 orebuthehadsta.info
 0.0.0.0 oreck.adlegend.com
 0.0.0.0 oreck.com.102.112.2o7.net
+0.0.0.0 oregoncommunitycredi.tt.omtrdc.net
 0.0.0.0 oretracker.top
 0.0.0.0 oreyeshe.info
 0.0.0.0 orf2.advertising.com
@@ -143269,7 +143387,6 @@
 0.0.0.0 peechohovaz.xyz
 0.0.0.0 peekaure.xyz
 0.0.0.0 peekundcloppenburg.tt.omtrdc.net
-0.0.0.0 peelaipu.xyz
 0.0.0.0 peelupsu.com
 0.0.0.0 peelxotvq.com
 0.0.0.0 peenuteque.net
@@ -143311,6 +143428,7 @@
 0.0.0.0 penrake.com
 0.0.0.0 pensionboarding.com
 0.0.0.0 pensionerbegins.com
+0.0.0.0 pentairmanagementcom.tt.omtrdc.net
 0.0.0.0 pentapedaltracking.wbd.com
 0.0.0.0 pentas.best-sr.com
 0.0.0.0 pentos-cdn.cont.polarmobile.com
@@ -143462,6 +143580,7 @@
 0.0.0.0 pferw.voluumtrk.com
 0.0.0.0 pff-de.intellitxt.com
 0.0.0.0 pff.de.intellitxt.com
+0.0.0.0 pfizer.tt.omtrdc.net
 0.0.0.0 pfjfjid.xyz
 0.0.0.0 pfjs8laj0wemtr1-c.adktrack62.xyz
 0.0.0.0 pfjtgxc.cn
@@ -143811,6 +143930,7 @@
 0.0.0.0 pitchedvalleyspageant.com
 0.0.0.0 pithesglyphic.com
 0.0.0.0 pithierdossel.com
+0.0.0.0 pitneybowesinc.tt.omtrdc.net
 0.0.0.0 pitoodsouk.net
 0.0.0.0 pitors.com
 0.0.0.0 pitsburg.trekkww.space
@@ -145692,7 +145812,6 @@
 0.0.0.0 pressingequation.com
 0.0.0.0 pressit.cn
 0.0.0.0 pressplaytv.moengage.com
-0.0.0.0 prestigiousbook.pro
 0.0.0.0 presto.tt.omtrdc.net
 0.0.0.0 presumablyconfound.com
 0.0.0.0 presumptuousfunnelinsight.com
@@ -146901,7 +147020,6 @@
 0.0.0.0 puremade.torani.com
 0.0.0.0 purestorage.tt.omtrdc.net
 0.0.0.0 purgeregulation.com
-0.0.0.0 purgescholars.com
 0.0.0.0 purgoaho.xyz
 0.0.0.0 purifybaptism.guru
 0.0.0.0 purifydigital.go2affise.com
@@ -147096,7 +147214,6 @@
 0.0.0.0 pwoem.cnzz.com
 0.0.0.0 pwqmc2kj113bka3.bealanews.com
 0.0.0.0 pwqmc2kj113bka3.pr0xqyrgl.com
-0.0.0.0 pwqpvwgjloeqw.website
 0.0.0.0 pwrgcxaj.icu
 0.0.0.0 pwuxnr.cn
 0.0.0.0 pwuzvbhf.com
@@ -147164,7 +147281,6 @@
 0.0.0.0 pxl3.connexity.net
 0.0.0.0 pxl4.connexity.net
 0.0.0.0 pxleu.connexity.net
-0.0.0.0 pxnzitqmsqaxg.online
 0.0.0.0 pxo97ybh4j.perimeterx.net
 0.0.0.0 pxob5twirq.perimeterx.net
 0.0.0.0 pxptpv.jobup.ch
@@ -147469,7 +147585,6 @@
 0.0.0.0 qdtjjxr.xyz
 0.0.0.0 qdtzbbh.xyz
 0.0.0.0 qdzxvjiy7gdcthf-p.clead.xyz
-0.0.0.0 qebbvfbwvisys.website
 0.0.0.0 qebgcdcjr000.fun
 0.0.0.0 qebpwkxjz.com
 0.0.0.0 qebuoxn.com
@@ -147561,6 +147676,7 @@
 0.0.0.0 qi8p1.voluumtrk.com
 0.0.0.0 qia4rmivwv7mz2nl.lib-oa-1.net.daraz.com
 0.0.0.0 qia4rmivwv7mz2nl.wlan.partner-bamboo.net.daraz.com
+0.0.0.0 qiagen.tt.omtrdc.net
 0.0.0.0 qiaoxz.xyz
 0.0.0.0 qibkkioqqw.com
 0.0.0.0 qibqiwczoojw.com
@@ -183015,6 +183131,7 @@
 0.0.0.0 ranchreives.click
 0.0.0.0 rancorousjustin.com
 0.0.0.0 rancorousnoncommittalsomewhat.com
+0.0.0.0 rand.d1.sc.omtrdc.net
 0.0.0.0 randomamongst.com
 0.0.0.0 randomassertiveacacia.com
 0.0.0.0 randomphoto.onthe.io
@@ -183149,6 +183266,7 @@
 0.0.0.0 rbropocxt.com
 0.0.0.0 rbs-fpssl.tt.omtrdc.net
 0.0.0.0 rbs.sc.omtrdc.net
+0.0.0.0 rbs.tt.omtrdc.net
 0.0.0.0 rbsr0.icu
 0.0.0.0 rbtddjw0tro1483a.net.daraz.com
 0.0.0.0 rbwbem.costacroisieres.be
@@ -183547,6 +183665,7 @@
 0.0.0.0 reecegrita.com
 0.0.0.0 reechegraih.com
 0.0.0.0 reedbritingsynt.info
+0.0.0.0 reedbusinessinternat.tt.omtrdc.net
 0.0.0.0 reedmac1.actonsoftware.com
 0.0.0.0 reefcolloquialseptember.com
 0.0.0.0 reelisland.optimove.net
@@ -183964,9 +184083,9 @@
 0.0.0.0 refia.xyz
 0.0.0.0 refinedlabsde.widget.criteo.com
 0.0.0.0 refingoon.com
+0.0.0.0 refinitiv.tt.omtrdc.net
 0.0.0.0 reflectingwindowscheckbook.com
 0.0.0.0 reflectionseldomnorth.com
-0.0.0.0 refletsipes.cfd
 0.0.0.0 reflexcolin.com
 0.0.0.0 refpaikgai.top
 0.0.0.0 refpaiozdg.top
@@ -183978,7 +184097,6 @@
 0.0.0.0 refrigeratespinsterreins.com
 0.0.0.0 refugeintermediate.com
 0.0.0.0 refulgebesague.com
-0.0.0.0 refundlikeness.com
 0.0.0.0 refuseddissolveduniversity.com
 0.0.0.0 refusemovie.com
 0.0.0.0 refuzzlizing.pro
@@ -184894,6 +185012,7 @@
 0.0.0.0 rincipledecli.info
 0.0.0.0 rinddelusional.com
 0.0.0.0 ringashewasfl.info
+0.0.0.0 ringcentral.tt.omtrdc.net
 0.0.0.0 ringingneo.com
 0.0.0.0 ringola.g2afse.com
 0.0.0.0 ringsconsultaspirant.com
@@ -185078,6 +185197,7 @@
 0.0.0.0 robberysordid.com
 0.0.0.0 roberehearsal.com
 0.0.0.0 robertboschllc.d1.sc.omtrdc.net
+0.0.0.0 roberthalfintl.tt.omtrdc.net
 0.0.0.0 robertwoodjohnsonfou.tt.omtrdc.net
 0.0.0.0 robmenbusy.live
 0.0.0.0 robo.departapp.com
@@ -185795,7 +185915,6 @@
 0.0.0.0 rtb-apac.catapultx.com
 0.0.0.0 rtb-apac.convergeselect.net
 0.0.0.0 rtb-apac.ezmob.com
-0.0.0.0 rtb-apac.fmlabsonline.com
 0.0.0.0 rtb-apac.houseofpubs.com
 0.0.0.0 rtb-apac.intellectscoop.com
 0.0.0.0 rtb-apac.jambojar.com
@@ -185835,7 +185954,6 @@
 0.0.0.0 rtb-eu.appocean.media
 0.0.0.0 rtb-eu.bidmyqps.xyz
 0.0.0.0 rtb-eu.blueparrot.media
-0.0.0.0 rtb-eu.brightmountainads.com
 0.0.0.0 rtb-eu.catapultx.com
 0.0.0.0 rtb-eu.convergeselect.net
 0.0.0.0 rtb-eu.eximdigital.com
@@ -187074,6 +187192,7 @@
 0.0.0.0 sat3.prod.clicktale.net
 0.0.0.0 sat4.prod.clicktale.net
 0.0.0.0 sat5.prod.clicktale.net
+0.0.0.0 satair.tt.omtrdc.net
 0.0.0.0 satc.demdex.net
 0.0.0.0 satc.net.daraz.com
 0.0.0.0 satest.fwmrm.net
@@ -187101,7 +187220,6 @@
 0.0.0.0 saulttrailwaysi.info
 0.0.0.0 saumoupsaug.com
 0.0.0.0 saunaentered.com
-0.0.0.0 saunamilitarymental.com
 0.0.0.0 sauptowhy.com
 0.0.0.0 saurelhastif.click
 0.0.0.0 saurelwithsaw.shop
@@ -187239,13 +187357,13 @@
 0.0.0.0 scdn.uc.atwola.com
 0.0.0.0 scendho.com
 0.0.0.0 scenegaitlawn.com
-0.0.0.0 scenerynatives.com
 0.0.0.0 scenescrockery.com
 0.0.0.0 scenistgracy.life
 0.0.0.0 scentbird.7eer.net
 0.0.0.0 scentbird.btttag.com
 0.0.0.0 scentbracehardship.com
 0.0.0.0 scentservers.com
+0.0.0.0 scentsy.tt.omtrdc.net
 0.0.0.0 scevoo.alinda.hu
 0.0.0.0 scexp001.exelator.com
 0.0.0.0 scfh9.cn
@@ -187292,7 +187410,6 @@
 0.0.0.0 scinfo.mitsuifudosan.co.jp
 0.0.0.0 scisselfungus.com
 0.0.0.0 scissorsstitchdegrade.com
-0.0.0.0 scissorwailed.com
 0.0.0.0 sclrnnp.com
 0.0.0.0 scm-partner.net.daraz.com
 0.0.0.0 scm.ctnsnet.com
@@ -187355,6 +187472,7 @@
 0.0.0.0 screenwatch.yournewtab.com
 0.0.0.0 scribd.evyy.net
 0.0.0.0 scripps.petametrics.com
+0.0.0.0 scripps.tt.omtrdc.net
 0.0.0.0 script302.top
 0.0.0.0 scripthost-msm.marketo.com
 0.0.0.0 scripts.accstandardbank.tt.omtrdc.net
@@ -187837,6 +187955,7 @@
 0.0.0.0 securestate.evergage.com
 0.0.0.0 securetags.w55c.net
 0.0.0.0 securev4vcapi.adcolony.com
+0.0.0.0 securian.tt.omtrdc.net
 0.0.0.0 securify.nl
 0.0.0.0 security-alert.th8fp9.top
 0.0.0.0 security-r-ht-2.net.daraz.com
@@ -188955,7 +189074,6 @@
 0.0.0.0 sheknows-uncategorized.t.domdex.com
 0.0.0.0 shelfoka.com
 0.0.0.0 shell.n-switch.net.daraz.com
-0.0.0.0 sheltermilligrammillions.com
 0.0.0.0 shelveflang.click
 0.0.0.0 shelvessawwort.com
 0.0.0.0 shemaroo.offerstrack.net
@@ -189106,6 +189224,7 @@
 0.0.0.0 shopify.smartlook.com
 0.0.0.0 shopliftingrung.com
 0.0.0.0 shopperschoice.btttag.com
+0.0.0.0 shopperschoice.tt.omtrdc.net
 0.0.0.0 shopping-csr41.application.net.daraz.com
 0.0.0.0 shopping-udn-com.b.appier.net
 0.0.0.0 shopping.d1.sc.omtrdc.net
@@ -190124,7 +190243,6 @@
 0.0.0.0 slantdecline.com
 0.0.0.0 slapexcitedly.com
 0.0.0.0 slas.net.daraz.com
-0.0.0.0 slashdot.jp
 0.0.0.0 slatf.clicktale.net
 0.0.0.0 slaughterscholaroblique.com
 0.0.0.0 slave.partner.net.daraz.com
@@ -191424,7 +191542,6 @@
 0.0.0.0 spp.adriver.ru
 0.0.0.0 spptpdmsalazar.tt.omtrdc.net
 0.0.0.0 spq5m89bd56tyxbj.j74y03g8u.com
-0.0.0.0 sprangsugar.com
 0.0.0.0 spratstatters.com
 0.0.0.0 spreadshirde.widget.criteo.com
 0.0.0.0 spreadshirt.at.102.112.2o7.net
@@ -193616,7 +193733,6 @@
 0.0.0.0 strana-rf.mirtesen.ru
 0.0.0.0 stranamam.mirtesen.ru
 0.0.0.0 stranddecidedlydemeanour.com
-0.0.0.0 strandedpeel.com
 0.0.0.0 strandedprobable.com
 0.0.0.0 strangineer.info
 0.0.0.0 strangledisposalfox.com
@@ -193982,6 +194098,7 @@
 0.0.0.0 sun-sentinel.us.intellitxt.com
 0.0.0.0 sun.onthe.io
 0.0.0.0 sunbagmay.live
+0.0.0.0 sunbeltrentals.tt.omtrdc.net
 0.0.0.0 sunblue.de
 0.0.0.0 sunburnt.valva.site
 0.0.0.0 sunbux.info
@@ -194379,7 +194496,6 @@
 0.0.0.0 swoopkennethsly.com
 0.0.0.0 swopsalane.com
 0.0.0.0 swordanatomy.com
-0.0.0.0 swordrelievedictum.com
 0.0.0.0 swpdgg.weststyle.de
 0.0.0.0 swsegi.xyz
 0.0.0.0 swt3r.voluumtrk.com
@@ -194485,6 +194601,7 @@
 0.0.0.0 synd.cricbuzz.com
 0.0.0.0 syndicate.purch.com
 0.0.0.0 syndication-dyn.exoclick.com
+0.0.0.0 syndication-json.exoclick.com
 0.0.0.0 syndication-p.exoclick.com
 0.0.0.0 syndication-whk1.exoclick.com
 0.0.0.0 syndication.contentabc.com
@@ -195310,7 +195427,6 @@
 0.0.0.0 tchibo05.webtrekk.net
 0.0.0.0 tchibo06.webtrekk.net
 0.0.0.0 tchiboch.widget.criteo.com
-0.0.0.0 tchobdqfhzhvn.space
 0.0.0.0 tchosted.comcast.com.touchcommerce.com
 0.0.0.0 tchosted.inq.com
 0.0.0.0 tchosted.xfinity.com.touchcommerce.com
@@ -195561,7 +195677,6 @@
 0.0.0.0 telefonicavivo.tt.omtrdc.net
 0.0.0.0 telegraph.sdk.beemray.com
 0.0.0.0 telegraphmedia.bootstrap.fyre.co
-0.0.0.0 telegraphmediagroup.sc.omtrdc.net
 0.0.0.0 telegraphmediagroupl.tt.omtrdc.net
 0.0.0.0 telegraphunreal.com
 0.0.0.0 telekom02.webtrekk.net
@@ -195931,7 +196046,6 @@
 0.0.0.0 textbooks.pxf.io
 0.0.0.0 texterra.me
 0.0.0.0 textilewhine.com
-0.0.0.0 texturedetrimentit.com
 0.0.0.0 textureeffacepleat.com
 0.0.0.0 tezmarang.top
 0.0.0.0 tf.fleetcortechnologies.tt.omtrdc.net
@@ -196089,6 +196203,7 @@
 0.0.0.0 theatermania.d1.sc.omtrdc.net
 0.0.0.0 theathematica.info
 0.0.0.0 theblaze2-d.openx.net
+0.0.0.0 theboeingcompany.tt.omtrdc.net
 0.0.0.0 thebtrads.top
 0.0.0.0 thecalifornian.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 thecheegrait.com
@@ -196105,6 +196220,7 @@
 0.0.0.0 thecontrolgroupnewtracksdk-stg.optimove.net
 0.0.0.0 thecontrolgroupnewtracksdk.optimove.net
 0.0.0.0 thecoolposts.com
+0.0.0.0 thecooperativebank.d1.sc.omtrdc.net
 0.0.0.0 thedailyjournal.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 thedailymeal.media.net
 0.0.0.0 thedols.mg.thedols.net
@@ -196208,6 +196324,7 @@
 0.0.0.0 thermoworks.pxf.io
 0.0.0.0 therplungestrang.org
 0.0.0.0 thertastore.evergage.com
+0.0.0.0 thesalvationarmy.tt.omtrdc.net
 0.0.0.0 thescore-d.openx.net
 0.0.0.0 thescottscompany.net.daraz.com
 0.0.0.0 thescript.javfinder.xyz
@@ -196494,7 +196611,6 @@
 0.0.0.0 ticketmaster-spain.pxf.io
 0.0.0.0 ticketmaster-uk.pxf.io
 0.0.0.0 ticketmaster.evyy.net
-0.0.0.0 ticketnegligence.com
 0.0.0.0 ticketnetwork.7eer.net
 0.0.0.0 ticketonline01.webtrekk.net
 0.0.0.0 ticketpantomimevirus.com
@@ -197412,7 +197528,6 @@
 0.0.0.0 topcamepan.live
 0.0.0.0 topcashback-shopping.t.domdex.com
 0.0.0.0 topdownload.de.intellitxt.com
-0.0.0.0 topduppy.info
 0.0.0.0 topensourceace-inteopensourcenal.agent.ap1.datadoghq.com
 0.0.0.0 topfliightss.net
 0.0.0.0 topfreenewsfeed.com
@@ -197726,6 +197841,7 @@
 0.0.0.0 tr.fuuko.net
 0.0.0.0 tr.gestion-client.portzamparc.bnpparibas
 0.0.0.0 tr.getinge.com
+0.0.0.0 tr.gingersoftware.com
 0.0.0.0 tr.gmads.mookie1.com
 0.0.0.0 tr.gvbn.espmp-agfr.net
 0.0.0.0 tr.hire.healthecareers.com
@@ -198604,7 +198720,6 @@
 0.0.0.0 tracking.adcanopus.com
 0.0.0.0 tracking.addapptr.com
 0.0.0.0 tracking.adkmob.com
-0.0.0.0 tracking.adkomo.com
 0.0.0.0 tracking.adlucent.info
 0.0.0.0 tracking.adxxx.com
 0.0.0.0 tracking.adzfun.info
@@ -198931,7 +199046,6 @@
 0.0.0.0 transcriptjeanne.com
 0.0.0.0 transcripts.touchcommerce.com
 0.0.0.0 transfer.7eer.net
-0.0.0.0 transferloitering.com
 0.0.0.0 transferwise.7eer.net
 0.0.0.0 transferwise.evyy.net
 0.0.0.0 transform.datalink.com
@@ -199046,7 +199160,6 @@
 0.0.0.0 trebasinst.gus.global
 0.0.0.0 trebghoru.com
 0.0.0.0 trebleheady.com
-0.0.0.0 treblescholarfestival.com
 0.0.0.0 trebleuniversity.com
 0.0.0.0 treehouse.7eer.net
 0.0.0.0 treehusbanddistraction.com
@@ -199088,6 +199201,7 @@
 0.0.0.0 trespassapologies.com
 0.0.0.0 tretford01.webtrekk.net
 0.0.0.0 treville.pxf.io
+0.0.0.0 trex.tt.omtrdc.net
 0.0.0.0 treycircle.com
 0.0.0.0 trf6b.top
 0.0.0.0 trfpge.totokaelo.com
@@ -199529,6 +199643,7 @@
 0.0.0.0 trusteenubian.com
 0.0.0.0 trustflayer1.online
 0.0.0.0 trustlevel.org
+0.0.0.0 trustmarknational.tt.omtrdc.net
 0.0.0.0 trustwave.d1.sc.omtrdc.net
 0.0.0.0 trustworthyturnstileboyfriend.com
 0.0.0.0 trustx.digitru.st
@@ -199711,7 +199826,6 @@
 0.0.0.0 tuberate.com
 0.0.0.0 tuberay.com
 0.0.0.0 tubestatic.usco1621-b.com
-0.0.0.0 tubestrap.com
 0.0.0.0 tubewalk.com
 0.0.0.0 tucbtc.bebe.com
 0.0.0.0 tucgoc.geschenkparadies.ch
@@ -200121,7 +200235,6 @@
 0.0.0.0 tyyrcf.ihc.ru
 0.0.0.0 tyzfoej.cn
 0.0.0.0 tzbirdcod.com
-0.0.0.0 tzdhnfaaukdwf.site
 0.0.0.0 tzelzfnj.xyz
 0.0.0.0 tzimmescantara.com
 0.0.0.0 tznizrhd.xyz
@@ -200377,6 +200490,7 @@
 0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 uboltmedia.offerstrack.net
 0.0.0.0 uboungera.com
+0.0.0.0 ubsag.tt.omtrdc.net
 0.0.0.0 ubsp2a9h8lqwdej8.nautilus.net.daraz.com
 0.0.0.0 ubsp2a9h8lqwdej8.net.daraz.com
 0.0.0.0 ubsp2a9h8lqwdej8.ns1.twtelecom.net.daraz.com
@@ -200824,6 +200938,7 @@
 0.0.0.0 umstandsforum.de.intellitxt.com
 0.0.0.0 umtchdhkrx.com
 0.0.0.0 umtoru.cocoheali.com
+0.0.0.0 umuc.tt.omtrdc.net
 0.0.0.0 umulv.voluumtrk.com
 0.0.0.0 umumallowecouldl.info
 0.0.0.0 umvtri.trenirkaren.sk
@@ -201047,7 +201162,6 @@
 0.0.0.0 unpaid-21.btrll.com
 0.0.0.0 unpetilila.com
 0.0.0.0 unphanpyom.com
-0.0.0.0 unpleasanthandbag.com
 0.0.0.0 unpopecandela.top
 0.0.0.0 unpredictablehateagent.com
 0.0.0.0 unprofessionalremnantthence.com
@@ -201710,7 +201824,6 @@
 0.0.0.0 ustglobal.tt.omtrdc.net
 0.0.0.0 ustomoun.xyz
 0.0.0.0 ustrack.castrol.email
-0.0.0.0 usuallyaltered.com
 0.0.0.0 usuaryyappish.com
 0.0.0.0 usucmweb.dotomi.com
 0.0.0.0 usvkfwth.xyz
@@ -203074,7 +203187,6 @@
 0.0.0.0 vgszaqlse8udic4-c.adkoffer.fr
 0.0.0.0 vgtdlazqbojiqdl-p.adkplan.fr
 0.0.0.0 vgtgps.edigital.hr
-0.0.0.0 vguxxvwiaai.com
 0.0.0.0 vgxbpf.xyz
 0.0.0.0 vgzytn.xyz
 0.0.0.0 vhdbohe.com
@@ -204836,7 +204948,6 @@
 0.0.0.0 vmqcvj.twistedtailor.com
 0.0.0.0 vmr6t.icu
 0.0.0.0 vms.vitalmedicalsupplies.com.au
-0.0.0.0 vmurpruqkhtoh.site
 0.0.0.0 vmvajwc.com
 0.0.0.0 vmzxxj.rayondor-bagages.fr
 0.0.0.0 vn.clubsolitaire.carrier.com
@@ -205660,10 +205771,8 @@
 0.0.0.0 wanintrudeabbey.com
 0.0.0.0 wanka.offerstrack.net
 0.0.0.0 wanlopay.g2afse.com
-0.0.0.0 wanmuqxfueokx.online
 0.0.0.0 wannessdebus.com
 0.0.0.0 wanodtbfif.com
-0.0.0.0 wansafeguard.com
 0.0.0.0 wansultoud.com
 0.0.0.0 wantedjeff.com
 0.0.0.0 wantingunmovedhandled.com
@@ -205948,6 +206057,7 @@
 0.0.0.0 web.adriver.ru
 0.0.0.0 web.adtran.com
 0.0.0.0 web.ajrecruitment.com
+0.0.0.0 web.araglegal.com
 0.0.0.0 web.atlasroofing.com
 0.0.0.0 web.brighttalk.com
 0.0.0.0 web.care.baptist-health.org
@@ -205970,6 +206080,7 @@
 0.0.0.0 web.kaochemicals-eu.com
 0.0.0.0 web.knoll-mb.de
 0.0.0.0 web.leanplum.com
+0.0.0.0 web.lumicks.com
 0.0.0.0 web.moengage.com
 0.0.0.0 web.mossinc.com
 0.0.0.0 web.mytributes.com.au
@@ -206414,7 +206525,6 @@
 0.0.0.0 westbrookgroups.tt.omtrdc.net
 0.0.0.0 westeastnetwork.offerstrack.net
 0.0.0.0 westelm.7eer.net
-0.0.0.0 westerndigital.tt.omtrdc.net
 0.0.0.0 westernhungryadditions.com
 0.0.0.0 westernsydneyuni.tt.omtrdc.net
 0.0.0.0 westernunion.evergage.com
@@ -206448,7 +206558,6 @@
 0.0.0.0 wetlinepursuing.com
 0.0.0.0 wetlwse.top
 0.0.0.0 wetransfer-d.openx.net
-0.0.0.0 wetryprogress.com
 0.0.0.0 wetshaveclub.7eer.net
 0.0.0.0 wetsireoverload.com
 0.0.0.0 wetteronline-d.openx.net
@@ -206497,6 +206606,7 @@
 0.0.0.0 wgssbpx09153vsef.summer.net.daraz.com
 0.0.0.0 wgssbpx09153vsef.support.net.daraz.com
 0.0.0.0 wgssbpx09153vsef.ww1sdocker.net.daraz.com
+0.0.0.0 wgu.tt.omtrdc.net
 0.0.0.0 wgvui5w2yyay6wtx.emails.net.daraz.com
 0.0.0.0 wgzvgk.rbacoleccionables.com
 0.0.0.0 wgzx4zl47mjlq3al.authenticate.net.daraz.com
@@ -206744,6 +206854,7 @@
 0.0.0.0 wildlifefallinfluenced.com
 0.0.0.0 wildlifereservessing.tt.omtrdc.net
 0.0.0.0 wildlifesolemnlyrecords.com
+0.0.0.0 wileypublishing.sc.omtrdc.net
 0.0.0.0 wileypublishing.tt.omtrdc.net
 0.0.0.0 wilfridjargonby.com
 0.0.0.0 wilfulknives.com
@@ -206861,6 +206972,7 @@
 0.0.0.0 winterolivia.com
 0.0.0.0 wintjaywolf.org
 0.0.0.0 wintotal.de.intellitxt.com
+0.0.0.0 wintrustfinancialcor.tt.omtrdc.net
 0.0.0.0 winuo01.webtrekk.net
 0.0.0.0 winwin.adk2x.com
 0.0.0.0 winzefarrel.com
@@ -207162,6 +207274,7 @@
 0.0.0.0 workable1x.xyz
 0.0.0.0 workbench.6022737.global.siteimproveanalytics.io
 0.0.0.0 workday.monster
+0.0.0.0 workday.tt.omtrdc.net
 0.0.0.0 workeddecay.com
 0.0.0.0 workedqtam.com
 0.0.0.0 workedworlds.com
@@ -208126,6 +208239,7 @@
 0.0.0.0 www.3684237.notify6.com
 0.0.0.0 www.3763.luronews.com
 0.0.0.0 www.3764.loopanews.com
+0.0.0.0 www.3815579.notify6.com
 0.0.0.0 www.3856281.notify6.com
 0.0.0.0 www.3880.gofenews.com
 0.0.0.0 www.3881818.notify6.com
@@ -208133,7 +208247,6 @@
 0.0.0.0 www.3923.lookinews.com
 0.0.0.0 www.3959278.notify6.com
 0.0.0.0 www.3959292.notify6.com
-0.0.0.0 www.3972246.notify6.com
 0.0.0.0 www.3nrbkpvra.com
 0.0.0.0 www.3vptewfo6hxtirm-c.leadkom.fr
 0.0.0.0 www.4.notify.bizonads-ssp.com
@@ -208141,7 +208254,6 @@
 0.0.0.0 www.4020.shockynews.com
 0.0.0.0 www.4029.lookinews.com
 0.0.0.0 www.4033.lookinews.com
-0.0.0.0 www.4065194.notify6.com
 0.0.0.0 www.4065944.notify6.com
 0.0.0.0 www.4069896.notify6.com
 0.0.0.0 www.4082.bealanews.com
@@ -208153,11 +208265,8 @@
 0.0.0.0 www.4135.jemonews.com
 0.0.0.0 www.4146994.notify6.com
 0.0.0.0 www.4152.reminews.com
-0.0.0.0 www.4152316.notify6.com
 0.0.0.0 www.4160048.notify6.com
 0.0.0.0 www.420137982.world
-0.0.0.0 www.4270606.notify6.com
-0.0.0.0 www.4389756.notify6.com
 0.0.0.0 www.4397.loopanews.com
 0.0.0.0 www.4448.jemonews.com
 0.0.0.0 www.4570.groovinews.com
@@ -209861,6 +209970,7 @@
 0.0.0.0 www2.acome.com
 0.0.0.0 www2.acrolinx.com
 0.0.0.0 www2.acronisscs.com
+0.0.0.0 www2.actionforhealthykids.org
 0.0.0.0 www2.actis-isolation.com
 0.0.0.0 www2.activate-hr.de
 0.0.0.0 www2.activetrans.org
@@ -210087,6 +210197,7 @@
 0.0.0.0 www2.bmdusa.com
 0.0.0.0 www2.bmoam.com
 0.0.0.0 www2.bmocm.com
+0.0.0.0 www2.bomi.org
 0.0.0.0 www2.bonusan.com
 0.0.0.0 www2.boomtownroi.com
 0.0.0.0 www2.booqi.com
@@ -210261,6 +210372,7 @@
 0.0.0.0 www2.cnahardy.com
 0.0.0.0 www2.cnclifttruck.com
 0.0.0.0 www2.cnwglobal.com
+0.0.0.0 www2.coalfire.com
 0.0.0.0 www2.codesync.global
 0.0.0.0 www2.codexis.com
 0.0.0.0 www2.cogeco.ca
@@ -212320,6 +212432,7 @@
 0.0.0.0 www3.j-ban.com
 0.0.0.0 www3.jacksbasket.org
 0.0.0.0 www3.javerianacali.edu.co
+0.0.0.0 www3.kantar.com
 0.0.0.0 www3.kantarmedia.com
 0.0.0.0 www3.kidney.org
 0.0.0.0 www3.leasemd.mx
@@ -212697,6 +212810,7 @@
 0.0.0.0 x.adstailor.com
 0.0.0.0 x.assets.net.daraz.com
 0.0.0.0 x.bidfilter.com
+0.0.0.0 x.coro.net
 0.0.0.0 x.domdex.com
 0.0.0.0 x.everesttech.net
 0.0.0.0 x.flurry.com
@@ -213377,7 +213491,6 @@
 0.0.0.0 xml.dtxplatform.net
 0.0.0.0 xml.eureekkaa.com
 0.0.0.0 xml.flairads.com
-0.0.0.0 xml.fmlabsonline.com
 0.0.0.0 xml.fstsrv1.com
 0.0.0.0 xml.fstsrv10.com
 0.0.0.0 xml.fstsrv11.com
@@ -213405,7 +213518,6 @@
 0.0.0.0 xml.media.net
 0.0.0.0 xml.mediacpc.com
 0.0.0.0 xml.mediadstream.com
-0.0.0.0 xml.mobra.in
 0.0.0.0 xml.mobreach.com
 0.0.0.0 xml.mobuppsrtb.com
 0.0.0.0 xml.mpds-smart1.online
@@ -213439,7 +213551,6 @@
 0.0.0.0 xml.saturndynamic.pt
 0.0.0.0 xml.search-house.co
 0.0.0.0 xml.setlitescmode-2.online
-0.0.0.0 xml.showcasead.com
 0.0.0.0 xml.sitamedal4.online
 0.0.0.0 xml.skycommission.com
 0.0.0.0 xml.solarad.net
@@ -214405,6 +214516,7 @@
 0.0.0.0 yonseiuniversity.tt.omtrdc.net
 0.0.0.0 yonspheala.com
 0.0.0.0 yoom01.webtrekk.net
+0.0.0.0 yorkshirebuildingsoc.tt.omtrdc.net
 0.0.0.0 yorkstatebank.com.102.112.2o7.net
 0.0.0.0 yoscae.lottechilsung.co.kr
 0.0.0.0 yosle.info
