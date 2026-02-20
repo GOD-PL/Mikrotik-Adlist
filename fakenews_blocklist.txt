@@ -1,13 +1,10 @@
-# WYGENEROWANO: 2026-02-19 04:55:37
+# WYGENEROWANO: 2026-02-20 04:49:43
 # KATEGORIA: fakenews
-# RAZEM: 213
+# RAZEM: 195
 
-0.0.0.0 100percentfedup.com
 0.0.0.0 20minutenews.com
-0.0.0.0 21stcenturywire.com
 0.0.0.0 365usanews.com
 0.0.0.0 70news.wordpress.com
-0.0.0.0 abcnews.com.co
 0.0.0.0 americantoday.news
 0.0.0.0 americantribune.org
 0.0.0.0 ankenyguide.com
@@ -16,7 +13,6 @@
 0.0.0.0 beggsguide.com
 0.0.0.0 bignuggetnews.com
 0.0.0.0 bisonguide.com
-0.0.0.0 blacklistednews.com
 0.0.0.0 bluehillguide.com
 0.0.0.0 boonecountyguide.com
 0.0.0.0 bpsmoguide.com
@@ -57,7 +53,6 @@
 0.0.0.0 hancockguide.com
 0.0.0.0 hancocknyguide.com
 0.0.0.0 holyroodguide.com
-0.0.0.0 humansarefree.com
 0.0.0.0 idasacguide.com
 0.0.0.0 indiaarising.com
 0.0.0.0 indianolaguide.com
@@ -82,7 +77,6 @@
 0.0.0.0 mahaskaguide.com
 0.0.0.0 marioncountyguide.com
 0.0.0.0 marshallguide.com
-0.0.0.0 mediamass.net
 0.0.0.0 miltonvaleguide.com
 0.0.0.0 moapavalleyguide.com
 0.0.0.0 moundridgeguide.com
@@ -125,7 +119,6 @@
 0.0.0.0 tmzworldstarnews.com
 0.0.0.0 totalworldnews.com
 0.0.0.0 truthpoliticsnews.com
-0.0.0.0 twitchy.com
 0.0.0.0 ultimateflashnews.com
 0.0.0.0 unitymaineguide.com
 0.0.0.0 usaaroundtheworldnews.com
@@ -140,32 +133,25 @@
 0.0.0.0 wm21news.com
 0.0.0.0 wrightcountyguide.com
 0.0.0.0 www.abeldanger.net
-0.0.0.0 www.activistpost.com
 0.0.0.0 www.actualidadpanamericana.com
-0.0.0.0 www.ae911truth.org
 0.0.0.0 www.americanpoliticnews.com
 0.0.0.0 www.amtvmedia.com
 0.0.0.0 www.angrypatriotmovement.com
 0.0.0.0 www.barenakedislam.com
 0.0.0.0 www.bighairynews.com
-0.0.0.0 www.bizpacreview.com
-0.0.0.0 www.breitbart.com
 0.0.0.0 www.celebmaestro.com
 0.0.0.0 www.centerforsecuritypolicy.org
-0.0.0.0 www.corbettreport.com
 0.0.0.0 www.darkmoon.me
 0.0.0.0 www.dcclothesline.com
 0.0.0.0 www.denfriakarolinen.se
 0.0.0.0 www.empiresports.co
 0.0.0.0 www.eutimes.net
-0.0.0.0 www.express.co.uk
 0.0.0.0 www.fort-russ.com
 0.0.0.0 www.fourwinds10.net
 0.0.0.0 www.fridaymash.com
 0.0.0.0 www.gaia.com
 0.0.0.0 www.geoengineeringwatch.org
 0.0.0.0 www.globalpossibilities.org
-0.0.0.0 www.healthnutnews.com
 0.0.0.0 www.hermancain.com
 0.0.0.0 www.ifactsviral.com
 0.0.0.0 www.informationclearinghouse.info
@@ -185,7 +171,6 @@
 0.0.0.0 www.redstate.com
 0.0.0.0 www.rense.com
 0.0.0.0 www.revolutions2040.com
-0.0.0.0 www.rt.com
 0.0.0.0 www.ruptly.tv
 0.0.0.0 www.sensationalisttimes.com
 0.0.0.0 www.shiftfrequency.com
@@ -194,13 +179,11 @@
 0.0.0.0 www.strategic-culture.org
 0.0.0.0 www.superstation95.com
 0.0.0.0 www.teaparty.org
-0.0.0.0 www.theblaze.com
 0.0.0.0 www.thedailybell.com
 0.0.0.0 www.theeventchronicle.com
 0.0.0.0 www.themoralofthestory.us
 0.0.0.0 www.thenewamerican.com
 0.0.0.0 www.thepoke.co.uk
-0.0.0.0 www.therebel.media
 0.0.0.0 www.therussophile.org
 0.0.0.0 www.theshovel.com.au
 0.0.0.0 www.topinfopost.com
@@ -214,4 +197,3 @@
 0.0.0.0 www.worldnewspolitics.com
 0.0.0.0 www.yesimright.com
 0.0.0.0 www.zambianobserver.com
-0.0.0.0 www.zerohedge.com
