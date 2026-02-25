@@ -1,7 +1,9 @@
-# WYGENEROWANO: 2026-02-24 04:54:49
+# WYGENEROWANO: 2026-02-25 04:55:45
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 81430
+# RAZEM: 81420
 
+0.0.0.0 0.0.0.ozw.com
+0.0.0.0 0.service.com
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0013.cc
 0.0.0.0 0024aadd.com
@@ -513,6 +515,7 @@
 0.0.0.0 3529391156.onepiece.com
 0.0.0.0 353353413.sunday-natural.es
 0.0.0.0 3546759936.vitapur.rs
+0.0.0.0 3547711.com
 0.0.0.0 3549900.com
 0.0.0.0 3557858610.vitapur.hr
 0.0.0.0 3562245072.thefemalecompany.com
@@ -736,6 +739,7 @@
 0.0.0.0 626uc.com
 0.0.0.0 631.dlads.cn
 0.0.0.0 637203416.omni.pet
+0.0.0.0 63r2vresearch.ca
 0.0.0.0 63wan.com
 0.0.0.0 64.98.201.35.bc.googleusercontent.com
 0.0.0.0 66-trk-srv.com
@@ -1388,6 +1392,7 @@
 0.0.0.0 a12.bellsouth.com
 0.0.0.0 a1410.oadz.com
 0.0.0.0 a1491.oadz.com
+0.0.0.0 a16279.actonservice.al.info
 0.0.0.0 a1662.oadz.com
 0.0.0.0 a194.inforum.com
 0.0.0.0 a1casino.com
@@ -1402,6 +1407,7 @@
 0.0.0.0 a23.com
 0.0.0.0 a2315.oadz.com
 0.0.0.0 a2397.oadz.com
+0.0.0.0 a26998.acton.tv
 0.0.0.0 a2btest.com
 0.0.0.0 a2ccecmtrk.com
 0.0.0.0 a2m.cn
@@ -1409,6 +1415,7 @@
 0.0.0.0 a3.allyes.com
 0.0.0.0 a3.img.static.youmi.net
 0.0.0.0 a4.ikafan.com
+0.0.0.0 a43711.actonservice.coi99906.com
 0.0.0.0 a483k.badsectorlabs.com
 0.0.0.0 a4hyd98h.com
 0.0.0.0 a592.lehighvalleylive.com
@@ -1569,7 +1576,6 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtest-ld-v2.s3.eu-north-1.amazonaws.com
 0.0.0.0 abtest-proxy.insmind.com
-0.0.0.0 abtest.analog.com
 0.0.0.0 abtest.api.viber.com
 0.0.0.0 abtest.tantanapp.com
 0.0.0.0 abtesting.ai
@@ -1582,6 +1588,7 @@
 0.0.0.0 ac1.786ip.com
 0.0.0.0 ac6xcmn.com
 0.0.0.0 ac934intrk.com
+0.0.0.0 academic-newspapeytimes.com
 0.0.0.0 accelitas.com
 0.0.0.0 acceptableauthority.com
 0.0.0.0 access-analytics.versantphysics.com
@@ -1660,7 +1667,6 @@
 0.0.0.0 actioniq.com
 0.0.0.0 active-analytics.com
 0.0.0.0 active.baofeng.com
-0.0.0.0 active.tc.skysrt.com
 0.0.0.0 activedemand.com
 0.0.0.0 activefeaturepoint.com
 0.0.0.0 actives.youku.com
@@ -2986,7 +2992,6 @@
 0.0.0.0 analytics-js-internal-cdn.liferay.com
 0.0.0.0 analytics-junimuc.de
 0.0.0.0 analytics-lb-535076789.us-east-1.elb.amazonaws.com
-0.0.0.0 analytics-live.gameforge.com
 0.0.0.0 analytics-live.mybestbrands.com
 0.0.0.0 analytics-looker.vibescm.com
 0.0.0.0 analytics-ls.stridelearning.com
@@ -5593,7 +5598,6 @@
 0.0.0.0 analytics.elmitel.com
 0.0.0.0 analytics.elmolis.sk
 0.0.0.0 analytics.elo7.com.br
-0.0.0.0 analytics.elogic.cloud
 0.0.0.0 analytics.elokapina.fi
 0.0.0.0 analytics.elosi.com
 0.0.0.0 analytics.els.srl
@@ -5637,7 +5641,6 @@
 0.0.0.0 analytics.engwer.net
 0.0.0.0 analytics.enhost.io
 0.0.0.0 analytics.enia.it
-0.0.0.0 analytics.eniky.com
 0.0.0.0 analytics.enode.ai
 0.0.0.0 analytics.enovate.co.uk
 0.0.0.0 analytics.enovating.com
@@ -5967,7 +5970,6 @@
 0.0.0.0 analytics.firmamcepte.com
 0.0.0.0 analytics.first-8.dk
 0.0.0.0 analytics.first-art.net
-0.0.0.0 analytics.first.institute
 0.0.0.0 analytics.firstesource.com
 0.0.0.0 analytics.firstrade.net
 0.0.0.0 analytics.firstvoices.com
@@ -7142,7 +7144,6 @@
 0.0.0.0 analytics.ippo.pro
 0.0.0.0 analytics.iproute.de
 0.0.0.0 analytics.ipsos-reporting.com
-0.0.0.0 analytics.iq-m.de
 0.0.0.0 analytics.irelandwebsitedesign.com
 0.0.0.0 analytics.irenevandermeijs.nl
 0.0.0.0 analytics.iretaill.com
@@ -11794,7 +11795,6 @@
 0.0.0.0 analytics.vela.care
 0.0.0.0 analytics.velja.de
 0.0.0.0 analytics.velle.de
-0.0.0.0 analytics.velomotion.de
 0.0.0.0 analytics.vemaeg.de
 0.0.0.0 analytics.veneris.es
 0.0.0.0 analytics.venkon.us
@@ -14272,6 +14272,7 @@
 0.0.0.0 betindex.net
 0.0.0.0 betinternet.com
 0.0.0.0 betive.com
+0.0.0.0 betjamaica.cfableindigestionstruggling.com
 0.0.0.0 betjambo.com
 0.0.0.0 betklass.com
 0.0.0.0 betland.com
@@ -14549,7 +14550,6 @@
 0.0.0.0 bk8hot.com
 0.0.0.0 bk8i.com
 0.0.0.0 bk8mys68.asia
-0.0.0.0 bk8p.com
 0.0.0.0 bk8so1.com
 0.0.0.0 bk8vie.com
 0.0.0.0 bk8viet.com
@@ -15678,7 +15678,6 @@
 0.0.0.0 casino.synottip.cz
 0.0.0.0 casino.williamhill.com
 0.0.0.0 casinoadmiral.lt
-0.0.0.0 casinoae888.com
 0.0.0.0 casinoandfriends.com
 0.0.0.0 casinobg.info
 0.0.0.0 casinobitco.in
@@ -16168,7 +16167,6 @@
 0.0.0.0 cf.pixelcut.app
 0.0.0.0 cf.rocketquote.com
 0.0.0.0 cf.zaiyunli.cn
-0.0.0.0 cf68.app
 0.0.0.0 cf68.club
 0.0.0.0 cf68.dev
 0.0.0.0 cf68.fun
@@ -20460,6 +20458,7 @@
 0.0.0.0 datafront.co
 0.0.0.0 datafuelx.com
 0.0.0.0 datagen.info
+0.0.0.0 datagrail.io
 0.0.0.0 dataholics.tech
 0.0.0.0 datahou.se
 0.0.0.0 datahub.livingbooktimelines.com
@@ -21674,7 +21673,6 @@
 0.0.0.0 e.51t4d.cn
 0.0.0.0 e.51xmgys.com
 0.0.0.0 e.53trya.cn
-0.0.0.0 e.53y8t.cn
 0.0.0.0 e.598md.cn
 0.0.0.0 e.5h9gdb.cn
 0.0.0.0 e.5n8iug.cn
@@ -23345,7 +23343,6 @@
 0.0.0.0 fa.micstatic.com
 0.0.0.0 fa4b11rz.mi-content.com
 0.0.0.0 fa88.tv
-0.0.0.0 fa88vn.live
 0.0.0.0 faas.laptopwithstickers.com
 0.0.0.0 faat.be
 0.0.0.0 faber.de
@@ -23699,6 +23696,7 @@
 0.0.0.0 fi88.app
 0.0.0.0 fi88.com
 0.0.0.0 fi88.vip
+0.0.0.0 fi881.com
 0.0.0.0 fi8822.com
 0.0.0.0 fi883.com
 0.0.0.0 fi8883.com
@@ -25048,6 +25046,7 @@
 0.0.0.0 globalgridsystems.com
 0.0.0.0 globalmatomo.com
 0.0.0.0 globalstats.ekmsecure.com
+0.0.0.0 globalt.cn
 0.0.0.0 globalwagering.ws
 0.0.0.0 glockapps.com
 0.0.0.0 glowing-courageous.b-cdn.net
@@ -25108,9 +25107,9 @@
 0.0.0.0 go8.plus
 0.0.0.0 go8.pub
 0.0.0.0 go8.pw
-0.0.0.0 go88-vn.com
 0.0.0.0 go88.ca
 0.0.0.0 go88.contractors
+0.0.0.0 go88.live
 0.0.0.0 go88.luxury
 0.0.0.0 go88.org
 0.0.0.0 go88.study
@@ -26721,7 +26720,6 @@
 0.0.0.0 hi88.chat
 0.0.0.0 hi88.gd
 0.0.0.0 hi88.uno
-0.0.0.0 hi88vip1.com
 0.0.0.0 hi88vip3.com
 0.0.0.0 hi88vip4.com
 0.0.0.0 hi88vip7.com
@@ -27289,7 +27287,6 @@
 0.0.0.0 i9bet6688.com
 0.0.0.0 i9bet67.com
 0.0.0.0 i9bet68.com
-0.0.0.0 i9bet7.com
 0.0.0.0 i9bet70.com
 0.0.0.0 i9bet71.com
 0.0.0.0 i9bet72.com
@@ -27540,6 +27537,7 @@
 0.0.0.0 igehuo.com
 0.0.0.0 igetui.com
 0.0.0.0 igged9trk.com
+0.0.0.0 iginimhtppjuactive.tc.skysrt.com
 0.0.0.0 ignitify-insite-scripts.drivecentric.io
 0.0.0.0 ignitify-tagmanager-scripts.drivecentric.io
 0.0.0.0 ignitify-tagmanager.drivecentric.io
@@ -28383,7 +28381,6 @@
 0.0.0.0 ip-adresim.app
 0.0.0.0 ip-adresim.net
 0.0.0.0 ip-adress.eu
-0.0.0.0 ip-api.com
 0.0.0.0 ip-api.io
 0.0.0.0 ip-api.streamingucms.com
 0.0.0.0 ip-check.org
@@ -28616,8 +28613,6 @@
 0.0.0.0 iqmetrics.jetzt.de
 0.0.0.0 iqmetrics.wirtschaftskurier.de
 0.0.0.0 iqyewu.cn
-0.0.0.0 ir.mail.126.com
-0.0.0.0 ir.mail.yeah.net
 0.0.0.0 irb.cnetstatic.com
 0.0.0.0 irdlevxe.shelterbyg.dk
 0.0.0.0 irex.ai
@@ -34240,6 +34235,7 @@
 0.0.0.0 m.wdiur.com
 0.0.0.0 m.wduis.com
 0.0.0.0 m.weboser.com
+0.0.0.0 m.website
 0.0.0.0 m.weixingshexiangji.net
 0.0.0.0 m.wervp.com
 0.0.0.0 m.wgewj.cn
@@ -44640,7 +44636,6 @@
 0.0.0.0 msspsvr.emarbox.com
 0.0.0.0 mst.addk.ru
 0.0.0.0 mstat.info
-0.0.0.0 mstat.zol.com.cn
 0.0.0.0 mstats.maris.nl
 0.0.0.0 msttz.tst98.com
 0.0.0.0 mt.arambaz.com
@@ -45014,7 +45009,6 @@
 0.0.0.0 myta.gs
 0.0.0.0 myteam11.com
 0.0.0.0 mytoprecommend.com
-0.0.0.0 mytrackcdn.com
 0.0.0.0 myuserpilot.com
 0.0.0.0 myvoicenation.com
 0.0.0.0 mywebsites.report
@@ -45687,6 +45681,7 @@
 0.0.0.0 nwejs.myzcoffice.com
 0.0.0.0 nwgo.tylertech.com
 0.0.0.0 nwo.ai
+0.0.0.0 nwvallexacp0pr.com
 0.0.0.0 nxa.aromakh.cz
 0.0.0.0 nxa.gamepc.cz
 0.0.0.0 nxa.herbyway.cz
@@ -46169,7 +46164,6 @@
 0.0.0.0 orbitanalytics.com
 0.0.0.0 orca.weatherontheway.app
 0.0.0.0 orchidearesearch.com
-0.0.0.0 orcid.org
 0.0.0.0 ord.oekotest.de
 0.0.0.0 order.flawlesslabdiamonds.co.uk
 0.0.0.0 order.flawlesslabdiamonds.com
@@ -50835,7 +50829,6 @@
 0.0.0.0 piwik.stiemer.com
 0.0.0.0 piwik.stiftung-alma.info
 0.0.0.0 piwik.stiftung-gesundheitsstadt-wiesbaden.de
-0.0.0.0 piwik.stiftung-kinder-forschen.de
 0.0.0.0 piwik.stiftung-mercator.de
 0.0.0.0 piwik.stilloffline.de
 0.0.0.0 piwik.stivo.pl
@@ -51621,7 +51614,6 @@
 0.0.0.0 piwik2.spirito.de
 0.0.0.0 piwik2.univ-montp3.fr
 0.0.0.0 piwik2.websuite.de
-0.0.0.0 piwik2.yum.de
 0.0.0.0 piwik3.datamints.com
 0.0.0.0 piwik3.ut-capitole.fr
 0.0.0.0 piwik4.pcsol.com
@@ -56858,6 +56850,7 @@
 0.0.0.0 secmetrics.rakuten.de
 0.0.0.0 second.secondpairs.com
 0.0.0.0 secondmicrosite.com
+0.0.0.0 secreporter.susercontent.com
 0.0.0.0 secretislandemail.com
 0.0.0.0 secretivestick.com
 0.0.0.0 secretosuccess.truewisemedia.net
@@ -59758,6 +59751,7 @@
 0.0.0.0 smalltrack.eu
 0.0.0.0 smallurl.pro
 0.0.0.0 smarkets.com
+0.0.0.0 smart-company365.com
 0.0.0.0 smart-tranking.net
 0.0.0.0 smart-tv-data.com
 0.0.0.0 smart-way2.com.cn
@@ -60198,7 +60192,6 @@
 0.0.0.0 smetrics.sammenomkraeft.dk
 0.0.0.0 smetrics.samsca.com
 0.0.0.0 smetrics.schaefer-shop.lu
-0.0.0.0 smetrics.schindler.cn
 0.0.0.0 smetrics.schindler.co.nz
 0.0.0.0 smetrics.schindler.dk
 0.0.0.0 smetrics.schindler.hr
@@ -60530,6 +60523,7 @@
 0.0.0.0 solutions.telus.com
 0.0.0.0 solutionswithtechnologies.com
 0.0.0.0 solverde.pt
+0.0.0.0 som.athenahealth.cowww.betquick.com
 0.0.0.0 som.cablestogo.ca
 0.0.0.0 som.homeaway.ca
 0.0.0.0 som.kmart.com
@@ -63848,7 +63842,6 @@
 0.0.0.0 stat-gvvbl.backslash.ch
 0.0.0.0 stat-kriens.backslash.ch
 0.0.0.0 stat-preprod.kengo.bzh
-0.0.0.0 stat-pulse.com
 0.0.0.0 stat-reichenburg.backslash.ch
 0.0.0.0 stat-samedan.backslash.ch
 0.0.0.0 stat-schenkon.backslash.ch
@@ -68428,7 +68421,6 @@
 0.0.0.0 stats.henhed.se
 0.0.0.0 stats.henrydalziel.com
 0.0.0.0 stats.hepta.es
-0.0.0.0 stats.herby.top
 0.0.0.0 stats.herr-kalt.de
 0.0.0.0 stats.herrfraufirma.com
 0.0.0.0 stats.herz-der-gamer.de
@@ -69965,7 +69957,6 @@
 0.0.0.0 stats.nextron.ch
 0.0.0.0 stats.nfi.no
 0.0.0.0 stats.nforcesolutions.com
-0.0.0.0 stats.niag-online.de
 0.0.0.0 stats.nibelheim.ch
 0.0.0.0 stats.nicco.io
 0.0.0.0 stats.niceco.de
@@ -72724,7 +72715,6 @@
 0.0.0.0 sv66vip6.com
 0.0.0.0 sv7.ir
 0.0.0.0 sv88.vin
-0.0.0.0 sv88.win
 0.0.0.0 sv88a.com
 0.0.0.0 sv88r.com
 0.0.0.0 sv88vn.com
@@ -73553,7 +73543,6 @@
 0.0.0.0 taisun52.fun
 0.0.0.0 taisunwin.live
 0.0.0.0 taiwanlottery.com.tw
-0.0.0.0 taiwin79.win
 0.0.0.0 taixiusunwin.games
 0.0.0.0 tajsq.fairmont-sonoma.com
 0.0.0.0 takarakuji-official.jp
@@ -73971,7 +73960,6 @@
 0.0.0.0 tgwopez.cn
 0.0.0.0 th-lm.jbovietnam.com
 0.0.0.0 th3r3alfl4m3.com
-0.0.0.0 thabet.gg
 0.0.0.0 thaicasinosonline.net
 0.0.0.0 thalesgroup-events.com
 0.0.0.0 thanhnien.khamphasampham.cc
@@ -74020,6 +74008,7 @@
 0.0.0.0 thegreenhouseopen.com
 0.0.0.0 thegreenhouseopen.net
 0.0.0.0 thehotelsnetwork.com
+0.0.0.0 thehotlive.com
 0.0.0.0 thejohnnybrown.com
 0.0.0.0 thelastamericanstand.com
 0.0.0.0 thelead.tech
@@ -75862,6 +75851,7 @@
 0.0.0.0 tradetracker.com
 0.0.0.0 tradetracker.fi
 0.0.0.0 tradetracker.nl
+0.0.0.0 tradplus.cn
 0.0.0.0 traek.io
 0.0.0.0 traf.clips4sale.com
 0.0.0.0 traf.sebservices.net
@@ -77005,6 +76995,7 @@
 0.0.0.0 usr.abcabinetry.com
 0.0.0.0 usuf.candukang.cn
 0.0.0.0 usv.kenfulk.com
+0.0.0.0 usvirr.pro
 0.0.0.0 uswestmonitoring.livesegmentservice.com
 0.0.0.0 ut.gtags.net
 0.0.0.0 ut.literama.de
@@ -77449,7 +77440,6 @@
 0.0.0.0 vitals.easyspirit.com
 0.0.0.0 vitals.ninewest.com
 0.0.0.0 vitalsus.kurtgeiger.com
-0.0.0.0 viva88.net
 0.0.0.0 vividence.com
 0.0.0.0 vivozstore.com
 0.0.0.0 viyouhui.com
@@ -77943,7 +77933,6 @@
 0.0.0.0 web-analytics.smart-ltd.co.uk
 0.0.0.0 web-analytics.spl-home.xyz
 0.0.0.0 web-analytics.transresult.net
-0.0.0.0 web-analytics.uni-muenchen.de
 0.0.0.0 web-analytics.zaonce.net
 0.0.0.0 web-analytics.zero-gravity-service.de
 0.0.0.0 web-call-analytics.com
@@ -78442,6 +78431,7 @@
 0.0.0.0 win102.com
 0.0.0.0 win29.com
 0.0.0.0 win365good.com
+0.0.0.0 win456.cc
 0.0.0.0 win79.app
 0.0.0.0 win79.download
 0.0.0.0 win79.live
@@ -78472,6 +78462,7 @@
 0.0.0.0 winvn.vip
 0.0.0.0 winvn13.com
 0.0.0.0 winvn15.com
+0.0.0.0 winvn17.com
 0.0.0.0 winvn18.com
 0.0.0.0 winzenburg.com
 0.0.0.0 wipik.bit.nl
@@ -78548,6 +78539,7 @@
 0.0.0.0 workwearfreesample.com
 0.0.0.0 worldh5.gamehz.cn
 0.0.0.0 worldofsport.co.za
+0.0.0.0 worldpush.co
 0.0.0.0 worldseriessuperstarsemail.com
 0.0.0.0 worldsportsbetting.co.za
 0.0.0.0 worldssl.net
@@ -80808,7 +80800,6 @@
 0.0.0.0 xopf.lhy1.xyz
 0.0.0.0 xoso345.com
 0.0.0.0 xoso55.com
-0.0.0.0 xoso66.com
 0.0.0.0 xoso66.info
 0.0.0.0 xoso66.io
 0.0.0.0 xoso66.life
@@ -81106,7 +81097,6 @@
 0.0.0.0 ytapi1.nagezan.net
 0.0.0.0 ytgs.film-booth.com
 0.0.0.0 yticks.coolpany.net
-0.0.0.0 ytimes.com
 0.0.0.0 ytlo.7ia9h.cn
 0.0.0.0 ytmx.2r3485.cn
 0.0.0.0 ytqyoz.materialesdefabrica.com
