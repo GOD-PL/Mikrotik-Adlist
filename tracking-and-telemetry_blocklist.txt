@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-03-15 05:08:27
+# WYGENEROWANO: 2026-03-16 05:19:38
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 79232
+# RAZEM: 79244
 
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0013.cc
@@ -736,6 +736,7 @@
 0.0.0.0 63wan.com
 0.0.0.0 64.98.201.35.bc.googleusercontent.com
 0.0.0.0 66-trk-srv.com
+0.0.0.0 661291.com
 0.0.0.0 666casino.com
 0.0.0.0 6677444.com
 0.0.0.0 6677trc.com
@@ -838,6 +839,7 @@
 0.0.0.0 79bishyroad.co.uk
 0.0.0.0 79cm.com
 0.0.0.0 79king.wtf
+0.0.0.0 79mob.com
 0.0.0.0 79t2.admaster.com.cn
 0.0.0.0 7analytics.no
 0.0.0.0 7at24wro.mi-content.com
@@ -1893,6 +1895,7 @@
 0.0.0.0 adp.atm.youku.com
 0.0.0.0 adp.s8bbs.com
 0.0.0.0 adplay.tudou.com
+0.0.0.0 adpolestar.net
 0.0.0.0 adpredictive.io
 0.0.0.0 adpro.pro.cn
 0.0.0.0 adpush.cn
@@ -4210,6 +4213,7 @@
 0.0.0.0 analytics.brandlync.com
 0.0.0.0 analytics.brandnorth.com
 0.0.0.0 analytics.brandschutz-geiger.de
+0.0.0.0 analytics.brandsistency.com
 0.0.0.0 analytics.brandslisten.com
 0.0.0.0 analytics.branginu.lt
 0.0.0.0 analytics.bravetomatoes.com
@@ -9505,7 +9509,6 @@
 0.0.0.0 analytics.portalinmobiliario.com
 0.0.0.0 analytics.portapottyrental.org
 0.0.0.0 analytics.positionabsolute.de
-0.0.0.0 analytics.postcrossing.com
 0.0.0.0 analytics.postitief.nl
 0.0.0.0 analytics.postmodern-orchestra.de
 0.0.0.0 analytics.potassiumsuperoxide.uk
@@ -12484,6 +12487,7 @@
 0.0.0.0 analyze.renxt.blackbaud.com
 0.0.0.0 analyzive.com
 0.0.0.0 analyzr.volacciapp.com
+0.0.0.0 analyzz.com
 0.0.0.0 anapixel.expansion.com
 0.0.0.0 anapixel.telva.com
 0.0.0.0 anapla.beyond.tain.one
@@ -12747,7 +12751,6 @@
 0.0.0.0 api.e.coastfashion.com
 0.0.0.0 api.e.gap.co.uk
 0.0.0.0 api.e.misspap.com
-0.0.0.0 api.e.nastygal.com
 0.0.0.0 api.e.oasisfashion.com
 0.0.0.0 api.e.wallis.co.uk
 0.0.0.0 api.eadcasareal.com
@@ -20620,6 +20623,7 @@
 0.0.0.0 df97trk.com
 0.0.0.0 dfbertuah.com
 0.0.0.0 dfbhbab.r.tsp1-brevo.net
+0.0.0.0 dfc1.benbaisteel.com
 0.0.0.0 dffgames.com
 0.0.0.0 dfm7wh2x5l4za.cloudfront.net
 0.0.0.0 dfp.aa.sdo.com
@@ -21502,6 +21506,7 @@
 0.0.0.0 e.figigl.cn
 0.0.0.0 e.fimky.com
 0.0.0.0 e.fipipo.cn
+0.0.0.0 e.fkkse.com
 0.0.0.0 e.fkogs.com
 0.0.0.0 e.focuscat.com
 0.0.0.0 e.fsdlu.cn
@@ -22914,6 +22919,7 @@
 0.0.0.0 f0p3n5vy0trk.com
 0.0.0.0 f1.five88.com
 0.0.0.0 f1.luoshenbest.cn
+0.0.0.0 f1.lutouwang.net
 0.0.0.0 f1.macauclub.fun
 0.0.0.0 f1.one88.me
 0.0.0.0 f1.one88.win
@@ -24161,6 +24167,7 @@
 0.0.0.0 ge92trk.com
 0.0.0.0 geakr.com
 0.0.0.0 geatmap.com
+0.0.0.0 gecopakistan.com
 0.0.0.0 gedawang.com
 0.0.0.0 geeltrk.com
 0.0.0.0 geiger.kernkraftwerk.lol
@@ -24800,7 +24807,6 @@
 0.0.0.0 gradignan.fr.matomo02.stratis.pro
 0.0.0.0 grailinsights.com
 0.0.0.0 grain.ekvintagewood.com
-0.0.0.0 grand.ele.me
 0.0.0.0 grandiosefire.com
 0.0.0.0 granularity.guru
 0.0.0.0 grapeopinion.com
@@ -27138,6 +27144,7 @@
 0.0.0.0 imp.i115008.net
 0.0.0.0 imp.madserving.com
 0.0.0.0 imp.pdb.madserving.com
+0.0.0.0 imp.xgo.com.cn
 0.0.0.0 impact-ad.jp
 0.0.0.0 impact-log-api.frontiersin.org
 0.0.0.0 impactanalytics.azurewebsites.net
@@ -35601,7 +35608,6 @@
 0.0.0.0 matomo.kaijo-shibuya.de
 0.0.0.0 matomo.kaiman.fr
 0.0.0.0 matomo.kairn.net
-0.0.0.0 matomo.kaisergranat.com
 0.0.0.0 matomo.kaizen-it.fr
 0.0.0.0 matomo.kalinka-realty.com
 0.0.0.0 matomo.kamender.com
@@ -43443,6 +43449,7 @@
 0.0.0.0 modeanalytics.com
 0.0.0.0 modeand.co.uk
 0.0.0.0 modernpostcard.com
+0.0.0.0 modeto.com
 0.0.0.0 modovisa.com
 0.0.0.0 modsi.com
 0.0.0.0 module.maverton.fr
@@ -45755,7 +45762,6 @@
 0.0.0.0 phenomtrackapi.phenompeople.com
 0.0.0.0 phh3dnsk.com
 0.0.0.0 phjml.cn
-0.0.0.0 phnx.click
 0.0.0.0 photo.0234408.cn
 0.0.0.0 photo.789ble.cn
 0.0.0.0 photo.941ziyuan.cn
@@ -46030,7 +46036,6 @@
 0.0.0.0 piwik.adelphi.de
 0.0.0.0 piwik.adeo-web.fr
 0.0.0.0 piwik.adfc-frankfurt.de
-0.0.0.0 piwik.adfc-hessen-server.de
 0.0.0.0 piwik.adipositashilfe-deutschland.de
 0.0.0.0 piwik.aditu.de
 0.0.0.0 piwik.adler-personal.com
@@ -55549,6 +55554,7 @@
 0.0.0.0 sdk.loyaltylion.net
 0.0.0.0 sdk.qikify.com
 0.0.0.0 sdk.tf.360.cn
+0.0.0.0 sdk.zsdfm.com
 0.0.0.0 sdkclick.com
 0.0.0.0 sdklog.menaapp.net
 0.0.0.0 sdkpay.uu.cc
@@ -57066,6 +57072,7 @@
 0.0.0.0 sgtm.axell-group.com
 0.0.0.0 sgtm.axerve.com
 0.0.0.0 sgtm.azur-appartementen.be
+0.0.0.0 sgtm.b2bpartner.de
 0.0.0.0 sgtm.baad-motor.dk
 0.0.0.0 sgtm.babydocshop.ie
 0.0.0.0 sgtm.backyarddejvice.cz
@@ -57195,6 +57202,7 @@
 0.0.0.0 sgtm.denidro-lights.com
 0.0.0.0 sgtm.dennisdidit.com
 0.0.0.0 sgtm.der.dk
+0.0.0.0 sgtm.derhundling.de
 0.0.0.0 sgtm.designcloud.app
 0.0.0.0 sgtm.diabloitaliafans.it
 0.0.0.0 sgtm.digitalsense.ch
@@ -57396,6 +57404,7 @@
 0.0.0.0 sgtm.lapert.cz
 0.0.0.0 sgtm.lapert.sk
 0.0.0.0 sgtm.lardeferias.com.br
+0.0.0.0 sgtm.lasea.de
 0.0.0.0 sgtm.leasy.dk
 0.0.0.0 sgtm.legadelfilodoro.it
 0.0.0.0 sgtm.leovegas.it
@@ -73772,6 +73781,7 @@
 0.0.0.0 tradetracker.com
 0.0.0.0 tradetracker.fi
 0.0.0.0 tradetracker.nl
+0.0.0.0 tradplus.cn
 0.0.0.0 traek.io
 0.0.0.0 traf.clips4sale.com
 0.0.0.0 traf.sebservices.net
@@ -73822,6 +73832,7 @@
 0.0.0.0 tranquilamulet.com
 0.0.0.0 tranquilarchipelago.com
 0.0.0.0 transactional.ai
+0.0.0.0 transalpinafan.ro
 0.0.0.0 transcend-cdn.com
 0.0.0.0 transcend-mobile-consent.com
 0.0.0.0 transcend.io
@@ -74035,6 +74046,7 @@
 0.0.0.0 trksrv46.com
 0.0.0.0 trktsm.com
 0.0.0.0 trm.internationalsos.com
+0.0.0.0 trochoivuaclub.online
 0.0.0.0 troology.com
 0.0.0.0 tropos.io
 0.0.0.0 trozlabs.com
@@ -75119,6 +75131,7 @@
 0.0.0.0 vcerym7trk.com
 0.0.0.0 vcx5res.com
 0.0.0.0 vd-vbox-242.top
+0.0.0.0 vda.17173.com
 0.0.0.0 vdapprecv.app.cntvwb.cn
 0.0.0.0 vdcci.adsame.com
 0.0.0.0 vdconmailbox-585.top
@@ -77735,7 +77748,6 @@
 0.0.0.0 www.onetad.com
 0.0.0.0 www.onewhee.com
 0.0.0.0 www.oollttqq.com
-0.0.0.0 www.ooniu.com
 0.0.0.0 www.opap.gr
 0.0.0.0 www.open-uc.cn
 0.0.0.0 www.oppa88888888.com
