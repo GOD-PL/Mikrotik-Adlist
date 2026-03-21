@@ -1,4 +1,4 @@
-# WYGENEROWANO: 2026-03-20 04:49:46
+# WYGENEROWANO: 2026-03-21 04:40:07
 # KATEGORIA: social
 # RAZEM: 4491
 
@@ -1422,7 +1422,6 @@
 0.0.0.0 f-moneyloan.snssdk.com
 0.0.0.0 f-moneyloantest.snssdk.com
 0.0.0.0 f-p-sandbox.snssdk.com
-0.0.0.0 f-p-va.isnssdk.com.edgekey.net
 0.0.0.0 f-pay-rp.snssdk.com
 0.0.0.0 f.l.bytedns.net
 0.0.0.0 f3-ttcdn-tos.pstatp.com
@@ -1699,6 +1698,7 @@
 0.0.0.0 imapi-mu.isnssdk.com.edgekey.net
 0.0.0.0 imapi-n.snssdk.com
 0.0.0.0 imapi.snssdk.com.w.kunluncan.com
+0.0.0.0 imapi2.isnssdk.com
 0.0.0.0 imapi2.isnssdk.com.edgekey.net
 0.0.0.0 imapi2.snssdk.com
 0.0.0.0 imapi2.snssdk.com.w.kunluncan.com
