@@ -1,46 +1,46 @@
-STATS: 2026-03-30 05:28:06
+STATS: 2026-03-31 05:12:56
 ================================================================================
 
-SHARED: 441969
+SHARED: 442838
 
-ads: 216746 (total: 414079)
-extensions: 399001 (total: 707513)
-fakenews: 216 (total: 2188)
-fraud: 194536 (total: 196078)
-malicious: 751106 (total: 939582)
-other: 44867 (total: 221497)
-phishing: 186877 (total: 348229)
+ads: 218675 (total: 416385)
+extensions: 400457 (total: 709486)
+fakenews: 214 (total: 2188)
+fraud: 194542 (total: 196078)
+malicious: 751784 (total: 939582)
+other: 44253 (total: 221736)
+phishing: 184661 (total: 346123)
 ransomware: 3 (total: 1904)
-redirect: 107138 (total: 108684)
-scam: 451097 (total: 468727)
+redirect: 107139 (total: 108684)
+scam: 451123 (total: 468727)
 sites: 61 (total: 292)
 social: 4491 (total: 4666)
-spam: 219613 (total: 226118)
-tracking-and-telemetry: 79301 (total: 219456)
+spam: 219862 (total: 226401)
+tracking-and-telemetry: 78799 (total: 219454)
 
-UNIQUE TOTAL: 2655053
-ALL DOMAINS: 3097022
+UNIQUE TOTAL: 2656064
+ALL DOMAINS: 3098902
 
 URL:
-ads | easylist.fork.txt | 56839
+ads | easylist.fork.txt | 57122
 ads | adservers.fork.txt | 42358
 ads | youtube.fork.txt | 24280
-ads | AdguardDNS.fork.txt | 161433
+ads | AdguardDNS.fork.txt | 163954
 ads | GoodbyeAds.fork.txt | 277767
 ads | youtubelist.fork.txt | 16841
-extensions | adguard-host.fork.txt | 161809
-extensions | easy-privacy-host.fork.txt | 40309
-extensions | pro.fork.txt | 379035
+extensions | adguard-host.fork.txt | 162123
+extensions | easy-privacy-host.fork.txt | 40312
+extensions | pro.fork.txt | 379463
 extensions | adguarddns-justdomains.fork.txt | 48989
-extensions | big.fork.txt | 282644
+extensions | big.fork.txt | 283974
 fakenews | hosts.fork.txt | 2188
 fraud | hosts.fork.txt | 196078
 malicious | Malware.fork.txt | 509299
 malicious | malware.fork.txt | 435199
-other | hosts.fork.txt | 87414
-other | KADhosts.fork.txt | 61166
-other | domains-hosts.fork.txt | 147439
-phishing | Phishing-Angriffe.fork.txt | 158062
+other | hosts.fork.txt | 88760
+other | KADhosts.fork.txt | 62628
+other | domains-hosts.fork.txt | 148215
+phishing | Phishing-Angriffe.fork.txt | 155943
 phishing | phishing.fork.txt | 190197
 ransomware | ransomware.fork.txt | 1904
 redirect | redirect.fork.txt | 108684
@@ -50,8 +50,8 @@ sites | youtube.txt | 282
 social | instagram.txt | 67
 social | snapchat.txt | 2269
 social | tiktok.txt | 3789
-spam | spam-mails.fork.txt | 155028
-spam | toxic-domains-whole.fork.txt | 71166
+spam | spam-mails.fork.txt | 155299
+spam | toxic-domains-whole.fork.txt | 71178
 tracking-and-telemetry | easyprivacy.fork.txt | 40307
-tracking-and-telemetry | tracking.fork.txt | 114109
-tracking-and-telemetry | host.fork.txt | 116940
+tracking-and-telemetry | tracking.fork.txt | 114130
+tracking-and-telemetry | host.fork.txt | 116895
