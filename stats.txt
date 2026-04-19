@@ -1,25 +1,25 @@
-STATS: 2026-04-19 05:32:51
+STATS: 2026-04-19 19:04:24
 ================================================================================
 
-SHARED: 456021
+SHARED: 462198
 
-ads: 217768 (total: 418336)
-extensions: 444627 (total: 784265)
+ads: 212957 (total: 418348)
+extensions: 443304 (total: 784277)
 fakenews: 213 (total: 2188)
 fraud: 194426 (total: 196078)
-malicious: 1183325 (total: 1378382)
-other: 45661 (total: 218843)
+malicious: 1183319 (total: 1378382)
+other: 45723 (total: 219665)
 phishing: 184616 (total: 345737)
 ransomware: 3 (total: 1904)
 redirect: 107137 (total: 108684)
 scam: 447039 (total: 468727)
 sites: 61 (total: 292)
 social: 4491 (total: 4666)
-spam: 221234 (total: 228489)
-tracking-and-telemetry: 79089 (total: 220753)
+spam: 221213 (total: 228489)
+tracking-and-telemetry: 97647 (total: 245901)
 
-UNIQUE TOTAL: 3129690
-ALL DOMAINS: 3585711
+UNIQUE TOTAL: 3142149
+ALL DOMAINS: 3604347
 
 URL:
 ads | easylist.fork.txt | 56053
@@ -28,9 +28,11 @@ ads | youtube.fork.txt | 24280
 ads | AdguardDNS.fork.txt | 162386
 ads | GoodbyeAds.fork.txt | 277767
 ads | youtubelist.fork.txt | 16841
+ads | AdguardMobileAds.fork.txt | 906
 extensions | adguard-host.fork.txt | 162729
 extensions | easy-privacy-host.fork.txt | 40344
 extensions | pro.fork.txt | 411555
+extensions | AdguardMobileSpyware.fork.txt | 1104
 extensions | adguarddns-justdomains.fork.txt | 48989
 extensions | big.fork.txt | 333108
 fakenews | hosts.fork.txt | 2188
@@ -39,6 +41,7 @@ malicious | Malware.fork.txt | 950941
 malicious | malware.fork.txt | 435199
 other | hosts.fork.txt | 87767
 other | KADhosts.fork.txt | 55784
+other | hostfile.fork.txt | 950
 other | domains-hosts.fork.txt | 143889
 phishing | Phishing-Angriffe.fork.txt | 155555
 phishing | phishing.fork.txt | 190197
@@ -54,4 +57,5 @@ spam | spam-mails.fork.txt | 156658
 spam | toxic-domains-whole.fork.txt | 71907
 tracking-and-telemetry | easyprivacy.fork.txt | 40339
 tracking-and-telemetry | tracking.fork.txt | 114187
+tracking-and-telemetry | firstparty-trackers-hosts.txt | 31772
 tracking-and-telemetry | host.fork.txt | 118151
