@@ -10,9 +10,11 @@ BLOCKLIST_URLS = [
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/AdguardDNS.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/kboghdady/youtubelist.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/r-a-y/AdguardMobileAds.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/hagezi/pro.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/r-a-y/AdguardMobileSpyware.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/justdomains/adguarddns-justdomains.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/oisd/big.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/fakenews/StevenBlack/hosts.fork.txt",
@@ -21,6 +23,7 @@ BLOCKLIST_URLS = [
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/malicious/blocklistproject/malware.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/StevenBlack/hosts.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/PolishFiltersTeam/KADhosts.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/MajkiIT/hostfile.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/cert.pl/domains-hosts.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/phishing/blocklistproject/phishing.fork.txt",
@@ -36,6 +39,7 @@ BLOCKLIST_URLS = [
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/stopforumspam/toxic-domains-whole.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt",
+    "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt",
     "https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt"
 ]
 
@@ -48,7 +52,7 @@ def download_list(url):
         r.raise_for_status()
         return r.text.splitlines()
     except requests.RequestException as e:
-        print(f"BŁĄD: {e}")
+        print(f"BŁĄD podczas pobierania listy:\n {url} - {e}")
         return []
 
 def parse_domain(line):
