@@ -104,13 +104,13 @@ def main():
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     # Zapisz wspólne domeny
-    count = write_blocklist('blocklist.txt', shared_domains, 'shared', timestamp)
-    print(f"ZAPISANO: blocklist.txt ({count})")
+    count = write_blocklist('duplicates.txt', shared_domains, 'shared', timestamp)
+    print(f"ZAPISANO: duplicates.txt ({count})")
 
     # Zapisz unikalne dla każdej kategorii
     for category, domains in category_domains.items():
         unique = domains - shared_domains
-        filename = f'{category}_blocklist.txt'
+        filename = f'{category}.txt'
         count = write_blocklist(filename, unique, category, timestamp)
         print(f"ZAPISANO: {filename} ({count})")
 
