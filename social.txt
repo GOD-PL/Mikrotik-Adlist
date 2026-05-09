@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-05-08 05:32:01
+# WYGENEROWANO: 2026-05-09 05:51:05
 # KATEGORIA: social
-# RAZEM: 4494
+# RAZEM: 4493
 
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
@@ -3383,7 +3383,6 @@
 0.0.0.0 story.snapchat.com
 0.0.0.0 storysharing.snapchat.com
 0.0.0.0 studio-app.snapchat.com
-0.0.0.0 studio-crash.snapchat.com
 0.0.0.0 subscriptions-beta.snapchat.com
 0.0.0.0 subscriptions-dev.snapchat.com
 0.0.0.0 subscriptions.snapchat.com
