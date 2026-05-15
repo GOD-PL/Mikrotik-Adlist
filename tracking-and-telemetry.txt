@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-05-14 06:27:17
+# WYGENEROWANO: 2026-05-15 06:36:30
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 97291
+# RAZEM: 97257
 
 0.0.0.0 0-0-gc-007dam1l40se01-1.gbc.criteo.com
 0.0.0.0 0-0.net.daraz.com
@@ -121,7 +121,6 @@
 0.0.0.0 1.feeddsp.cn
 0.0.0.0 1.gbc.criteo.com
 0.0.0.0 1.hslyqs.com
-0.0.0.0 1.huobiwang.cc
 0.0.0.0 1.hysou.com
 0.0.0.0 1.letvlive.com
 0.0.0.0 1.modzj.net
@@ -243,6 +242,7 @@
 0.0.0.0 13strides.co.uk
 0.0.0.0 13strides.com
 0.0.0.0 13yg.cn
+0.0.0.0 14-0-204-188.static.pccw-hkt.com
 0.0.0.0 140456881.liquid-life.de
 0.0.0.0 1409839421.petromax.de
 0.0.0.0 143nchrtl3.com
@@ -610,6 +610,7 @@
 0.0.0.0 319dn.dieti-natura.com
 0.0.0.0 3201098576.tactree.co.uk
 0.0.0.0 321628739669852.mateti.net
+0.0.0.0 322927.com
 0.0.0.0 3229688005.miss-goodlife.com
 0.0.0.0 324.com
 0.0.0.0 32414.com
@@ -1459,7 +1460,6 @@
 0.0.0.0 a.kurvemagerne.dk
 0.0.0.0 a.labiennaledelyon.com
 0.0.0.0 a.lawcatalog.com
-0.0.0.0 a.leadbi.com
 0.0.0.0 a.leonkorteweg.nl
 0.0.0.0 a.logbox.io
 0.0.0.0 a.ltdcommodities.com
@@ -1514,7 +1514,6 @@
 0.0.0.0 a.rosettastone.com
 0.0.0.0 a.sa.a-sea-change.net
 0.0.0.0 a.sahudfi8y74933ujk.com
-0.0.0.0 a.sandspiel.club
 0.0.0.0 a.schicksal.com
 0.0.0.0 a.science-discoveries-diary.com
 0.0.0.0 a.sciencerookie.com
@@ -2293,7 +2292,6 @@
 0.0.0.0 active-analytics.com
 0.0.0.0 active.baofeng.com
 0.0.0.0 active.net.daraz.com
-0.0.0.0 active.tc.skysrt.com
 0.0.0.0 active.tt.omtrdc.net
 0.0.0.0 activedemand.com
 0.0.0.0 activefeaturepoint.com
@@ -2572,7 +2570,6 @@
 0.0.0.0 admobispy.com
 0.0.0.0 admobius.com
 0.0.0.0 admon.ai
-0.0.0.0 admonitor.net
 0.0.0.0 admosphere.cz
 0.0.0.0 adn.agrantsem.com
 0.0.0.0 adnear.net
@@ -2735,6 +2732,7 @@
 0.0.0.0 advapikj.joyplus.tv
 0.0.0.0 advectas.se
 0.0.0.0 advent-event.com
+0.0.0.0 adverity.com
 0.0.0.0 advert-api-sandbox.wb.ru
 0.0.0.0 advert-api-sandbox.wildberries.ru
 0.0.0.0 advert-api.wb.ru
@@ -2839,6 +2837,7 @@
 0.0.0.0 aff.solarbet.com
 0.0.0.0 aff.sportsevents365.com
 0.0.0.0 aff.storeus.com
+0.0.0.0 aff.taptap.asia
 0.0.0.0 aff.taptaptructuyen.com
 0.0.0.0 aff.trustofferlink.com
 0.0.0.0 aff4jobs.com
@@ -3047,7 +3046,6 @@
 0.0.0.0 ahlxxx.com
 0.0.0.0 ahmip.mysteamate.com
 0.0.0.0 ahrefs.com
-0.0.0.0 ahtigames.com
 0.0.0.0 ahxhny.cn
 0.0.0.0 ahy4.canariasdestino.com
 0.0.0.0 ai-cab.gbc.criteo.com
@@ -5620,7 +5618,6 @@
 0.0.0.0 analytics.comune.parma.it
 0.0.0.0 analytics.conareg.org
 0.0.0.0 analytics.conc.at
-0.0.0.0 analytics.concedra.de
 0.0.0.0 analytics.concept-42.com
 0.0.0.0 analytics.concept.ruhr
 0.0.0.0 analytics.concertbuero-zahlmann.de
@@ -5753,7 +5750,6 @@
 0.0.0.0 analytics.crown.business
 0.0.0.0 analytics.crowneplaza.com
 0.0.0.0 analytics.cruncho.co
-0.0.0.0 analytics.crutchfield.com
 0.0.0.0 analytics.cryptolions.io
 0.0.0.0 analytics.cs-us.com
 0.0.0.0 analytics.cs.ubc.ca
@@ -6292,7 +6288,6 @@
 0.0.0.0 analytics.e-sec.com
 0.0.0.0 analytics.e.beachesmailings.com
 0.0.0.0 analytics.e.samaritan.org
-0.0.0.0 analytics.e.sandalsmailings.com
 0.0.0.0 analytics.e.sherwin-williams.com
 0.0.0.0 analytics.e2time.io
 0.0.0.0 analytics.eaglecomelko.com
@@ -6629,7 +6624,6 @@
 0.0.0.0 analytics.fairbutler.com
 0.0.0.0 analytics.fairversity.at
 0.0.0.0 analytics.fait.gl
-0.0.0.0 analytics.faitco.com
 0.0.0.0 analytics.faithstream.tv
 0.0.0.0 analytics.falk.host
 0.0.0.0 analytics.falkoschulte.de
@@ -7612,7 +7606,6 @@
 0.0.0.0 analytics.iankumu.com
 0.0.0.0 analytics.ibc-hamburg.de
 0.0.0.0 analytics.ibetder.com
-0.0.0.0 analytics.ibj.com
 0.0.0.0 analytics.ibrutes.com
 0.0.0.0 analytics.ibu-hhn.de
 0.0.0.0 analytics.ibureau.services
@@ -7852,7 +7845,6 @@
 0.0.0.0 analytics.internetmedia.nl
 0.0.0.0 analytics.internetmedia.se
 0.0.0.0 analytics.interregnorthsea.eu
-0.0.0.0 analytics.interstatebatteries.com
 0.0.0.0 analytics.interwebs-ug.de
 0.0.0.0 analytics.intesys.com.br
 0.0.0.0 analytics.intgr.co
@@ -9217,7 +9209,6 @@
 0.0.0.0 analytics.mitakidis.eu
 0.0.0.0 analytics.mithirn.de
 0.0.0.0 analytics.mitkids.in
-0.0.0.0 analytics.mitmore.com
 0.0.0.0 analytics.mitrev.net
 0.0.0.0 analytics.mittere.de
 0.0.0.0 analytics.mivetek.fi
@@ -9390,7 +9381,6 @@
 0.0.0.0 analytics.museum-brandhorst.de
 0.0.0.0 analytics.musicad.eu
 0.0.0.0 analytics.musicad.nl
-0.0.0.0 analytics.musical-artifacts.com
 0.0.0.0 analytics.musikhausfunke.de
 0.0.0.0 analytics.muzi.ch
 0.0.0.0 analytics.muziekwiki.nl
@@ -9850,6 +9840,7 @@
 0.0.0.0 analytics.oolong.media
 0.0.0.0 analytics.ooma.com
 0.0.0.0 analytics.oonops.eu
+0.0.0.0 analytics.ooopic.com
 0.0.0.0 analytics.oose.de
 0.0.0.0 analytics.opedmedical.com
 0.0.0.0 analytics.open-accessibility.org
@@ -10571,7 +10562,6 @@
 0.0.0.0 analytics.regeladvertenties.nl
 0.0.0.0 analytics.regenfasspumpe24.de
 0.0.0.0 analytics.regenta-net.de
-0.0.0.0 analytics.regiohelden.de
 0.0.0.0 analytics.regional-fussball.ch
 0.0.0.0 analytics.regionales-konjunkturbarometer.de
 0.0.0.0 analytics.regionalis.shop
@@ -11451,7 +11441,6 @@
 0.0.0.0 analytics.sportstourism.events
 0.0.0.0 analytics.spotar.io
 0.0.0.0 analytics.spotic.net
-0.0.0.0 analytics.spotpet.com
 0.0.0.0 analytics.spotpetins.com
 0.0.0.0 analytics.spout.cc
 0.0.0.0 analytics.spraachen.org
@@ -11980,7 +11969,6 @@
 0.0.0.0 analytics.three60solutions.eu
 0.0.0.0 analytics.threeby.de
 0.0.0.0 analytics.threefold.io
-0.0.0.0 analytics.threeg.app
 0.0.0.0 analytics.threesam.com
 0.0.0.0 analytics.threesides.com.au
 0.0.0.0 analytics.threesixtygiving.org
@@ -12139,7 +12127,6 @@
 0.0.0.0 analytics.trentinosviluppo.it
 0.0.0.0 analytics.treppenlift-zentrum.de
 0.0.0.0 analytics.tresytres.mx
-0.0.0.0 analytics.tri-punkt.de
 0.0.0.0 analytics.triangleheadsoftware.com
 0.0.0.0 analytics.tribunadepetropolis.com.br
 0.0.0.0 analytics.tridesetri.com
@@ -12159,7 +12146,6 @@
 0.0.0.0 analytics.tritan.gg
 0.0.0.0 analytics.tritoncg.com
 0.0.0.0 analytics.trivano.group
-0.0.0.0 analytics.triviar.de
 0.0.0.0 analytics.trivium-esolutions.com
 0.0.0.0 analytics.trocknung-prebitz.de
 0.0.0.0 analytics.troeschs.de
@@ -12252,7 +12238,6 @@
 0.0.0.0 analytics.u2tour.de
 0.0.0.0 analytics.ub.de
 0.0.0.0 analytics.uberflip-stg1.com
-0.0.0.0 analytics.uberspace.de
 0.0.0.0 analytics.ubitec.at
 0.0.0.0 analytics.ucell.com.ua
 0.0.0.0 analytics.uct-mainz.de
@@ -12781,7 +12766,6 @@
 0.0.0.0 analytics.whartondcinnovation.com
 0.0.0.0 analytics.whatshouldi.stream
 0.0.0.0 analytics.whatthefreakisthis.com
-0.0.0.0 analytics.whc.ir
 0.0.0.0 analytics.whenwedisappear.com
 0.0.0.0 analytics.whistlingmartini.de
 0.0.0.0 analytics.whiteman-online.com.au
@@ -14526,7 +14510,6 @@
 0.0.0.0 audiobookscom.postaffiliatepro.com
 0.0.0.0 audioeye.activehosted.com
 0.0.0.0 audioprof.gbc.criteo.com
-0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 auditedmedia.ca
 0.0.0.0 auditedmedia.com
 0.0.0.0 auditrecording-pa.googleapis.com
@@ -15285,6 +15268,7 @@
 0.0.0.0 berndpulchmedotcom-signed-internalscsr21.net.daraz.com
 0.0.0.0 berndpulchmedotcom.net.daraz.com
 0.0.0.0 bertil.com
+0.0.0.0 bertticleaning.com
 0.0.0.0 berufswelten.landkreis-muenchen.de
 0.0.0.0 besallworld.com
 0.0.0.0 bespin-icalc.gbc.criteo.com
@@ -19069,7 +19053,6 @@
 0.0.0.0 collect.newstartcap.com
 0.0.0.0 collect.pandahall.com
 0.0.0.0 collect.peek-cloppenburg.pl
-0.0.0.0 collect.ptengine.cn
 0.0.0.0 collect.pushpay.com
 0.0.0.0 collect.q10-koenzym.no
 0.0.0.0 collect.reviews.org
@@ -20774,6 +20757,7 @@
 0.0.0.0 crs.baidu.cn
 0.0.0.0 crtdnb.axcloud.eu.preprod.gbc.criteo.com
 0.0.0.0 cruisingsmallship.com
+0.0.0.0 crymyip.com
 0.0.0.0 cryobite.com
 0.0.0.0 crystalmart.cn
 0.0.0.0 cs-bailing.com.cn
@@ -20976,6 +20960,7 @@
 0.0.0.0 curator.io
 0.0.0.0 curemedia.com
 0.0.0.0 curl7bike.com
+0.0.0.0 curlmyip.com
 0.0.0.0 curlmyip.net
 0.0.0.0 curlmyip.org
 0.0.0.0 curral.ae
@@ -23849,7 +23834,6 @@
 0.0.0.0 down.91wangmeng.com
 0.0.0.0 down.bugeyu.com
 0.0.0.0 down.dashendown.com
-0.0.0.0 down.ftp21.cc
 0.0.0.0 down.laomaotao.net
 0.0.0.0 down.lixi88.net
 0.0.0.0 down.winads.cn
@@ -26509,6 +26493,7 @@
 0.0.0.0 exploreclicktechhub.com
 0.0.0.0 exploreupfluence.com
 0.0.0.0 exponea-cdn.alshaya.com
+0.0.0.0 exponea-cdn.dnb.com
 0.0.0.0 exponea-cdn.michiganlottery.com
 0.0.0.0 exponea.alshaya.com
 0.0.0.0 exponea.kh.hu
@@ -26586,7 +26571,6 @@
 0.0.0.0 f.aty.sohu.com
 0.0.0.0 f.dashaowu.com
 0.0.0.0 f.dianwenwang.com
-0.0.0.0 f.dnsdelegation.io
 0.0.0.0 f.ehnerd.com
 0.0.0.0 f.f70123.com
 0.0.0.0 f.fj95560.com
@@ -27245,6 +27229,7 @@
 0.0.0.0 flash.2144.com
 0.0.0.0 flashgroup.com
 0.0.0.0 flashrouters.postaffiliatepro.com
+0.0.0.0 flashx.cc
 0.0.0.0 flask.nextdoor.com
 0.0.0.0 flatlong.shop
 0.0.0.0 flaviar.com
@@ -27405,6 +27390,7 @@
 0.0.0.0 forms.notice.anf.mass.gov
 0.0.0.0 forms.solium.com
 0.0.0.0 forms.sscorp.com
+0.0.0.0 formyip.com
 0.0.0.0 foros.fed.gbc.criteo.com
 0.0.0.0 forpci1.actonsoftware.com
 0.0.0.0 forpci11.actonsoftware.com
@@ -27520,6 +27506,7 @@
 0.0.0.0 forums-lj.gbc.criteo.com
 0.0.0.0 forwrd.ai
 0.0.0.0 fospha.com
+0.0.0.0 fotoinstalll.ink
 0.0.0.0 fotoservicefr01.wt-eu02.net
 0.0.0.0 fotovoltaica.obremo.es
 0.0.0.0 founderchats.com
@@ -28573,6 +28560,7 @@
 0.0.0.0 geolocalization.interia.pl
 0.0.0.0 geolocation-recommendations.shopifyapps.com
 0.0.0.0 geolocation.1trust.app
+0.0.0.0 geolocation.app.senecalearning.com
 0.0.0.0 geolocation.co.jp
 0.0.0.0 geolocation.daznservices.com
 0.0.0.0 geolocation.nexusmedia.workers.dev
@@ -28605,6 +28593,7 @@
 0.0.0.0 gesetze-rechtsprechung.sh.gbc.criteo.com
 0.0.0.0 get-ip.obkio.com
 0.0.0.0 get-kalendar.b2bmktg.com
+0.0.0.0 get-myip.com
 0.0.0.0 get-work.tips
 0.0.0.0 get.argyle.com
 0.0.0.0 get.blankos.com
@@ -29972,7 +29961,6 @@
 0.0.0.0 gogds.colehaan.co.uk
 0.0.0.0 goget-daasity.com
 0.0.0.0 gogn.gallup.is
-0.0.0.0 gogobolaku.com
 0.0.0.0 gogpstracking.com
 0.0.0.0 gogsg.actonservice.com
 0.0.0.0 gogtm.timeeamare.ro
@@ -31718,7 +31706,6 @@
 0.0.0.0 hermes.kurzgedanke.de
 0.0.0.0 hermesanalytics.netlify.app
 0.0.0.0 hermesdfe.gbc.criteo.com
-0.0.0.0 hermeslogistik01.wt-eu02.net
 0.0.0.0 hero6bell.com
 0.0.0.0 herobet.com.br
 0.0.0.0 heroclick.cn
@@ -32443,6 +32430,7 @@
 0.0.0.0 i9i9bet.com
 0.0.0.0 i9online.vip
 0.0.0.0 i9vn.com
+0.0.0.0 ia.ctags.cn
 0.0.0.0 ia.rti.org
 0.0.0.0 iab.gbc.criteo.com
 0.0.0.0 iaclick.ifeng.com
@@ -32709,7 +32697,6 @@
 0.0.0.0 iindy.co
 0.0.0.0 iinside.com
 0.0.0.0 iis.gbc.criteo.com
-0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
 0.0.0.0 ijaabm.accessonline.com
 0.0.0.0 ijdl.hbyongwan.cn
@@ -33066,7 +33053,6 @@
 0.0.0.0 in-ftd-253.fr3.vip.prod.criteo.com
 0.0.0.0 in-ftd-274.da1.vip.prod.criteo.com
 0.0.0.0 in-ftd-274.nl3.vip.prod.criteo.com
-0.0.0.0 in-ftd-274.sg1.vip.prod.criteo.com
 0.0.0.0 in-ftd-280.jp2.vip.prod.criteo.com
 0.0.0.0 in-ftd-280.nl3.vip.prod.criteo.com
 0.0.0.0 in-ftd-282.da1.vip.prod.criteo.com
@@ -33981,6 +33967,7 @@
 0.0.0.0 ip-info.monster
 0.0.0.0 ip-info.org
 0.0.0.0 ip-info.xyz
+0.0.0.0 ip-ping.ru
 0.0.0.0 ip-score.com
 0.0.0.0 ip-secrets.com
 0.0.0.0 ip.a2rev.com
@@ -34182,7 +34169,6 @@
 0.0.0.0 ipv4.kiki.zalo.ai
 0.0.0.0 ipv4.tipsport.cz
 0.0.0.0 ipv4.webshare.io
-0.0.0.0 ipv4now.com
 0.0.0.0 ipv5da.us.gbc.criteo.com
 0.0.0.0 ipv6.run
 0.0.0.0 ipv6.xiaoxitech.com
@@ -34203,8 +34189,6 @@
 0.0.0.0 iqmetrics.genios.de
 0.0.0.0 iqrt.searchadvertising.it
 0.0.0.0 iqyewu.cn
-0.0.0.0 ir.mail.126.com
-0.0.0.0 ir.mail.yeah.net
 0.0.0.0 irb.cnetstatic.com
 0.0.0.0 irc-bcava.gbc.criteo.com
 0.0.0.0 irc-fed.gbc.criteo.com
@@ -34263,6 +34247,7 @@
 0.0.0.0 it3tp1nf.com
 0.0.0.0 it5.cc
 0.0.0.0 it760.com
+0.0.0.0 ita-airwaysva.com
 0.0.0.0 italchimica.loyalup.io
 0.0.0.0 italy.getinklabs.com
 0.0.0.0 itaspa.tt.omtrdc.net
@@ -35598,6 +35583,7 @@
 0.0.0.0 kzv4.wecanimal.it
 0.0.0.0 l.adiers.com
 0.0.0.0 l.coupert.com
+0.0.0.0 l.dnsdelegation.io
 0.0.0.0 l.emails.kmart.com.au
 0.0.0.0 l.fastapi.net
 0.0.0.0 l.kessel.mtb.com
@@ -38973,7 +38959,6 @@
 0.0.0.0 lowvolatilitysolutions.com
 0.0.0.0 loyalnost-adv.ozon.ru
 0.0.0.0 loyalty.ms.aa.com
-0.0.0.0 loyalty.qantas.com
 0.0.0.0 loyalty.tgifridays.com
 0.0.0.0 loyaltylion.com
 0.0.0.0 loyaltyplus.aero
@@ -42984,7 +42969,6 @@
 0.0.0.0 matomo.hardcode.no
 0.0.0.0 matomo.harfington.com
 0.0.0.0 matomo.hathitrust.org
-0.0.0.0 matomo.hbk-bs.de
 0.0.0.0 matomo.hdgev.de
 0.0.0.0 matomo.hebmueller.de
 0.0.0.0 matomo.hegemanns.de
@@ -43310,7 +43294,6 @@
 0.0.0.0 matomo.klinikumbielefeld.de
 0.0.0.0 matomo.klopstock-ev.de
 0.0.0.0 matomo.klosma.net
-0.0.0.0 matomo.kloster-scheyern.de
 0.0.0.0 matomo.klubarbeit.net
 0.0.0.0 matomo.kmecnin.net
 0.0.0.0 matomo.kmedv.net
@@ -43430,7 +43413,6 @@
 0.0.0.0 matomo.limeandseo.it
 0.0.0.0 matomo.limelightplatform.com
 0.0.0.0 matomo.limit-fatigue.com
-0.0.0.0 matomo.limitloot.de
 0.0.0.0 matomo.linda.de
 0.0.0.0 matomo.lindenwiese.de
 0.0.0.0 matomo.lindinger.at
@@ -43586,7 +43568,6 @@
 0.0.0.0 matomo.mesaar.de
 0.0.0.0 matomo.metacheck-gendiaet.de
 0.0.0.0 matomo.metapublic.com
-0.0.0.0 matomo.metaver.de
 0.0.0.0 matomo.methodizemedia.com
 0.0.0.0 matomo.mfa-mal-anders.de
 0.0.0.0 matomo.mg-digital.de
@@ -43796,7 +43777,6 @@
 0.0.0.0 matomo.nutritionevents.com
 0.0.0.0 matomo.nuvisan-online.com
 0.0.0.0 matomo.nxdomain.network
-0.0.0.0 matomo.nyc3.y8.net
 0.0.0.0 matomo.nyhtc.org
 0.0.0.0 matomo.nysos.net
 0.0.0.0 matomo.nyteo.fr
@@ -44067,7 +44047,6 @@
 0.0.0.0 matomo.quetschn.academy
 0.0.0.0 matomo.quickpagex.ch
 0.0.0.0 matomo.quis.ag
-0.0.0.0 matomo.qwetch.com
 0.0.0.0 matomo.r-koller.eu
 0.0.0.0 matomo.r00t.link
 0.0.0.0 matomo.ra-soenke-nippel.de
@@ -44108,7 +44087,6 @@
 0.0.0.0 matomo.recia.solutions
 0.0.0.0 matomo.redbot.one
 0.0.0.0 matomo.reddigitalchina.com
-0.0.0.0 matomo.redthread.studio
 0.0.0.0 matomo.redusoft.de
 0.0.0.0 matomo.reflets.info
 0.0.0.0 matomo.refsoft.de
@@ -44463,7 +44441,6 @@
 0.0.0.0 matomo.staatsweingut-freiburg.de
 0.0.0.0 matomo.staderennais.com
 0.0.0.0 matomo.stadtrevue.de
-0.0.0.0 matomo.stadtwerke-jena.de
 0.0.0.0 matomo.staedtetrips.com
 0.0.0.0 matomo.startpunkt.io
 0.0.0.0 matomo.stayhungry.dev
@@ -44675,7 +44652,6 @@
 0.0.0.0 matomo.triibo.com.br
 0.0.0.0 matomo.trimbos.nl
 0.0.0.0 matomo.trimet.eu
-0.0.0.0 matomo.triple-ds.de
 0.0.0.0 matomo.trippen.com
 0.0.0.0 matomo.tripuls.de
 0.0.0.0 matomo.trockeneis-shop.de
@@ -44686,7 +44662,6 @@
 0.0.0.0 matomo.trugge.de
 0.0.0.0 matomo.trustedreturns.com
 0.0.0.0 matomo.tsadmin.se
-0.0.0.0 matomo.tu-dresden.de
 0.0.0.0 matomo.tubit.tu-berlin.de
 0.0.0.0 matomo.tuev-verband.de
 0.0.0.0 matomo.turbo-pc.es
@@ -44711,12 +44686,9 @@
 0.0.0.0 matomo.uds.de
 0.0.0.0 matomo.uhura.de
 0.0.0.0 matomo.uil.it
-0.0.0.0 matomo.uk-erlangen.de
-0.0.0.0 matomo.ukmuenster.de
 0.0.0.0 matomo.ukrb.de
 0.0.0.0 matomo.ultracloud.eu
 0.0.0.0 matomo.ultratek.com
-0.0.0.0 matomo.ulysses.app
 0.0.0.0 matomo.um.wroc.pl
 0.0.0.0 matomo.umdieecke.at
 0.0.0.0 matomo.umg.eu
@@ -45571,7 +45543,6 @@
 0.0.0.0 metrics.americanway.com
 0.0.0.0 metrics.anatomy4sculptors.com
 0.0.0.0 metrics.animalnetwork.com
-0.0.0.0 metrics.animatron.com
 0.0.0.0 metrics.anthes.rocks
 0.0.0.0 metrics.aplux.ro
 0.0.0.0 metrics.armandthiery.fr
@@ -45606,7 +45577,6 @@
 0.0.0.0 metrics.bankcoop.ch
 0.0.0.0 metrics.bankofmelbourne.com.au
 0.0.0.0 metrics.banquemondiale.org
-0.0.0.0 metrics.barkbox.com
 0.0.0.0 metrics.baseballsavings.com
 0.0.0.0 metrics.basket4ballers.com
 0.0.0.0 metrics.baymontinns.com
@@ -46039,6 +46009,7 @@
 0.0.0.0 metrics.pearlevision.ca
 0.0.0.0 metrics.peoplesjewellers.com
 0.0.0.0 metrics.perfectfitgroup.com
+0.0.0.0 metrics.personalcreations.com
 0.0.0.0 metrics.pfizerpro.com
 0.0.0.0 metrics.pfundskerl-xxl.de
 0.0.0.0 metrics.pgatour.com
@@ -46239,7 +46210,6 @@
 0.0.0.0 metrics.toysrus.ca
 0.0.0.0 metrics.tplpaye.fr
 0.0.0.0 metrics.traditions-perigord.com
-0.0.0.0 metrics.trillium.de
 0.0.0.0 metrics.truevalue.com
 0.0.0.0 metrics.tudorwatch.com
 0.0.0.0 metrics.tuxiapp.ch
@@ -53730,6 +53700,7 @@
 0.0.0.0 my-account.fr3.eu.criteo.com
 0.0.0.0 my-hits.com
 0.0.0.0 my-ip-address.net
+0.0.0.0 my-ip.club
 0.0.0.0 my-ip.de
 0.0.0.0 my-ip.io
 0.0.0.0 my-testimonials.com
@@ -53792,6 +53763,7 @@
 0.0.0.0 myhomescreen.tv
 0.0.0.0 myimprov.postaffiliatepro.com
 0.0.0.0 myip.bsasoftware.com
+0.0.0.0 myip.ch
 0.0.0.0 myip.co.il
 0.0.0.0 myip.com
 0.0.0.0 myip.com.tw
@@ -53809,7 +53781,7 @@
 0.0.0.0 myip.ht
 0.0.0.0 myip.info
 0.0.0.0 myip.ipipgo.com
-0.0.0.0 myip.kz
+0.0.0.0 myip.is
 0.0.0.0 myip.la
 0.0.0.0 myip.ma
 0.0.0.0 myip.manager.network
@@ -54256,7 +54228,6 @@
 0.0.0.0 news.bawag.at
 0.0.0.0 news.benefitsatwork.be
 0.0.0.0 news.benefitsatwork.pt
-0.0.0.0 news.coccinelle.com
 0.0.0.0 news.convenzioniaziendali.it
 0.0.0.0 news.cxxtv.com
 0.0.0.0 news.deal-detective.co.uk
@@ -54277,6 +54248,7 @@
 0.0.0.0 news.hollandfantaticpromo.nl
 0.0.0.0 news.igraal.com
 0.0.0.0 news.jeep.nl
+0.0.0.0 news.juventus.com
 0.0.0.0 news.lafourchette.com
 0.0.0.0 news.lens.com
 0.0.0.0 news.linde.com
@@ -58196,7 +58168,6 @@
 0.0.0.0 ota.re-covers.nl
 0.0.0.0 otel-hfo.fareharbor.engineering
 0.0.0.0 otelrules.svc.static.microsoft
-0.0.0.0 oth.update.mdt.qq.com
 0.0.0.0 othstr.play.aiseet.atianqi.com
 0.0.0.0 otioqs.srcasino.es
 0.0.0.0 otlp-http-production.shopifysvc.com
@@ -58565,7 +58536,6 @@
 0.0.0.0 par02p.wns.windows.com
 0.0.0.0 paraccel.com
 0.0.0.0 paradisewin.com
-0.0.0.0 paradisoprovisor1.hospedagemdesites.ws
 0.0.0.0 parall.ax
 0.0.0.0 parameter1.com
 0.0.0.0 paramountnetwork.hb.omtrdc.net
@@ -59604,7 +59574,6 @@
 0.0.0.0 piwik.bauer-milch.de
 0.0.0.0 piwik.bauernhof-hefele.de
 0.0.0.0 piwik.baumpruefung.de
-0.0.0.0 piwik.baycix.de
 0.0.0.0 piwik.bayerundpreuss.com
 0.0.0.0 piwik.bayreuth-tourismus.de
 0.0.0.0 piwik.bayreuth.de
@@ -60338,6 +60307,7 @@
 0.0.0.0 piwik.eckert.law
 0.0.0.0 piwik.ecld.de
 0.0.0.0 piwik.ecodigi.it
+0.0.0.0 piwik.ecoledirecte.com
 0.0.0.0 piwik.ecolife.ch
 0.0.0.0 piwik.ecolo.be
 0.0.0.0 piwik.ecom.style
@@ -63331,7 +63301,6 @@
 0.0.0.0 piwik.uax12.net
 0.0.0.0 piwik.ub.uni-duesseldorf.de
 0.0.0.0 piwik.ubecon.de
-0.0.0.0 piwik.ubg365.de
 0.0.0.0 piwik.ubiklain.fr
 0.0.0.0 piwik.uchlierz.de
 0.0.0.0 piwik.ueberschaermusic.de
@@ -63385,6 +63354,7 @@
 0.0.0.0 piwik.urspace.ch
 0.0.0.0 piwik.ursu.co.uk
 0.0.0.0 piwik.urumqi.fr
+0.0.0.0 piwik.us.harvestdp.com
 0.0.0.0 piwik.usc-leipzig.de
 0.0.0.0 piwik.uscity.net
 0.0.0.0 piwik.uscreen.net
@@ -64196,6 +64166,7 @@
 0.0.0.0 plausible.atomtigerzoo.com
 0.0.0.0 plausible.atr-systems.com
 0.0.0.0 plausible.atrocore.com
+0.0.0.0 plausible.attensi.com
 0.0.0.0 plausible.audiobazooka.com
 0.0.0.0 plausible.auditorium.ai
 0.0.0.0 plausible.avogadro.kamikamamak.fr
@@ -64540,7 +64511,6 @@
 0.0.0.0 plausible.joranmulderij.com
 0.0.0.0 plausible.joris.biz
 0.0.0.0 plausible.joro.cc
-0.0.0.0 plausible.jottenheijm.com
 0.0.0.0 plausible.joy.pm
 0.0.0.0 plausible.jpsoftware.nl
 0.0.0.0 plausible.jrtashjian.com
@@ -70926,6 +70896,7 @@
 0.0.0.0 server.secretmarket.xyz
 0.0.0.0 server.securityindfw.com
 0.0.0.0 server.securitymart.xyz
+0.0.0.0 server.sejavoceumpsicanalista.com.br
 0.0.0.0 server.semanavisionempresarial.com
 0.0.0.0 server.seufisio.com
 0.0.0.0 server.shahifashion.com
@@ -72450,7 +72421,6 @@
 0.0.0.0 showmyip.com.ar
 0.0.0.0 showmyip.gr
 0.0.0.0 showmyipaddress.com
-0.0.0.0 showmyipaddress.eu
 0.0.0.0 showpublicip.com
 0.0.0.0 shows.21cn.com
 0.0.0.0 shpdata.com
@@ -79993,7 +79963,6 @@
 0.0.0.0 stat.tbsuhr.ch
 0.0.0.0 stat.tecnopol.fi
 0.0.0.0 stat.tekaparketti.fi
-0.0.0.0 stat.teletarget.ru
 0.0.0.0 stat.telopro.fr
 0.0.0.0 stat.teraskone.com
 0.0.0.0 stat.tetote.fr
@@ -89279,7 +89248,6 @@
 0.0.0.0 top.preprod.criteo.com
 0.0.0.0 top.tt.omtrdc.net
 0.0.0.0 top88.vip
-0.0.0.0 topacad.com
 0.0.0.0 topbet.eu
 0.0.0.0 topbetta.com
 0.0.0.0 topbetta.com.au
@@ -92096,7 +92064,6 @@
 0.0.0.0 utmsimple.com
 0.0.0.0 utmsmartmanager.com
 0.0.0.0 utmthemelinks.com
-0.0.0.0 utrace.de
 0.0.0.0 utrkdata.pendo.workshop.autodata-group.com
 0.0.0.0 uu.85655095.com
 0.0.0.0 uu.zeverdg.com
@@ -93699,6 +93666,7 @@
 0.0.0.0 whatsmyip.net
 0.0.0.0 whatsmyip.org
 0.0.0.0 whatsmyip.vertigo-games.com
+0.0.0.0 whatsmyipaddress.net
 0.0.0.0 whatsmyipaddress.org
 0.0.0.0 whatsmyrealip.com
 0.0.0.0 whatsnextinnatural.com
@@ -94401,7 +94369,6 @@
 0.0.0.0 www.bet2290.com
 0.0.0.0 www.bet2875.com
 0.0.0.0 www.bet2win.ag
-0.0.0.0 www.bet3000.com
 0.0.0.0 www.bet33.com
 0.0.0.0 www.bet36500050.com
 0.0.0.0 www.bet7days.com
@@ -95052,7 +95019,6 @@
 0.0.0.0 www.info.telenor.se
 0.0.0.0 www.info.witt.ru
 0.0.0.0 www.inforu.furla.com
-0.0.0.0 www.ingenuityinsightful-52.com
 0.0.0.0 www.instacasino.com
 0.0.0.0 www.instantactionsports.com
 0.0.0.0 www.interbet.co.za
@@ -96033,6 +95999,7 @@
 0.0.0.0 www.yule12888.com
 0.0.0.0 www.yzaosite.com
 0.0.0.0 www.zamplus.com
+0.0.0.0 www.zhidian3g.cn
 0.0.0.0 www.zhuangjizhuli.net
 0.0.0.0 www.zjjgtz.com
 0.0.0.0 www.zjsyawqj.cn
@@ -96458,7 +96425,6 @@
 0.0.0.0 x1.da.hunantv.com
 0.0.0.0 x1.go.sohu.com
 0.0.0.0 x10.andresagui.com
-0.0.0.0 x1798.com
 0.0.0.0 x2p9ytrk.com
 0.0.0.0 x57772.com
 0.0.0.0 x6.gbc.criteo.com
