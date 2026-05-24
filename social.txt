@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-05-23 06:15:53
+# WYGENEROWANO: 2026-05-24 06:39:28
 # KATEGORIA: social
-# RAZEM: 4495
+# RAZEM: 4493
 
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
@@ -1422,7 +1422,6 @@
 0.0.0.0 f-moneyloan.snssdk.com
 0.0.0.0 f-moneyloantest.snssdk.com
 0.0.0.0 f-p-sandbox.snssdk.com
-0.0.0.0 f-p-va.isnssdk.com.edgekey.net
 0.0.0.0 f-pay-rp.snssdk.com
 0.0.0.0 f.l.bytedns.net
 0.0.0.0 f3-ttcdn-tos.pstatp.com
@@ -1607,7 +1606,6 @@
 0.0.0.0 i.byteoversea.com
 0.0.0.0 i.byteoversea.com.edgekey.net
 0.0.0.0 i.instagram.com
-0.0.0.0 i.isnssdk.com.edgekey.net
 0.0.0.0 i.l.bytedns.net
 0.0.0.0 i.pstatp.com
 0.0.0.0 i.sgnssdk.com
