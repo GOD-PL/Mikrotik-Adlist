@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-07-02 06:43:36
+# WYGENEROWANO: 2026-07-03 06:35:28
 # KATEGORIA: social
-# RAZEM: 4494
+# RAZEM: 4493
 
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
@@ -1487,7 +1487,6 @@
 0.0.0.0 gcp-ineg.api.snapchat.com
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 gecko-cold.snssdk.com
-0.0.0.0 gecko-hl.snssdk.com
 0.0.0.0 gecko-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 gecko-ipv6.snssdk.com
 0.0.0.0 gecko-lf.snssdk.com
