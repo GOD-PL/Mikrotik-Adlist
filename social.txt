@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-07-08 05:55:38
+# WYGENEROWANO: 2026-07-09 06:48:14
 # KATEGORIA: social
-# RAZEM: 4491
+# RAZEM: 4490
 
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
@@ -3003,7 +3003,6 @@
 0.0.0.0 rtc.bytedanceapi.com
 0.0.0.0 rtlog.musical.ly.edgekey.net
 0.0.0.0 rtlog.sgsnssdk.com
-0.0.0.0 rtlog.snssdk.com
 0.0.0.0 rtlog.snssdk.com.w.kunluncan.com
 0.0.0.0 rtmp-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 rtmpup1.pstatp.com
