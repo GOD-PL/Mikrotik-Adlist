@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-07-28 05:49:35
+# WYGENEROWANO: 2026-07-29 05:55:32
 # KATEGORIA: sites
-# RAZEM: 61
+# RAZEM: 74
 
 0.0.0.0 about.youtube.com
 0.0.0.0 api.youtube.com
@@ -14,15 +14,28 @@
 0.0.0.0 nocopyrightsounds.co.uk
 0.0.0.0 partners.youtube.com
 0.0.0.0 r2---sn-a5ms7n7e.googlevideo.com
+0.0.0.0 r2---sn-a5ms7n7l.googlevideo.com
+0.0.0.0 r2---sn-p5qs7n7e.googlevideo.com
+0.0.0.0 r3---sn-4g5edn7e.googlevideo.com
+0.0.0.0 r3---sn-4g5edn7z.googlevideo.com
+0.0.0.0 r3---sn-a5meknes.googlevideo.com
 0.0.0.0 r3---sn-a5ms7n7e.googlevideo.com
+0.0.0.0 r3---sn-a5ms7n7l.googlevideo.com
 0.0.0.0 r3---sn-u2oxu-f5fe6.googlevideo.com
+0.0.0.0 r4---sn-25ge7nl6.googlevideo.com
 0.0.0.0 r4---sn-4g5edn7s.googlevideo.com
+0.0.0.0 r4---sn-a5meknes.googlevideo.com
 0.0.0.0 r4---sn-a5ms7n7e.googlevideo.com
 0.0.0.0 r4---sn-nx5e6nes.googlevideo.com
 0.0.0.0 r4---sn-q4f7sn7r.googlevideo.com
 0.0.0.0 r4---sn-vgqseney.googlevideo.com
+0.0.0.0 r5---sn-25ge7nld.googlevideo.com
+0.0.0.0 r5---sn-a5meknes.googlevideo.com
 0.0.0.0 r5---sn-a5ms7n7e.googlevideo.com
+0.0.0.0 r5---sn-a5ms7n7l.googlevideo.com
 0.0.0.0 r5---sn-q4f7sn7r.googlevideo.com
+0.0.0.0 r6---sn-4g5e6nle.googlevideo.com
+0.0.0.0 r6---sn-a5meknes.googlevideo.com
 0.0.0.0 r6---sn-nx5e6nes.googlevideo.com
 0.0.0.0 rr2---sn-f5f7lnee.googlevideo.com
 0.0.0.0 rr3---sn-2va3vhuxa-f5fz.googlevideo.com
