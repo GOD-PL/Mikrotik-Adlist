@@ -1,8 +1,9 @@
-# WYGENEROWANO: 2026-07-31 06:16:40
+# WYGENEROWANO: 2026-08-01 05:58:04
 # KATEGORIA: sites
-# RAZEM: 60
+# RAZEM: 61
 
 0.0.0.0 about.youtube.com
+0.0.0.0 analytics.youtube.com
 0.0.0.0 api.youtube.com
 0.0.0.0 creators.youtube.com
 0.0.0.0 gaming.youtube.com

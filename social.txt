@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-07-31 06:16:40
+# WYGENEROWANO: 2026-08-01 05:58:04
 # KATEGORIA: social
-# RAZEM: 4490
+# RAZEM: 4529
 
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
@@ -196,6 +196,7 @@
 0.0.0.0 ammp.byteoversea.com
 0.0.0.0 analytics-antivirus.snappublisher.snapchat.com
 0.0.0.0 analytics.antivirus.snappublisher.snapchat.com
+0.0.0.0 analytics.tiktok.com.edgekey.net
 0.0.0.0 antivirus-admin1.snappublisher.snapchat.com
 0.0.0.0 antivirus-alt.snappublisher.snapchat.com
 0.0.0.0 antivirus-backend.snappublisher.snapchat.com
@@ -1422,6 +1423,8 @@
 0.0.0.0 f-moneyloan.snssdk.com
 0.0.0.0 f-moneyloantest.snssdk.com
 0.0.0.0 f-p-sandbox.snssdk.com
+0.0.0.0 f-p-va.isnssdk.com
+0.0.0.0 f-p-va.isnssdk.com.edgekey.net
 0.0.0.0 f-pay-rp.snssdk.com
 0.0.0.0 f.l.bytedns.net
 0.0.0.0 f3-ttcdn-tos.pstatp.com
@@ -1463,6 +1466,7 @@
 0.0.0.0 frontier-va-useast2a.byteoversea.com
 0.0.0.0 frontier-va.byteoversea.com
 0.0.0.0 frontier-va.tiktokv.com
+0.0.0.0 frontier.byteoversea.com
 0.0.0.0 frontier.isnssdk.com
 0.0.0.0 frontier.sgsnssdk.com
 0.0.0.0 frontier.snssdk.com
@@ -1530,6 +1534,7 @@
 0.0.0.0 global-h1.bytedance.map.fastly.net
 0.0.0.0 gms-ns.byteoversea.com
 0.0.0.0 go.snapchat.com
+0.0.0.0 gplog-va.byteoversea.com
 0.0.0.0 gplog.snssdk.com
 0.0.0.0 grafana-beta.snappublisher.snapchat.com
 0.0.0.0 grafana-boe.byted.org
@@ -1606,6 +1611,7 @@
 0.0.0.0 i.byteoversea.com
 0.0.0.0 i.byteoversea.com.edgekey.net
 0.0.0.0 i.instagram.com
+0.0.0.0 i.isnssdk.com.edgekey.net
 0.0.0.0 i.l.bytedns.net
 0.0.0.0 i.pstatp.com
 0.0.0.0 i.sgnssdk.com
@@ -1806,6 +1812,7 @@
 0.0.0.0 is-lf.snssdk.com
 0.0.0.0 is-lf.snssdk.com.w.kunluncan.com
 0.0.0.0 is-lq.snssdk.com
+0.0.0.0 is.snssdk.com
 0.0.0.0 is.snssdk.com.bytedns.net
 0.0.0.0 is.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 is1-ipv6.snssdk.com
@@ -2011,6 +2018,7 @@
 0.0.0.0 lianmengapi-hl.snssdk.com
 0.0.0.0 lianmengapi-lf.snssdk.com
 0.0.0.0 lianmengapi-lq.snssdk.com
+0.0.0.0 lianmengapi.snssdk.com
 0.0.0.0 lianmengapi.snssdk.com.w.kunluncan.com
 0.0.0.0 libra-va.tiktokv.com
 0.0.0.0 libra16-normal-useast1a.tiktokv.com
@@ -2037,8 +2045,11 @@
 0.0.0.0 log-cold.snssdk.com
 0.0.0.0 log-hl-ipv6.snssdk.com
 0.0.0.0 log-hl.snssdk.com.w.kunluncan.com
+0.0.0.0 log-lf.snssdk.com
+0.0.0.0 log-lq.snssdk.com
 0.0.0.0 log-sg.toutiao50.com
 0.0.0.0 log-va.tiktokv.com.edgekey.net
+0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 log.snssdk.com.bytedns.net
 0.0.0.0 log.tiktokv.com.edgesuite.net
 0.0.0.0 log.toutiao50.com
@@ -2048,17 +2059,25 @@
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com.edgekey.net
 0.0.0.0 log16-normal-c-useast2a.tiktokv.com.edgekey.net
 0.0.0.0 log16-normal-useast1a.tiktokv.com
+0.0.0.0 log16.byteoversea.com
 0.0.0.0 log16.byteoversea.com.edgekey.net
 0.0.0.0 log2-useast1a.musical.ly.edgekey.net
 0.0.0.0 log2-useast2a.musical.ly.edgekey.net
 0.0.0.0 log2.musical.ly.edgesuite.net
+0.0.0.0 log22-normal-useast1a.tiktokv.com
 0.0.0.0 log3-ipv6.snssdk.com
+0.0.0.0 log3-normal-c-alisg.tiktokv.com
+0.0.0.0 log3-normal-c-useast1a.tiktokv.com
 0.0.0.0 log53-normal-c-alisg.tiktokv.com
+0.0.0.0 log53-normal-c-useast1a.tiktokv.com
+0.0.0.0 log58-normal-c-alisg.tiktokv.com
+0.0.0.0 log77-normal-c-alisg.tiktokv.com
 0.0.0.0 log9-normal-c-alisg.tiktokv.com
 0.0.0.0 logger.instagram.com
 0.0.0.0 login.tiktok.com
 0.0.0.0 logsg.xzcs3zlph.com
 0.0.0.0 logsg.xzcs3zlph.com.edgesuite.net
+0.0.0.0 logtrace.snssdk.com
 0.0.0.0 lp1.pstatp.com
 0.0.0.0 lt.snssdk.com
 0.0.0.0 lts-ns.byteoversea.com
@@ -2125,8 +2144,11 @@
 0.0.0.0 mofxg.snssdk.com
 0.0.0.0 mon-alias1.snssdk.com
 0.0.0.0 mon-cold.snssdk.com
+0.0.0.0 mon-hl.snssdk.com
 0.0.0.0 mon-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 mon-ipv6.snssdk.com
+0.0.0.0 mon-sg.tiktokv.com
+0.0.0.0 mon-va-useast2a.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com.edgesuite.net
 0.0.0.0 mon-va.tiktokv.com.edgesuite.net
 0.0.0.0 mon-ws.snssdk.com
@@ -2171,6 +2193,7 @@
 0.0.0.0 mr-lf.snssdk.com
 0.0.0.0 mr-lq.snssdk.com
 0.0.0.0 mr.snssdk.com
+0.0.0.0 mssdk.snssdk.com
 0.0.0.0 mssdk16-normal-useast1a.tiktokv.com
 0.0.0.0 mssdk16-platform-useast5.us.tiktokv.com
 0.0.0.0 mssdk19-normal-useast1a.tiktokv.com
@@ -3001,9 +3024,13 @@
 0.0.0.0 rtapplog.snssdk.com.w.kunluncan.com
 0.0.0.0 rtc-boe.byted.org
 0.0.0.0 rtc.bytedanceapi.com
+0.0.0.0 rtlog-va.tiktokv.com
 0.0.0.0 rtlog.musical.ly.edgekey.net
 0.0.0.0 rtlog.sgsnssdk.com
+0.0.0.0 rtlog.snssdk.com
 0.0.0.0 rtlog.snssdk.com.w.kunluncan.com
+0.0.0.0 rtlog16-normal-useast1a.tiktokv.com
+0.0.0.0 rtlog22-normal-useast1a.tiktokv.com
 0.0.0.0 rtmp-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 rtmpup1.pstatp.com
 0.0.0.0 rtmpup4.pstatp.com
@@ -3277,6 +3304,7 @@
 0.0.0.0 sgali1.ws.byteoversea.net
 0.0.0.0 sgali3.l.byteoversea.net
 0.0.0.0 sgaup.bytedance.com
+0.0.0.0 sgee-mcs.byteoversea.com
 0.0.0.0 sgpstatp.com
 0.0.0.0 sgsnssdk.com
 0.0.0.0 share-1070666956.ap-northeast-1.elb.amazonaws.com
@@ -3380,6 +3408,7 @@
 0.0.0.0 story.snapchat.com
 0.0.0.0 storysharing.snapchat.com
 0.0.0.0 studio-app.snapchat.com
+0.0.0.0 studio-crash.snapchat.com
 0.0.0.0 subscriptions-beta.snapchat.com
 0.0.0.0 subscriptions-dev.snapchat.com
 0.0.0.0 subscriptions.snapchat.com
@@ -3463,7 +3492,13 @@
 0.0.0.0 tms3.pstatp.com
 0.0.0.0 tms3.pstatp.com.w.kunlunle.com
 0.0.0.0 tnc16-alisg.tiktokv.com
+0.0.0.0 tnc16-platform-alisg.tiktokv.com
+0.0.0.0 tnc16-platform-useast1a.tiktokv.com
+0.0.0.0 tnc16-platform-useast2a.tiktokv.com
+0.0.0.0 tnc16-platform-useast5.us.tiktokv.com
 0.0.0.0 tnc16-useast1a.tiktokv.com
+0.0.0.0 tnc31-platform-useast2a.tiktokv.com
+0.0.0.0 tobapplog.snssdk.com
 0.0.0.0 tobapplog.snssdk.com.w.kunluncan.com
 0.0.0.0 toblog.byteoversea.com
 0.0.0.0 topbuzz-applog-alisg.l.byteoversea.net
@@ -4095,6 +4130,7 @@
 0.0.0.0 va.isnssdk.com
 0.0.0.0 vaali-dpprofile-useast2a.byteoversea.com
 0.0.0.0 vaali-dpprofile.byteoversea.com
+0.0.0.0 vaali-mcs.byteoversea.com
 0.0.0.0 vaali1.l.byteoversea.net
 0.0.0.0 varticle-frontier.snssdk.com
 0.0.0.0 vas-alisg.byteoversea.com
@@ -4127,6 +4163,7 @@
 0.0.0.0 vc-postal.snssdk.com
 0.0.0.0 vc-pservice.snssdk.com
 0.0.0.0 vc-tantan.snssdk.com
+0.0.0.0 vcl-brain.snssdk.com
 0.0.0.0 vcs-sg.byteoversea.com
 0.0.0.0 vcs-sg.byteoversea.com.edgekey.net
 0.0.0.0 vcs-sg.tiktokv.com
@@ -4400,6 +4437,7 @@
 0.0.0.0 www.instagram.com
 0.0.0.0 www.intg.snapchat.com
 0.0.0.0 www.ipstatp.com
+0.0.0.0 www.isnssdk.com
 0.0.0.0 www.ixigua.com
 0.0.0.0 www.muscdn.com
 0.0.0.0 www.musemuse.cn
@@ -4435,6 +4473,7 @@
 0.0.0.0 xgfe.snssdk.com.w.kunluncan.com
 0.0.0.0 xlog-cold.snssdk.com
 0.0.0.0 xlog-ipv6.snssdk.com
+0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com.edgesuite.net
 0.0.0.0 xlog-va.musical.ly.edgesuite.net
 0.0.0.0 xlog-va.tiktokv.com.edgesuite.net
