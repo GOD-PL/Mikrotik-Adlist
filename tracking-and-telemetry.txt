@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-08-17 03:53:19
+# WYGENEROWANO: 2026-08-18 03:47:36
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 98440
+# RAZEM: 98467
 
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0024aadd.com
@@ -1976,7 +1976,6 @@
 0.0.0.0 actioniq.com
 0.0.0.0 active-analytics.com
 0.0.0.0 active.baofeng.com
-0.0.0.0 active.tc.skysrt.com
 0.0.0.0 activedemand.com
 0.0.0.0 activefeaturepoint.com
 0.0.0.0 actives.youku.com
@@ -3227,7 +3226,9 @@
 0.0.0.0 ampconsentmanagement.skysports.com
 0.0.0.0 ampedmedia.com
 0.0.0.0 ampiwik.alphamosa.net
+0.0.0.0 amplitude-experiments.photoroom.com
 0.0.0.0 amplitude.loseit.com
+0.0.0.0 amplitude.photoroom.com
 0.0.0.0 ampluslabs.com
 0.0.0.0 amps.yoyi.com.cn
 0.0.0.0 ampsy.com
@@ -4475,6 +4476,7 @@
 0.0.0.0 analytics.autohaus-krah-enders.de
 0.0.0.0 analytics.autohaus-mai.de
 0.0.0.0 analytics.autohaus-pech.de
+0.0.0.0 analytics.autoize.com
 0.0.0.0 analytics.automap.com.au
 0.0.0.0 analytics.autoshopdashboard.com
 0.0.0.0 analytics.auvergnerhonealpes-entreprises.fr
@@ -14397,6 +14399,7 @@
 0.0.0.0 analyticsdev.cloud.coveo.com
 0.0.0.0 analyticsdo.online
 0.0.0.0 analyticsedge.sherpadm.com
+0.0.0.0 analyticsengineering.space
 0.0.0.0 analyticsev.mrfood.com
 0.0.0.0 analyticsext.trafikverket.se
 0.0.0.0 analyticsinfo.net
@@ -15736,6 +15739,7 @@
 0.0.0.0 audienceproject.com
 0.0.0.0 audiencereport.com
 0.0.0.0 audiencerepublic.com
+0.0.0.0 audiencetag.com
 0.0.0.0 audiense.com
 0.0.0.0 audigent.com
 0.0.0.0 audioeye.activehosted.com
@@ -16801,6 +16805,7 @@
 0.0.0.0 biz5.kankan.com
 0.0.0.0 bizeps.tntfitness.de
 0.0.0.0 bizflow24.pl
+0.0.0.0 bizibly.com
 0.0.0.0 bizjournals.com.102.112.2o7.net
 0.0.0.0 bizleads.pl
 0.0.0.0 bizmarketing.pl
@@ -17423,6 +17428,7 @@
 0.0.0.0 burshekresearch.com
 0.0.0.0 burtcorp.com
 0.0.0.0 burtintelligence.com
+0.0.0.0 bushesbag.com
 0.0.0.0 business.engage.ringgo.co.uk
 0.0.0.0 business.inveno.com
 0.0.0.0 business.lutron.info
@@ -18913,7 +18919,6 @@
 0.0.0.0 city.cityattirebd.com
 0.0.0.0 citybingo.com
 0.0.0.0 citygridmedia.com
-0.0.0.0 cityspark.com
 0.0.0.0 civey.com
 0.0.0.0 civicscience.fox5sandiego.com
 0.0.0.0 civicscience.gobankingrates.com
@@ -25893,6 +25898,7 @@
 0.0.0.0 emeraldbet.com
 0.0.0.0 emergingindiagroup.com
 0.0.0.0 emerils.com.102.122.2o7.net
+0.0.0.0 emeritus-analytics.io
 0.0.0.0 emerson.tt.omtrdc.net
 0.0.0.0 emerton-data.com
 0.0.0.0 emeter-nam.mppapi.io
@@ -28544,6 +28550,7 @@
 0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geoar.googleapis.com
 0.0.0.0 geobet.com
+0.0.0.0 geochk.b-cdn.net
 0.0.0.0 geocoding.internetbrands.com
 0.0.0.0 geocomply.com
 0.0.0.0 geocomply.net
@@ -28926,6 +28933,7 @@
 0.0.0.0 gl.jimahegn.dk
 0.0.0.0 gl1mm3rt3as3.com
 0.0.0.0 gladglen.com
+0.0.0.0 glance-analytics.trafficmanager.net
 0.0.0.0 glas.overkappingmetglas.nl
 0.0.0.0 glassbox.com
 0.0.0.0 glassboxdigital.com
@@ -28949,6 +28957,7 @@
 0.0.0.0 globaldata.com
 0.0.0.0 globalgridsystems.com
 0.0.0.0 globalmatomo.com
+0.0.0.0 globalreactive.tc.skysrt.com
 0.0.0.0 globalrtb.com
 0.0.0.0 globalstat.thehost.ua
 0.0.0.0 globalstats.ekmsecure.com
@@ -33466,6 +33475,7 @@
 0.0.0.0 iseeyou.djsanchez.eu
 0.0.0.0 isentia.com
 0.0.0.0 isgstat.sanook.com
+0.0.0.0 ishop789.com
 0.0.0.0 isite.baidu.com
 0.0.0.0 islamic.inshaff.com
 0.0.0.0 islandcasino.com
@@ -33509,6 +33519,7 @@
 0.0.0.0 itruni.com
 0.0.0.0 its-dori.tumblr.com
 0.0.0.0 itseasy.com
+0.0.0.0 itsmore.cn
 0.0.0.0 itvbingo.com
 0.0.0.0 iu.juzi.cn
 0.0.0.0 iubenda.com
@@ -34701,7 +34712,6 @@
 0.0.0.0 kuwin.com
 0.0.0.0 kuwin.digital
 0.0.0.0 kuwinvip.com
-0.0.0.0 kuyhaa-me.site
 0.0.0.0 kuzai.cooguo.com
 0.0.0.0 kvhrrr.top
 0.0.0.0 kvk2.ahojkanarskeostrovy.com
@@ -37600,6 +37610,7 @@
 0.0.0.0 loc.kr
 0.0.0.0 loc.nine.com.au
 0.0.0.0 loc.sc-jpl.com
+0.0.0.0 loc.yahoo.com
 0.0.0.0 loca.sc-jpl.com
 0.0.0.0 localanalytics.io
 0.0.0.0 localiqtracking.com
@@ -39304,6 +39315,7 @@
 0.0.0.0 ma-catinfo.com
 0.0.0.0 ma.3fa-media.com
 0.0.0.0 ma.adnavem.com
+0.0.0.0 ma.autoize.com
 0.0.0.0 ma.b2sign.com
 0.0.0.0 ma.baidu.cn
 0.0.0.0 ma.baidu.com
@@ -45096,7 +45108,6 @@
 0.0.0.0 meaning5.synchronybank.com
 0.0.0.0 meaning6.synchronybank.com
 0.0.0.0 meapp.org
-0.0.0.0 measure.analysis.fi
 0.0.0.0 measure.app.lths.cc
 0.0.0.0 measure.c21rea.net
 0.0.0.0 measure.chain-logistics.nl
@@ -53796,6 +53807,7 @@
 0.0.0.0 myfeng.cn
 0.0.0.0 myfirstdressing.eulerian.net
 0.0.0.0 mygarage-api.carid.com
+0.0.0.0 mygaru.com
 0.0.0.0 mygeek.cn
 0.0.0.0 myhard.com
 0.0.0.0 myhealth.as-sunnahmedicale.xyz
@@ -54516,6 +54528,7 @@
 0.0.0.0 northbeam.io
 0.0.0.0 northerntoolemail.com
 0.0.0.0 northerntoolmail.com
+0.0.0.0 northpass.com
 0.0.0.0 nos20trk.com
 0.0.0.0 nosap.win
 0.0.0.0 nose.melonking.net
@@ -57858,6 +57871,7 @@
 0.0.0.0 optimize.eneatec.com
 0.0.0.0 optimize.ly
 0.0.0.0 optimizeanalytics.com
+0.0.0.0 optimizely-edge.com
 0.0.0.0 optimizely.co.uk
 0.0.0.0 optimizely.samsara.com
 0.0.0.0 optimizely.wsj.com
@@ -63988,7 +64002,6 @@
 0.0.0.0 pixel.semanainvestidor.com
 0.0.0.0 pixel.seotourist.de
 0.0.0.0 pixel.siteoficialcompra-online.com
-0.0.0.0 pixel.sitevibes.com
 0.0.0.0 pixel.skiphop.com
 0.0.0.0 pixel.sommoslab.com
 0.0.0.0 pixel.sosconcursosdetox.com.br
@@ -64025,6 +64038,7 @@
 0.0.0.0 pixelsmarter.com
 0.0.0.0 pixeltracker.co
 0.0.0.0 pixeltracker.im
+0.0.0.0 pixeltracking.co
 0.0.0.0 pixelv2.wehaacdn.com
 0.0.0.0 pixie.midomi.com
 0.0.0.0 pixiu.shangshufang.ksosoft.com
@@ -65613,6 +65627,7 @@
 0.0.0.0 postclickmarketing.com
 0.0.0.0 postcodeloterij.nl
 0.0.0.0 posthog.greeks.live
+0.0.0.0 posthog.queen.one
 0.0.0.0 postpilot.com
 0.0.0.0 postquare.com
 0.0.0.0 postrank.com
@@ -66579,6 +66594,7 @@
 0.0.0.0 queqh.com
 0.0.0.0 quest-analytics.com
 0.0.0.0 quest.skyzr.com
+0.0.0.0 questanalytics.com
 0.0.0.0 questionableobservation.com
 0.0.0.0 questions-adv.ozon.ru
 0.0.0.0 queuemetrics-live.com
@@ -69295,7 +69311,10 @@
 0.0.0.0 saleshandy.com
 0.0.0.0 saleshub.ai
 0.0.0.0 salesintelligence.pl
+0.0.0.0 salesiq.zohocorppublic.in
 0.0.0.0 salesiq.zohopublic.com
+0.0.0.0 salesiq.zohopublic.eu
+0.0.0.0 salesiq.zohopublic.in
 0.0.0.0 salesloft-tracking.hashicorp.com
 0.0.0.0 salesloft-tracking.toptal.com
 0.0.0.0 salesloft-yc.blackbaud.com
@@ -69788,6 +69807,7 @@
 0.0.0.0 seamless.wtaxattorney.com
 0.0.0.0 seangraham.com
 0.0.0.0 seaniemac.com
+0.0.0.0 search.ca
 0.0.0.0 search.graffittibooks.com
 0.0.0.0 search.kpmginstitutes.com
 0.0.0.0 searchable.workers.dev
@@ -69871,6 +69891,7 @@
 0.0.0.0 seg.prevagen.com
 0.0.0.0 seg.upswingpoker.com
 0.0.0.0 segment-cdn.goodrx.com
+0.0.0.0 segment.complex.com
 0.0.0.0 segment.intuitcdn.net
 0.0.0.0 seguimiento.clinicarisuenos.com
 0.0.0.0 seguro.vivamaisagro.com.br
@@ -84587,6 +84608,7 @@
 0.0.0.0 stats.lja.de
 0.0.0.0 stats.lk-bs.de
 0.0.0.0 stats.lkw-kitzingen.de
+0.0.0.0 stats.lmofficial.to
 0.0.0.0 stats.ln360.ru
 0.0.0.0 stats.load.com
 0.0.0.0 stats.lobster-writer.co.uk
@@ -88874,6 +88896,7 @@
 0.0.0.0 t323.lvb.com
 0.0.0.0 t3eui.firstchoice.co.uk
 0.0.0.0 t3imstrk.com
+0.0.0.0 t3t09eztsd.execute-api.us-west-2.amazonaws.com
 0.0.0.0 t4.agrantsem.com
 0.0.0.0 t436.flair.be
 0.0.0.0 t4e.falconholidays.ie
@@ -93510,6 +93533,7 @@
 0.0.0.0 verificationgreatholly.live
 0.0.0.0 verifyclicksolutions.com
 0.0.0.0 verikai.com
+0.0.0.0 verint.com
 0.0.0.0 verisk.co.uk
 0.0.0.0 verisk.com
 0.0.0.0 veriskhealth.com
@@ -94743,6 +94767,7 @@
 0.0.0.0 wenku-cms.bj.bcebos.com
 0.0.0.0 wenshenbang.com
 0.0.0.0 wep016.top
+0.0.0.0 weplananalytics.com
 0.0.0.0 wepredict.co.uk
 0.0.0.0 wepredict.com
 0.0.0.0 weq.me
@@ -95124,6 +95149,7 @@
 0.0.0.0 wpmu-stats.b-cdn.net
 0.0.0.0 wpsweb-dc.wps.cn
 0.0.0.0 wpush.biz
+0.0.0.0 wpx.svc.trueprofit.io
 0.0.0.0 wqm0gtrk.com
 0.0.0.0 wqqlm8trk.com
 0.0.0.0 wqzyt.net
@@ -97535,6 +97561,7 @@
 0.0.0.0 x.9dagui.com
 0.0.0.0 x.9zt8hy.com
 0.0.0.0 x.adpro.cn
+0.0.0.0 x.atarihotels.com
 0.0.0.0 x.bikaer.com
 0.0.0.0 x.china1715.com
 0.0.0.0 x.cnt.my
