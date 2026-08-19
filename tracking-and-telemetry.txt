@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-08-18 03:47:36
+# WYGENEROWANO: 2026-08-19 03:49:43
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 98467
+# RAZEM: 98472
 
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0024aadd.com
@@ -1976,6 +1976,7 @@
 0.0.0.0 actioniq.com
 0.0.0.0 active-analytics.com
 0.0.0.0 active.baofeng.com
+0.0.0.0 active.tc.skysrt.com
 0.0.0.0 activedemand.com
 0.0.0.0 activefeaturepoint.com
 0.0.0.0 actives.youku.com
@@ -3761,6 +3762,7 @@
 0.0.0.0 analytics.48bytesnorth.com
 0.0.0.0 analytics.48design.com
 0.0.0.0 analytics.4cps.org
+0.0.0.0 analytics.4dcloud.ch
 0.0.0.0 analytics.4elife.com
 0.0.0.0 analytics.4g-server.eu
 0.0.0.0 analytics.4games.com
@@ -18419,6 +18421,7 @@
 0.0.0.0 cdn.ywxi.net
 0.0.0.0 cdn.zampda.net
 0.0.0.0 cdn.zampdsp.com
+0.0.0.0 cdn1.adoberesources.net
 0.0.0.0 cdn1.crispadvertising.com
 0.0.0.0 cdn1.res.nx5.com
 0.0.0.0 cdn1.res.uzham.com
@@ -28957,7 +28960,6 @@
 0.0.0.0 globaldata.com
 0.0.0.0 globalgridsystems.com
 0.0.0.0 globalmatomo.com
-0.0.0.0 globalreactive.tc.skysrt.com
 0.0.0.0 globalrtb.com
 0.0.0.0 globalstat.thehost.ua
 0.0.0.0 globalstats.ekmsecure.com
@@ -54721,6 +54723,7 @@
 0.0.0.0 nzfc.2zm4.cn
 0.0.0.0 nzpyrl.merciwithlove.com.br
 0.0.0.0 nzzpe9trk.com
+0.0.0.0 o-uat.pluto.tv
 0.0.0.0 o.4x25v.cn
 0.0.0.0 o.boh.com
 0.0.0.0 o.desertschools.org
@@ -54734,6 +54737,7 @@
 0.0.0.0 o.musicnotes.com
 0.0.0.0 o.o.evite.com
 0.0.0.0 o.orladeyo.ca
+0.0.0.0 o.pluto.tv
 0.0.0.0 o.pollifresh.com
 0.0.0.0 o.rapidfax.com
 0.0.0.0 o.rosettastone.cn
@@ -69807,7 +69811,6 @@
 0.0.0.0 seamless.wtaxattorney.com
 0.0.0.0 seangraham.com
 0.0.0.0 seaniemac.com
-0.0.0.0 search.ca
 0.0.0.0 search.graffittibooks.com
 0.0.0.0 search.kpmginstitutes.com
 0.0.0.0 searchable.workers.dev
@@ -71602,6 +71605,7 @@
 0.0.0.0 sgtm.good-natured.de
 0.0.0.0 sgtm.goods-mate.com
 0.0.0.0 sgtm.gorilla-agency.uk
+0.0.0.0 sgtm.govx.com
 0.0.0.0 sgtm.gramadobet.net.br
 0.0.0.0 sgtm.gratis.com
 0.0.0.0 sgtm.gronelforsyning.dk
@@ -89997,6 +90001,7 @@
 0.0.0.0 torcai.com
 0.0.0.0 torch.business.com
 0.0.0.0 torimochi.line-apps.com
+0.0.0.0 tortoise.cult.st
 0.0.0.0 tortoise.layerwp.com
 0.0.0.0 torviajes-com.eulerian.net
 0.0.0.0 tosladrive.com
@@ -91572,6 +91577,7 @@
 0.0.0.0 trackjs.coomeet.com
 0.0.0.0 trackjs.elefant.ro
 0.0.0.0 tracklee.org
+0.0.0.0 tracklytics.birdeye.com
 0.0.0.0 tracklytics.icu
 0.0.0.0 trackmans.com
 0.0.0.0 trackme.newsroom.works
@@ -93533,7 +93539,6 @@
 0.0.0.0 verificationgreatholly.live
 0.0.0.0 verifyclicksolutions.com
 0.0.0.0 verikai.com
-0.0.0.0 verint.com
 0.0.0.0 verisk.co.uk
 0.0.0.0 verisk.com
 0.0.0.0 veriskhealth.com
