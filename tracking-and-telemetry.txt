@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-08-28 15:08:32
+# WYGENEROWANO: 2026-08-29 09:50:31
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 93128
+# RAZEM: 93142
 
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0024aadd.com
@@ -140,6 +140,7 @@
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
 0.0.0.0 11win.skin
+0.0.0.0 11win.style
 0.0.0.0 11win.tips
 0.0.0.0 11win.vin
 0.0.0.0 11win.works
@@ -190,7 +191,6 @@
 0.0.0.0 13strides.co.uk
 0.0.0.0 13strides.com
 0.0.0.0 13yg.cn
-0.0.0.0 14-0-204-188.static.pccw-hkt.com
 0.0.0.0 140456881.liquid-life.de
 0.0.0.0 1409839421.petromax.de
 0.0.0.0 143nchrtl3.com
@@ -642,11 +642,13 @@
 0.0.0.0 3995224559.brainbook-verlag.de
 0.0.0.0 3998841689.adlerapotheke.at
 0.0.0.0 3ba11288cf.delight-vr.com
+0.0.0.0 3bet.adqc.net
 0.0.0.0 3bet.baby
 0.0.0.0 3bet.bike
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.center
 0.0.0.0 3bet.city
+0.0.0.0 3bet.fund
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
 0.0.0.0 3bet.llc
@@ -1220,6 +1222,7 @@
 0.0.0.0 9bet.diy
 0.0.0.0 9bet.fund
 0.0.0.0 9bet.green
+0.0.0.0 9bet.krd
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
 0.0.0.0 9bet.photo
@@ -14579,7 +14582,6 @@
 0.0.0.0 api-kampane.dovera.sk
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 api-luckycoinsdk.doglobal.net
-0.0.0.0 api-lytics.macpaw.com
 0.0.0.0 api-matomo.centre-europeen-formation.fr
 0.0.0.0 api-mktdev.solarwinds.com
 0.0.0.0 api-mktg.bash.com
@@ -14620,6 +14622,7 @@
 0.0.0.0 api.9bet.diy
 0.0.0.0 api.9bet.fund
 0.0.0.0 api.9bet.green
+0.0.0.0 api.9bet.krd
 0.0.0.0 api.9bet.mobi
 0.0.0.0 api.9bet.photo
 0.0.0.0 api.9bet.win
@@ -20333,7 +20336,6 @@
 0.0.0.0 consent.sprachnudel.dev
 0.0.0.0 consent.sprichwoerter-online.de
 0.0.0.0 consent.stadtlandmama.de
-0.0.0.0 consent.standardadmin.org
 0.0.0.0 consent.steuerklassen.com
 0.0.0.0 consent.streamheroes.gg
 0.0.0.0 consent.strengnastidning.se
@@ -21821,6 +21823,7 @@
 0.0.0.0 d32fcx43tccxeh.cloudfront.net
 0.0.0.0 d32gix1g9cqv9i.cloudfront.net
 0.0.0.0 d330aiyvva2oww.cloudfront.net
+0.0.0.0 d335luupugsy2.cloudfront.net
 0.0.0.0 d33a6lvgbd0fej.cloudfront.net
 0.0.0.0 d35vb5cccm4xzp.cloudfront.net
 0.0.0.0 d363eqdp8fcfku.cloudfront.net
@@ -23647,6 +23650,7 @@
 0.0.0.0 du88.in
 0.0.0.0 du88.info
 0.0.0.0 du88.life
+0.0.0.0 du88.mba
 0.0.0.0 du88.pro
 0.0.0.0 du88.rent
 0.0.0.0 du88.sh
@@ -27359,7 +27363,6 @@
 0.0.0.0 gedawang.com
 0.0.0.0 gedidigital.wt-eu02.net
 0.0.0.0 geeltrk.com
-0.0.0.0 geid.wbtrk.net
 0.0.0.0 geiger.kernkraftwerk.lol
 0.0.0.0 geindex.com
 0.0.0.0 gel1.gosportmontagne.com
@@ -29189,6 +29192,7 @@
 0.0.0.0 gw.gen88.com
 0.0.0.0 gw.mubet.media
 0.0.0.0 gw.mubet.talk
+0.0.0.0 gw.mubet.tips
 0.0.0.0 gw.mubet.vip
 0.0.0.0 gw.pictureinsect.com
 0.0.0.0 gw.tot88.store
@@ -29424,6 +29428,7 @@
 0.0.0.0 hbet.sh
 0.0.0.0 hbet.so
 0.0.0.0 hbet.spa
+0.0.0.0 hbet.srl
 0.0.0.0 hbet.vc
 0.0.0.0 hbet.win
 0.0.0.0 hbibh.soylent.ca
@@ -32471,6 +32476,7 @@
 0.0.0.0 k88.mobi
 0.0.0.0 k88.moe
 0.0.0.0 k88.mov
+0.0.0.0 k88.now
 0.0.0.0 k88.nz
 0.0.0.0 k88.pro
 0.0.0.0 k88.soy
@@ -36051,6 +36057,7 @@
 0.0.0.0 lu88.com
 0.0.0.0 lu88.de
 0.0.0.0 lu88.ec
+0.0.0.0 lu88.foo
 0.0.0.0 lu88.gd
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
@@ -38179,6 +38186,7 @@
 0.0.0.0 man88.vip
 0.0.0.0 man88.vu
 0.0.0.0 man88.win
+0.0.0.0 man88.wtf
 0.0.0.0 man88.xin
 0.0.0.0 manage.devcenter.microsoft.com
 0.0.0.0 manage.wuhancloud.cn
@@ -38187,6 +38195,7 @@
 0.0.0.0 manalytics.xtraffix.com
 0.0.0.0 manclub1.com
 0.0.0.0 mandaportal.com
+0.0.0.0 mangabolt.com
 0.0.0.0 mango.dignicy.com
 0.0.0.0 mangotrk.com
 0.0.0.0 maniacalrage.net
@@ -62631,6 +62640,7 @@
 0.0.0.0 play.vic.hair
 0.0.0.0 play.vicclub.ac
 0.0.0.0 play.vicclub.id
+0.0.0.0 play.vicclub.mx
 0.0.0.0 play.vicclub.sh
 0.0.0.0 play.vip79.top
 0.0.0.0 play.wetainment.com
@@ -63279,6 +63289,7 @@
 0.0.0.0 pub88.camera
 0.0.0.0 pub88.channel
 0.0.0.0 pub88.charity
+0.0.0.0 pub88.college
 0.0.0.0 pub88.com
 0.0.0.0 pub88.day
 0.0.0.0 pub88.forum
@@ -69313,6 +69324,7 @@
 0.0.0.0 sk.xibet.tax
 0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.xibet.wtf
+0.0.0.0 sk.xibet.you
 0.0.0.0 sk.zbet.ws
 0.0.0.0 sk37sjxc.com
 0.0.0.0 skads.gxsky.com
@@ -72090,6 +72102,7 @@
 0.0.0.0 socket.9bet.diy
 0.0.0.0 socket.9bet.fund
 0.0.0.0 socket.9bet.green
+0.0.0.0 socket.9bet.krd
 0.0.0.0 socket.9bet.mobi
 0.0.0.0 socket.9bet.photo
 0.0.0.0 socket.9bet.win
@@ -84223,7 +84236,6 @@
 0.0.0.0 telemetry.nextjs.org
 0.0.0.0 telemetry.notable.app
 0.0.0.0 telemetry.notable.md
-0.0.0.0 telemetry.nvidia.com
 0.0.0.0 telemetry.paradox-interactive.com
 0.0.0.0 telemetry.plussimple.fr
 0.0.0.0 telemetry.proctorcollect.com
@@ -84494,7 +84506,6 @@
 0.0.0.0 thingbook.io
 0.0.0.0 thinglink.com
 0.0.0.0 thinkbeforeafter.cloudindex.workers.dev
-0.0.0.0 thinkingdata.cn
 0.0.0.0 thinqonline.com
 0.0.0.0 third-party-cookie.raspcs.pl
 0.0.0.0 thirdbridge.com
@@ -86877,6 +86888,7 @@
 0.0.0.0 tx88.download
 0.0.0.0 tx88.fan
 0.0.0.0 tx88.fashion
+0.0.0.0 tx88.free
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fund
 0.0.0.0 tx88.fyi
@@ -88731,6 +88743,7 @@
 0.0.0.0 vtwenty.com
 0.0.0.0 vtyes4trk.com
 0.0.0.0 vu88.ac
+0.0.0.0 vu88.best
 0.0.0.0 vu88.com
 0.0.0.0 vu88.cz
 0.0.0.0 vu88.de
@@ -89819,6 +89832,7 @@
 0.0.0.0 wp.9bet.diy
 0.0.0.0 wp.9bet.fund
 0.0.0.0 wp.9bet.green
+0.0.0.0 wp.9bet.krd
 0.0.0.0 wp.9bet.mobi
 0.0.0.0 wp.9bet.photo
 0.0.0.0 wp.9bet.win
