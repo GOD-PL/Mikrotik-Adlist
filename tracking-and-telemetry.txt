@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-08-31 09:28:28
+# WYGENEROWANO: 2026-09-01 08:26:01
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 93062
+# RAZEM: 93014
 
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0024aadd.com
@@ -278,7 +278,6 @@
 0.0.0.0 1pixelcloud.com
 0.0.0.0 1plusx.com
 0.0.0.0 1plusx.io
-0.0.0.0 1pqflive.net
 0.0.0.0 1q.com
 0.0.0.0 1qwe3r.com
 0.0.0.0 1r49n.cn
@@ -352,7 +351,6 @@
 0.0.0.0 202502210.xyz
 0.0.0.0 2054017458.miacara.com
 0.0.0.0 2056264411.pergolux.de
-0.0.0.0 2068.bet
 0.0.0.0 2079122944.reisenaktuell.com
 0.0.0.0 208005830805862.wt-eu02.net
 0.0.0.0 2085384064.outdoorheld.at
@@ -716,7 +714,7 @@
 0.0.0.0 444170171787319.wt-eu02.net
 0.0.0.0 444sports.com
 0.0.0.0 44dryflow.com
-0.0.0.0 44tele-infraactive.tc.skysrt.com
+0.0.0.0 44tele-infra.com
 0.0.0.0 4567trk.com
 0.0.0.0 458677892662477.wt-eu02.net
 0.0.0.0 467.red
@@ -1643,7 +1641,6 @@
 0.0.0.0 a2315.oadz.com
 0.0.0.0 a2397.oadz.com
 0.0.0.0 a24076.actonsoftware.com
-0.0.0.0 a24396.actonsnottip.cz
 0.0.0.0 a2btest.com
 0.0.0.0 a2ccecmtrk.com
 0.0.0.0 a2m.cn
@@ -1674,7 +1671,6 @@
 0.0.0.0 a37128.actonsoftware.com
 0.0.0.0 a37371.actonsoftware.com
 0.0.0.0 a37670.actonsoftware.com
-0.0.0.0 a38031.actonsew.primeslots.com
 0.0.0.0 a38748.actonsoftware.com
 0.0.0.0 a38839.actonsoftware.com
 0.0.0.0 a39204.actonsoftware.com
@@ -14583,7 +14579,6 @@
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 api-luckycoinsdk.doglobal.net
 0.0.0.0 api-matomo.centre-europeen-formation.fr
-0.0.0.0 api-mktdev.solarwinds.com
 0.0.0.0 api-mktg.bash.com
 0.0.0.0 api-mktg.prettylittlething.com
 0.0.0.0 api-push.com
@@ -15310,7 +15305,6 @@
 0.0.0.0 apts.ettoday.net
 0.0.0.0 apttrk.com
 0.0.0.0 apus.edu.102.122.2o7.net
-0.0.0.0 apx.amazon.dev
 0.0.0.0 apy.kompulse.fr
 0.0.0.0 apy.vision
 0.0.0.0 apyuelang.com
@@ -17111,6 +17105,7 @@
 0.0.0.0 brandmaxima.com
 0.0.0.0 brandmazar.com
 0.0.0.0 brandnamic.tech
+0.0.0.0 brands-api.ext.gm.com
 0.0.0.0 brandseye.com
 0.0.0.0 brandsmartusa.net
 0.0.0.0 bravo188.com
@@ -17584,7 +17579,6 @@
 0.0.0.0 canhazip.com
 0.0.0.0 canidae.introcrm.com
 0.0.0.0 canna-stats.com
-0.0.0.0 canny.io
 0.0.0.0 cantorlytics.vsco.co
 0.0.0.0 canvas8.com
 0.0.0.0 canvaz.scdn.co
@@ -17803,7 +17797,7 @@
 0.0.0.0 casino.betmgm.nl
 0.0.0.0 casino.betway.com
 0.0.0.0 casino.leovegas.nl
-0.0.0.0 casino.syics.abbott.co.jp
+0.0.0.0 casino.synottip.cz
 0.0.0.0 casino.williamhill.com
 0.0.0.0 casinoandfriends.com
 0.0.0.0 casinobg.info
@@ -18579,6 +18573,7 @@
 0.0.0.0 cidemo.actonservice.com
 0.0.0.0 cidev.actonservice.com
 0.0.0.0 cience.com
+0.0.0.0 ciences.co.kr
 0.0.0.0 cig.com.cn
 0.0.0.0 ciigis.com
 0.0.0.0 ciimg.com
@@ -21224,6 +21219,7 @@
 0.0.0.0 crossss.com
 0.0.0.0 crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com
 0.0.0.0 crow.manuel-metzger.com
+0.0.0.0 crowdcontrol.stubhub.com
 0.0.0.0 crowdcontrolsoftware.com
 0.0.0.0 crowdtwist.com
 0.0.0.0 crowdvision.com
@@ -23274,6 +23270,7 @@
 0.0.0.0 dl-debug.dropbox.com
 0.0.0.0 dl.2345.cn
 0.0.0.0 dl.9xu.com
+0.0.0.0 dl.armour-inc-down.net
 0.0.0.0 dl.client.baidu.com
 0.0.0.0 dl.cws.xfinity.com
 0.0.0.0 dl.document.cigna.com
@@ -26129,78 +26126,22 @@
 0.0.0.0 feedback.advancedwebranking.com
 0.0.0.0 feedback.aol.com
 0.0.0.0 feedback.apple.com
-0.0.0.0 feedback.betterimpact.com
-0.0.0.0 feedback.bevel.health
-0.0.0.0 feedback.brightgauge.com
-0.0.0.0 feedback.casperwallet.io
-0.0.0.0 feedback.conjured.co
-0.0.0.0 feedback.cozycal.com
-0.0.0.0 feedback.descript.com
-0.0.0.0 feedback.doxy.me
-0.0.0.0 feedback.ecomposer.io
-0.0.0.0 feedback.enrollsy.com
 0.0.0.0 feedback.esp.vmware.com
 0.0.0.0 feedback.exploremetro.com
 0.0.0.0 feedback.fellow.app
-0.0.0.0 feedback.flick.tech
 0.0.0.0 feedback.foundation.app
-0.0.0.0 feedback.frame.sh
-0.0.0.0 feedback.fulcrumapp.com
-0.0.0.0 feedback.getimg.ai
-0.0.0.0 feedback.getorda.com
 0.0.0.0 feedback.givewp.com
-0.0.0.0 feedback.gumlet.com
-0.0.0.0 feedback.heybegin.com
 0.0.0.0 feedback.hotcross.com
-0.0.0.0 feedback.hotspotty.net
-0.0.0.0 feedback.hudu.com
 0.0.0.0 feedback.itarian.com
-0.0.0.0 feedback.jogo.ai
-0.0.0.0 feedback.js.wiki
 0.0.0.0 feedback.kitbash3d.com
-0.0.0.0 feedback.kodika.io
-0.0.0.0 feedback.koinly.io
 0.0.0.0 feedback.longplay.app
-0.0.0.0 feedback.mailpoet.com
 0.0.0.0 feedback.manychat.com
-0.0.0.0 feedback.mastermind.com
-0.0.0.0 feedback.missiveapp.com
-0.0.0.0 feedback.moniker.com
-0.0.0.0 feedback.mudstack.com
-0.0.0.0 feedback.nearpod.com
-0.0.0.0 feedback.nector.io
-0.0.0.0 feedback.neo4j.com
-0.0.0.0 feedback.new.capital
-0.0.0.0 feedback.okso.app
-0.0.0.0 feedback.peopledatalabs.com
 0.0.0.0 feedback.picflow.com
-0.0.0.0 feedback.pixels.xyz
-0.0.0.0 feedback.pop.work
-0.0.0.0 feedback.project.co
-0.0.0.0 feedback.quran.com
-0.0.0.0 feedback.rabbithole.gg
 0.0.0.0 feedback.rackspacecloud.com
-0.0.0.0 feedback.recraft.ai
-0.0.0.0 feedback.render.com
 0.0.0.0 feedback.return2games.com
-0.0.0.0 feedback.riipen.com
-0.0.0.0 feedback.rivo.io
-0.0.0.0 feedback.secondlife.com
-0.0.0.0 feedback.sendx.io
-0.0.0.0 feedback.sesami.co
 0.0.0.0 feedback.sophos.com
-0.0.0.0 feedback.soundrop.com
-0.0.0.0 feedback.syncsketch.com
-0.0.0.0 feedback.tarteel.ai
-0.0.0.0 feedback.techdinamics.com
-0.0.0.0 feedback.telbee.io
 0.0.0.0 feedback.travelerwp.com
-0.0.0.0 feedback.trustapps.co
-0.0.0.0 feedback.vrchat.com
-0.0.0.0 feedback.weareag.co.uk
-0.0.0.0 feedback.weareindy.com
 0.0.0.0 feedback.whalecloud.com
-0.0.0.0 feedback.ziggeo.com
 0.0.0.0 feedbackchoice.com
 0.0.0.0 feedbackmart.com
 0.0.0.0 feedbackws.icloud.com.cn
@@ -30601,6 +30542,7 @@
 0.0.0.0 images9999.com
 0.0.0.0 imaginative-trade7.com
 0.0.0.0 imall.cntv.cn
+0.0.0.0 imamuenaebetugif.xyz
 0.0.0.0 imap.a.shortest-route.com
 0.0.0.0 imap.c.shortest-route.com
 0.0.0.0 imap.cainus.teradatadmc.com
@@ -33535,6 +33477,7 @@
 0.0.0.0 live-events.workers.bsky.app
 0.0.0.0 live-log.immomo.com
 0.0.0.0 live-matomo-1805527886.eu-west-2.elb.amazonaws.com
+0.0.0.0 live-trace.bilibili.com
 0.0.0.0 live.bhf.org.uk
 0.0.0.0 live.guerrillaradio.ro
 0.0.0.0 live.lifesherpa.com.au
@@ -35853,6 +35796,7 @@
 0.0.0.0 logstatis.net
 0.0.0.0 loguq.com
 0.0.0.0 loisirsencheres-com.eulerian.net
+0.0.0.0 loki-ingest.fox.com
 0.0.0.0 loki8lave.com
 0.0.0.0 lol.pnhfc.com
 0.0.0.0 loldy.jiangmg.com
@@ -37158,7 +37102,7 @@
 0.0.0.0 m1.max88.vip
 0.0.0.0 m1.may88d.com
 0.0.0.0 m1.mgogo.com
-0.0.0.0 m1.tin8a71mc.de
+0.0.0.0 m1.tin88.bet
 0.0.0.0 m1.vin88.net
 0.0.0.0 m1.vin88.pub
 0.0.0.0 m1.vin88.pw
@@ -40146,6 +40090,8 @@
 0.0.0.0 matomo.herodesk.io
 0.0.0.0 matomo.herts.ac.uk
 0.0.0.0 matomo.herz-bube.com
+0.0.0.0 matomo.hetzner.cloud
+0.0.0.0 matomo.hetzner.com
 0.0.0.0 matomo.hfc.link
 0.0.0.0 matomo.hfcc.edu
 0.0.0.0 matomo.hfjs.eu
@@ -43114,7 +43060,6 @@
 0.0.0.0 metis-analytics.acrimed.org
 0.0.0.0 metodopic.thepicacademy.com
 0.0.0.0 metorik.com
-0.0.0.0 metr79.vip
 0.0.0.0 metric-public-service-prod.ol.epicgames.com
 0.0.0.0 metric.al
 0.0.0.0 metric.brightcove.com
@@ -43857,6 +43802,7 @@
 0.0.0.0 metrics.zamnesia.com
 0.0.0.0 metrics.zionsbank.com
 0.0.0.0 metrics.zrobionerecznie.pl
+0.0.0.0 metrics.zumigo.com
 0.0.0.0 metrics.zwierzolubny.pl
 0.0.0.0 metrics.zwyk-studio.com
 0.0.0.0 metricsapi.svc.tsiaws.com
@@ -44032,6 +43978,7 @@
 0.0.0.0 miropapremama-es.eulerian.net
 0.0.0.0 mirpur.shoplyo.com
 0.0.0.0 mirtesen.ru
+0.0.0.0 misc-pili-qos-report.qiniuapi.com
 0.0.0.0 misc.in.duokanbox.com
 0.0.0.0 misc1bulk.com
 0.0.0.0 misi.infocamere.it
@@ -51516,6 +51463,7 @@
 0.0.0.0 new.zaynafurniture.com
 0.0.0.0 new.zeelandia.ro
 0.0.0.0 new88.fo
+0.0.0.0 new88.love
 0.0.0.0 new88.tips
 0.0.0.0 new88.today
 0.0.0.0 new8884.com
@@ -51746,6 +51694,7 @@
 0.0.0.0 nid.thescottishsun.co.uk
 0.0.0.0 nid.thesun.ie
 0.0.0.0 nid.thetimes.co.uk
+0.0.0.0 nid.wsj.com
 0.0.0.0 nidq.zxin131.cn
 0.0.0.0 nielsen-admosphere.cz
 0.0.0.0 nielsen-online.com
@@ -52956,6 +52905,7 @@
 0.0.0.0 oj83trk.com
 0.0.0.0 ojfj2srl.com
 0.0.0.0 ojj258.com
+0.0.0.0 ok365.org
 0.0.0.0 okaxis.com
 0.0.0.0 okc-5191.com
 0.0.0.0 okcado.com
@@ -55638,7 +55588,6 @@
 0.0.0.0 patternsandpredictions.net
 0.0.0.0 pause.ameo.dev
 0.0.0.0 pause.booq.cc
-0.0.0.0 pausible.flaq.ai
 0.0.0.0 pav04trk.com
 0.0.0.0 pavlov-prod.healthline.com
 0.0.0.0 pawcon.com
@@ -62841,6 +62790,7 @@
 0.0.0.0 pp.promofarma.com
 0.0.0.0 pp.sxjkc.cn
 0.0.0.0 pp88.icu
+0.0.0.0 pphqq.com
 0.0.0.0 ppl9ktrk.com
 0.0.0.0 ppmt.901654.jweiland-hosting.de
 0.0.0.0 pptv.adx.admaster.com.cn
@@ -62915,6 +62865,7 @@
 0.0.0.0 primate.philipithomas.com
 0.0.0.0 primedice.com
 0.0.0.0 primejourneyjoy.com
+0.0.0.0 primeslots.com
 0.0.0.0 primetag.net
 0.0.0.0 principiaanalytics.com
 0.0.0.0 print1.mercadoclics.com
@@ -65579,7 +65530,6 @@
 0.0.0.0 rv-pitch-27.top
 0.0.0.0 rv.bee.pl
 0.0.0.0 rvere.com
-0.0.0.0 rvice.com
 0.0.0.0 rvikjd.com
 0.0.0.0 rvty.net
 0.0.0.0 rw-gemail-997.top
@@ -65591,7 +65541,9 @@
 0.0.0.0 rxorder.walgreens.com
 0.0.0.0 rxqj8yed.naturepedic.com
 0.0.0.0 ry289qrj.vasafitness.com
+0.0.0.0 rybbit.102417.xyz
 0.0.0.0 rybbit.com
+0.0.0.0 rybbit.hydrology.cc
 0.0.0.0 rybbit.io
 0.0.0.0 rybbit.xzist.org
 0.0.0.0 rybihvlqs.rbh-logistics.com
@@ -69561,6 +69513,7 @@
 0.0.0.0 smetrics.crains.com
 0.0.0.0 smetrics.crocs.com.hk
 0.0.0.0 smetrics.crocs.com.tw
+0.0.0.0 smetrics.cytivalifesactive.tc.skysrt.com
 0.0.0.0 smetrics.danchuangglobal.com
 0.0.0.0 smetrics.datafaction.com
 0.0.0.0 smetrics.datamonitorhealthcare.com
@@ -72074,6 +72027,7 @@
 0.0.0.0 sojolk8trk.com
 0.0.0.0 solar.bostonsolar.us
 0.0.0.0 solarleadfactory.com
+0.0.0.0 solarwinds.com
 0.0.0.0 solecarttracker.azurewebsites.net
 0.0.0.0 solemates.vionicshoes.com
 0.0.0.0 solentstats.co.uk
@@ -83869,7 +83823,7 @@
 0.0.0.0 tai.win79.com
 0.0.0.0 tai.win79.moi
 0.0.0.0 tai.win79.pro
-0.0.0.0 tai.winsolutions.com
+0.0.0.0 tai.win79.vip
 0.0.0.0 taib52.bet
 0.0.0.0 taib69.cafe
 0.0.0.0 taigameiwin68.club
@@ -84494,7 +84448,6 @@
 0.0.0.0 timeserver.cnzz.net
 0.0.0.0 timetrade.com
 0.0.0.0 timezoneapi.io
-0.0.0.0 timezonedb.com
 0.0.0.0 tin88.top
 0.0.0.0 tingyun.com
 0.0.0.0 tingyunfenxi.com
@@ -85299,7 +85252,6 @@
 0.0.0.0 track.meb.com
 0.0.0.0 track.mediaburg.ch
 0.0.0.0 track.mediamaxnetworkstats.com
-0.0.0.0 track.mediav.com
 0.0.0.0 track.medios1.com
 0.0.0.0 track.medirect.com
 0.0.0.0 track.mediumgiantreporting.com
@@ -89894,7 +89846,6 @@
 0.0.0.0 ww88.club
 0.0.0.0 ww9.onetad.com
 0.0.0.0 wwe.leetieniu.com
-0.0.0.0 wwervice.com
 0.0.0.0 wwin.ba
 0.0.0.0 wwin.com
 0.0.0.0 wwsga.me
@@ -91449,6 +91400,7 @@
 0.0.0.0 www.pp9899.com
 0.0.0.0 www.predictivadvertising.com
 0.0.0.0 www.pridmorebookmakers.com
+0.0.0.0 www.primeslots.com
 0.0.0.0 www.pro-factory.com
 0.0.0.0 www.pro.cn
 0.0.0.0 www.programme.enviedeplus.com
