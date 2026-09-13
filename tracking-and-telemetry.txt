@@ -1,9 +1,7 @@
-# WYGENEROWANO: 2026-09-12 07:46:21
+# WYGENEROWANO: 2026-09-13 08:07:11
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 93568
+# RAZEM: 93557
 
-0.0.0.0 0.0.0s.allyes.com
-0.0.0.0 0.0.a.actonservice.com
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0024aadd.com
 0.0.0.0 007win.com
@@ -748,7 +746,6 @@
 0.0.0.0 4danalytics.ch
 0.0.0.0 4gf.9tkl2d.cn
 0.0.0.0 4gyqr.r.ah.d.sendibm5.com
-0.0.0.0 4h87y9pc59.active.tc.skysrt.com
 0.0.0.0 4jpfltrak.com
 0.0.0.0 4matomo.hirschtec.eu
 0.0.0.0 4mythtracker.xyz
@@ -782,7 +779,6 @@
 0.0.0.0 51juejinjie.com.cn
 0.0.0.0 51maiwanju.com
 0.0.0.0 51posuiji.org.cn
-0.0.0.0 51zrtx.com
 0.0.0.0 520992802.gesundheitsvergleich-deutschland.de
 0.0.0.0 523betapp.site
 0.0.0.0 524633908170120.wt-eu02.net
@@ -1695,7 +1691,6 @@
 0.0.0.0 a42220.actonsoftware.com
 0.0.0.0 a42327.actonsoftware.com
 0.0.0.0 a43125.actonsoftware.com
-0.0.0.0 a43256.aeytimes.com
 0.0.0.0 a46534.actonservice.com
 0.0.0.0 a4712.actonsoftware.com
 0.0.0.0 a483k.badsectorlabs.com
@@ -1986,6 +1981,7 @@
 0.0.0.0 actioniq.com
 0.0.0.0 active-analytics.com
 0.0.0.0 active.baofeng.com
+0.0.0.0 active.tc.skysrt.com
 0.0.0.0 activedemand.com
 0.0.0.0 activefeaturepoint.com
 0.0.0.0 actives.youku.com
@@ -14676,6 +14672,7 @@
 0.0.0.0 ape.nusii.com
 0.0.0.0 ape78cn2.com
 0.0.0.0 aper.zhfosenghtr.com
+0.0.0.0 apester.com
 0.0.0.0 apexclix.com
 0.0.0.0 apexloyalty.com
 0.0.0.0 apexmix.com
@@ -16077,7 +16074,6 @@
 0.0.0.0 baiwanchuangyi.com
 0.0.0.0 bakgb.aspengreen.com
 0.0.0.0 bal8ntrk.com
-0.0.0.0 balears.cat
 0.0.0.0 bali6nora.com
 0.0.0.0 balk82trk.com
 0.0.0.0 balkanbet.co.rs
@@ -16490,6 +16486,7 @@
 0.0.0.0 bet-at-home.de
 0.0.0.0 bet-csgo.com
 0.0.0.0 bet.co.za
+0.0.0.0 bet.hkjc.com
 0.0.0.0 bet1128.com
 0.0.0.0 bet11888.com
 0.0.0.0 bet2290.com
@@ -18755,6 +18752,7 @@
 0.0.0.0 ci23.actonservice.com
 0.0.0.0 ci302.actonsoftware.com
 0.0.0.0 ci56.actonservice.com
+0.0.0.0 cialtalk.com
 0.0.0.0 cibaimo.lanciaumo.com
 0.0.0.0 cid11.actonsoftware.com
 0.0.0.0 cid4.actonsoftware.com
@@ -21905,7 +21903,6 @@
 0.0.0.0 d15082025.jweletricas.com.br
 0.0.0.0 d1564fddzjmdj5.cloudfront.net
 0.0.0.0 d15lxwsio1b0qb.cloudfront.net
-0.0.0.0 d15r06k2ko210l.cloudfront.net
 0.0.0.0 d1639lhkj5l89m.cloudfront.net
 0.0.0.0 d16aq9ldxzyie9.cloudfront.net
 0.0.0.0 d16i0l5qhf2h7o.cloudfront.net
@@ -23925,7 +23922,6 @@
 0.0.0.0 dwga.unclearnies.com
 0.0.0.0 dwga.verdescannabis.com
 0.0.0.0 dwt.soundcloud.com
-0.0.0.0 dwtrack.qidian.com
 0.0.0.0 dx.dokanxpress.com
 0.0.0.0 dx00.live
 0.0.0.0 dx6ctphzljkf1.cloudfront.net
@@ -24926,6 +24922,7 @@
 0.0.0.0 eef.51dmn.top
 0.0.0.0 eei.lobbycafe.cn
 0.0.0.0 eer.zhthf.com
+0.0.0.0 eestats.tv
 0.0.0.0 eestiloto.ee
 0.0.0.0 eez9.com
 0.0.0.0 ef-proxy.musora.com
@@ -26134,7 +26131,6 @@
 0.0.0.0 fancydmp.com
 0.0.0.0 fancymedia-cm.admaster.com.cn
 0.0.0.0 fancysmp.com
-0.0.0.0 fancysocialtalk.com
 0.0.0.0 fandango.hb-api.omtrdc.net
 0.0.0.0 fangyi.cn
 0.0.0.0 fanjis.cn
@@ -27080,7 +27076,7 @@
 0.0.0.0 fun.ljbus.cc
 0.0.0.0 fun.poste.cc
 0.0.0.0 fun.yuhuapps.com
-0.0.0.0 fun1008.coctonservice.com
+0.0.0.0 fun1008.com
 0.0.0.0 fun789.club
 0.0.0.0 fun88.co.uk
 0.0.0.0 fun88epl.com
@@ -27896,7 +27892,6 @@
 0.0.0.0 ggb.douguo.com
 0.0.0.0 ggbetapk.com
 0.0.0.0 ggbko.obsessedlawn.com
-0.0.0.0 ggdata1.cnr.cn
 0.0.0.0 ggh1tn9y.com
 0.0.0.0 ggl.applique-tendance.com
 0.0.0.0 ggl.biophenix.com
@@ -33266,7 +33261,6 @@
 0.0.0.0 labs.ra.icast.cn
 0.0.0.0 labs.sense-studios.com
 0.0.0.0 labscriteo.com
-0.0.0.0 labstats.com
 0.0.0.0 lack4skip.com
 0.0.0.0 lacouray.com
 0.0.0.0 ladbrokes.com
@@ -36563,7 +36557,6 @@
 0.0.0.0 m.bentengcn.com
 0.0.0.0 m.bfhfhk.cn
 0.0.0.0 m.bgaix.com
-0.0.0.0 m.bgcse.cn
 0.0.0.0 m.bgj113.cn
 0.0.0.0 m.bgj216.cn
 0.0.0.0 m.bgj582.cn
@@ -36720,7 +36713,6 @@
 0.0.0.0 m.future888.net
 0.0.0.0 m.fwjoi.com
 0.0.0.0 m.fxunn.com
-0.0.0.0 m.fy4zb.cn
 0.0.0.0 m.fzyda.com
 0.0.0.0 m.gameyun907.net
 0.0.0.0 m.ganrs.com
@@ -43295,7 +43287,6 @@
 0.0.0.0 merchant-centric.s3.amazonaws.com
 0.0.0.0 merchantcentric.com
 0.0.0.0 mercury.clawfire.net
-0.0.0.0 mercury.jd.com
 0.0.0.0 mercury.pvradar.com
 0.0.0.0 merida.morpheu5.net
 0.0.0.0 meridianbet.com
@@ -51393,7 +51384,6 @@
 0.0.0.0 myclientip.com
 0.0.0.0 mycom-osi.com
 0.0.0.0 mycustomerlabs.com
-0.0.0.0 mydatascript.bubbleup.com
 0.0.0.0 mydialoginsight.com
 0.0.0.0 mydocument.cigna.com
 0.0.0.0 mydocusign.com
@@ -65770,6 +65760,7 @@
 0.0.0.0 rrkc98u8.krewe.com
 0.0.0.0 rrmumu.lojaminasdepresentes.com.br
 0.0.0.0 rrr.youle55.com
+0.0.0.0 rs.com
 0.0.0.0 rs.grafana.com
 0.0.0.0 rs.haohaowan8.com
 0.0.0.0 rs2.akamaii.eu
@@ -65786,7 +65777,6 @@
 0.0.0.0 rsmetrics.com
 0.0.0.0 rsolutions.com
 0.0.0.0 rsrit.com
-0.0.0.0 rsspump.com
 0.0.0.0 rsst.literiedesign.com
 0.0.0.0 rssx.hp.com
 0.0.0.0 rt.casinofeber.se
@@ -69535,7 +69525,7 @@
 0.0.0.0 sina.mediav.com
 0.0.0.0 sina.wrating.com
 0.0.0.0 sinaapp.com
-0.0.0.0 sinata88.vip
+0.0.0.0 sinas.allyes.com
 0.0.0.0 sinbet.com
 0.0.0.0 sinbet.vip
 0.0.0.0 sincro.io
@@ -72912,7 +72902,6 @@
 0.0.0.0 srv.ph.ebayrtm.com
 0.0.0.0 srv.pl.ebayrtm.com
 0.0.0.0 srv.uk.ebayrtm.com
-0.0.0.0 srv00infra.com
 0.0.0.0 srv1010elan.com
 0.0.0.0 srv2020real.com
 0.0.0.0 srvr.hostingonion.com
@@ -84197,6 +84186,7 @@
 0.0.0.0 ta88.org
 0.0.0.0 ta88.so
 0.0.0.0 ta88.tv
+0.0.0.0 ta88.vip
 0.0.0.0 tab.co.nz
 0.0.0.0 tab.volces.com
 0.0.0.0 tabgold.co.za
@@ -85583,7 +85573,6 @@
 0.0.0.0 track.dpmemailstats.com
 0.0.0.0 track.drinkag1.com
 0.0.0.0 track.driveniqinsights.com
-0.0.0.0 track.dws.com
 0.0.0.0 track.e-track-online.com
 0.0.0.0 track.e.fetch.com
 0.0.0.0 track.ebookers.com
@@ -90320,7 +90309,6 @@
 0.0.0.0 wsw.voicemod.net
 0.0.0.0 wt-ara.wt-eu02.net
 0.0.0.0 wt.aafp.org
-0.0.0.0 wt.arawww.caribsports.com
 0.0.0.0 wt.research.gov
 0.0.0.0 wt.sailamx.com
 0.0.0.0 wt88trk.com
@@ -93146,6 +93134,7 @@
 0.0.0.0 yoke.jyhlo0.com
 0.0.0.0 yola.com.102.122.2o7.net
 0.0.0.0 yomconnect.com
+0.0.0.0 yonesocial.ni.com
 0.0.0.0 yoo.yiiyoo.net
 0.0.0.0 yoose.com
 0.0.0.0 youbora.com
