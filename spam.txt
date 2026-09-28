@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-09-27 09:03:13
+# WYGENEROWANO: 2026-09-28 09:30:28
 # KATEGORIA: spam
-# RAZEM: 201197
+# RAZEM: 201196
 
 0.0.0.0 0-2spk-us.basecamp.app
 0.0.0.0 0-amfauth.firebaseapp.com
@@ -160085,7 +160085,6 @@
 0.0.0.0 sender-sib.com
 0.0.0.0 sender.net
 0.0.0.0 sender.zohobooks.com
-0.0.0.0 sender.zohoinsights-crm.com
 0.0.0.0 sender.zohoinsights.ca
 0.0.0.0 sender.zohosubscriptions.com
 0.0.0.0 sender10.zohoinsights.com

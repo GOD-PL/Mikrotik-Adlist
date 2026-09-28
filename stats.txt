@@ -1,25 +1,25 @@
-STATS: 2026-09-27 09:03:13
+STATS: 2026-09-28 09:30:28
 ================================================================================
 
-SHARED: 981940
+SHARED: 982001
 
-ads: 243850 (total: 462936)
-extensions: 51504 (total: 415076)
+ads: 243871 (total: 462936)
+extensions: 51924 (total: 415450)
 fakenews: 213 (total: 2187)
 fraud: 235404 (total: 285196)
-malicious: 2370386 (total: 3137836)
-other: 37246 (total: 194557)
-phishing: 183338 (total: 339404)
+malicious: 2370583 (total: 3137836)
+other: 37686 (total: 194510)
+phishing: 183323 (total: 339404)
 ransomware: 3 (total: 1904)
 redirect: 107092 (total: 108685)
 scam: 2529 (total: 468727)
 sites: 61 (total: 292)
 social: 4529 (total: 4666)
-spam: 201197 (total: 247660)
-tracking-and-telemetry: 93435 (total: 231143)
+spam: 201196 (total: 247660)
+tracking-and-telemetry: 93434 (total: 231142)
 
-UNIQUE TOTAL: 3530787
-ALL DOMAINS: 4512727
+UNIQUE TOTAL: 3531848
+ALL DOMAINS: 4513849
 
 URL:
 ads | easylist.fork.txt | 56053
@@ -29,20 +29,20 @@ ads | AdguardDNS.fork.txt | 181863
 ads | GoodbyeAds.fork.txt | 277767
 ads | youtubelist.fork.txt | 16841
 ads | AdguardMobileAds.fork.txt | 928
-extensions | adguard-host.fork.txt | 182196
+extensions | adguard-host.fork.txt | 182509
 extensions | easy-privacy-host.fork.txt | 40507
 extensions | pro.fork.txt | 0
 extensions | AdguardMobileSpyware.fork.txt | 1128
 extensions | adguarddns-justdomains.fork.txt | 48989
-extensions | big.fork.txt | 243810
+extensions | big.fork.txt | 244026
 fakenews | hosts.fork.txt | 2187
 fraud | hosts.fork.txt | 285196
 malicious | Malware.fork.txt | 624086
 malicious | malware.fork.txt | 2655807
 other | hosts.fork.txt | 74757
-other | KADhosts.fork.txt | 41980
+other | KADhosts.fork.txt | 41431
 other | hostfile.fork.txt | 1123
-other | domains-hosts.fork.txt | 129755
+other | domains-hosts.fork.txt | 129421
 phishing | Phishing-Angriffe.fork.txt | 149228
 phishing | phishing.fork.txt | 190190
 ransomware | ransomware.fork.txt | 1904
@@ -58,4 +58,4 @@ spam | toxic-domains-whole.fork.txt | 76144
 tracking-and-telemetry | easyprivacy.fork.txt | 40498
 tracking-and-telemetry | tracking.fork.txt | 116860
 tracking-and-telemetry | firstparty-trackers-hosts.txt | 14482
-tracking-and-telemetry | host.fork.txt | 113402
+tracking-and-telemetry | host.fork.txt | 113401
