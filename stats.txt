@@ -1,25 +1,25 @@
-STATS: 2026-10-02 09:30:26
+STATS: 2026-10-02 18:35:54
 ================================================================================
 
-SHARED: 986216
+SHARED: 415368
 
-ads: 244475 (total: 458223)
-extensions: 51581 (total: 408857)
-fakenews: 213 (total: 2187)
-fraud: 235404 (total: 285196)
-malicious: 2363318 (total: 3137836)
-other: 40170 (total: 195937)
-phishing: 186483 (total: 354406)
-ransomware: 3 (total: 1904)
-redirect: 107092 (total: 108685)
-scam: 2529 (total: 468727)
+ads: 252052 (total: 458223)
+extensions: 98202 (total: 408857)
+fakenews: 215 (total: 2187)
+fraud: 241783 (total: 285196)
+malicious: 474383 (total: 624086)
+other: 44331 (total: 195937)
+phishing: 199726 (total: 354406)
+ransomware: 1818 (total: 1904)
+redirect: 108512 (total: 108685)
+scam: 451975 (total: 468727)
 sites: 61 (total: 292)
 social: 4529 (total: 4666)
-spam: 201431 (total: 247890)
-tracking-and-telemetry: 93444 (total: 228421)
+spam: 241234 (total: 247890)
+tracking-and-telemetry: 93825 (total: 228421)
 
-UNIQUE TOTAL: 3530733
-ALL DOMAINS: 4516949
+UNIQUE TOTAL: 2212646
+ALL DOMAINS: 2628014
 
 URL:
 ads | easylist.fork.txt | 56053
@@ -38,7 +38,6 @@ extensions | big.fork.txt | 244683
 fakenews | hosts.fork.txt | 2187
 fraud | hosts.fork.txt | 285196
 malicious | Malware.fork.txt | 624086
-malicious | malware.fork.txt | 2655807
 other | hosts.fork.txt | 74757
 other | KADhosts.fork.txt | 40212
 other | hostfile.fork.txt | 1123
