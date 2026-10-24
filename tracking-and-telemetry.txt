@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-10-23 08:20:53
+# WYGENEROWANO: 2026-10-24 07:58:15
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 96168
+# RAZEM: 96169
 
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 001union.com
@@ -10210,6 +10210,7 @@
 0.0.0.0 analytics.mercadopago.com.pe
 0.0.0.0 analytics.mercadopago.com.uy
 0.0.0.0 analytics.merchfactory.shop
+0.0.0.0 analytics.mercialys.cloud
 0.0.0.0 analytics.mere.site
 0.0.0.0 analytics.merida-bikes.com
 0.0.0.0 analytics.merida-bikes.com.mcgx-2-merida.oneba.se
@@ -12711,6 +12712,7 @@
 0.0.0.0 analytics.services.jetbrains.com
 0.0.0.0 analytics.services.solutiontech.it
 0.0.0.0 analytics.services.tts.sa
+0.0.0.0 analytics.servier.com
 0.0.0.0 analytics.servit.biz
 0.0.0.0 analytics.servizi-web.net
 0.0.0.0 analytics.servus.janschaer.ch
@@ -16205,7 +16207,6 @@
 0.0.0.0 app.xysos.com
 0.0.0.0 app02.stockstotrade.com
 0.0.0.0 app1.xeroshoes.com
-0.0.0.0 app2.220corbetsbi.com
 0.0.0.0 appadhoc.com
 0.0.0.0 appadhoc.net
 0.0.0.0 appanalytics.embarcadero.com
@@ -16626,7 +16627,6 @@
 0.0.0.0 audience.medok.fr
 0.0.0.0 audience.tatos.fr
 0.0.0.0 audience73.com
-0.0.0.0 audiencedata.im-apps.net
 0.0.0.0 audienceproject.com
 0.0.0.0 audiencereport.com
 0.0.0.0 audiencerepublic.com
@@ -17273,6 +17273,7 @@
 0.0.0.0 beacon.sp.gmossp-sp.jp
 0.0.0.0 beacon.static-data.com
 0.0.0.0 beacon.stationa.com
+0.0.0.0 beacon.viafoura.io
 0.0.0.0 beaconforms.com
 0.0.0.0 beaconforstore.com
 0.0.0.0 beacons.trafficmanager.net
@@ -17325,6 +17326,7 @@
 0.0.0.0 belmont.ag
 0.0.0.0 beloandcostats.com
 0.0.0.0 beloved.instateacher.gr
+0.0.0.0 bemao.com
 0.0.0.0 bemlwxyz.com
 0.0.0.0 bemob.com
 0.0.0.0 bemobtracks.com
@@ -17529,6 +17531,7 @@
 0.0.0.0 bets4all.com
 0.0.0.0 betsafe.com
 0.0.0.0 betsafe.lt
+0.0.0.0 betsbi.com
 0.0.0.0 betser.com
 0.0.0.0 betshop.com
 0.0.0.0 betshun.org
@@ -18169,7 +18172,6 @@
 0.0.0.0 bp8n3zpg.com
 0.0.0.0 bpaww.com
 0.0.0.0 bph9trk.com
-0.0.0.0 bpi.rtactivate.com
 0.0.0.0 bpminaction.com
 0.0.0.0 bpmonline.com
 0.0.0.0 bpts.8111216.cn
@@ -19637,6 +19639,7 @@
 0.0.0.0 chord.co
 0.0.0.0 chosendata.com
 0.0.0.0 chpsi.top
+0.0.0.0 christinadudley.com
 0.0.0.0 christybox.thankbox.com
 0.0.0.0 chrome--stats-com.webpkgcache.com
 0.0.0.0 chromecast-beacons.xumo.com
@@ -20982,7 +20985,6 @@
 0.0.0.0 comunicaciones.alianzateam.com
 0.0.0.0 comunicaciones.eniit.es
 0.0.0.0 comunicazioni.iol.it
-0.0.0.0 comyma.org
 0.0.0.0 conabi.xjditan.com
 0.0.0.0 conceptualhq.com
 0.0.0.0 concernedchange.com
@@ -24584,7 +24586,6 @@
 0.0.0.0 dmi-matomo.avency.de
 0.0.0.0 dmp-c.socoms.net
 0.0.0.0 dmp.adpush.cn
-0.0.0.0 dmp.im-apps.net
 0.0.0.0 dmp.kejet.net
 0.0.0.0 dmp.sina.com.cn
 0.0.0.0 dmpclick.deliver.ifeng.com
@@ -26355,7 +26356,6 @@
 0.0.0.0 encompass-cx.com
 0.0.0.0 encrideblaty.li
 0.0.0.0 endai.com
-0.0.0.0 endhaghts.samsung.com
 0.0.0.0 endive.briefsqa.com
 0.0.0.0 endpoint.sunbird.se
 0.0.0.0 endresshauser01.wt-eu02.net
@@ -26574,7 +26574,6 @@
 0.0.0.0 erclix.com
 0.0.0.0 eremos.nz
 0.0.0.0 erfrischtestracking.ch
-0.0.0.0 erfumesking.intl.miui.com
 0.0.0.0 erlangen.symanics.net
 0.0.0.0 erlpbwy.cn
 0.0.0.0 erny.jxinyue.top
@@ -27139,6 +27138,7 @@
 0.0.0.0 ezsportsbetting.com
 0.0.0.0 ezstreetsports.com
 0.0.0.0 f-log-win-extension.grammarly.io
+0.0.0.0 f-log.grammarly.io
 0.0.0.0 f.91byy.cn
 0.0.0.0 f.aty.sohu.com
 0.0.0.0 f.dashaowu.com
@@ -29270,7 +29270,6 @@
 0.0.0.0 go.chomps.com
 0.0.0.0 go.choosemuse.com
 0.0.0.0 go.chrobinson.com
-0.0.0.0 go.climate.emerson.comactive.tc.skysrt.com
 0.0.0.0 go.cmitfranchise.com
 0.0.0.0 go.codaworx.com
 0.0.0.0 go.collegeforamerica.org
@@ -40240,6 +40239,7 @@
 0.0.0.0 malm1coax.com
 0.0.0.0 malq22trk.com
 0.0.0.0 mam6.netease.com
+0.0.0.0 mamabearcoffee.com
 0.0.0.0 mamamiabingo.com
 0.0.0.0 mamasuncut-prod-assets.s3.us-east-2.amazonaws.com
 0.0.0.0 mamba-bg.advisorengine.com
@@ -54354,6 +54354,7 @@
 0.0.0.0 nwejs.alcryp.com
 0.0.0.0 nwejs.myzcoffice.com
 0.0.0.0 nwo.ai
+0.0.0.0 nwvalleyactive.tc.skysrt.com
 0.0.0.0 nxa.ajemfit.cz
 0.0.0.0 nxa.aromakh.cz
 0.0.0.0 nxa.bodyid.com
@@ -54407,6 +54408,7 @@
 0.0.0.0 o091i.com
 0.0.0.0 o1dnf9trk.com
 0.0.0.0 o33249.ingest.sentry.io
+0.0.0.0 o33249.ingest.us.sentry.io
 0.0.0.0 o365weve.com
 0.0.0.0 o3gx84jaq.com
 0.0.0.0 o4.oxbet.in
@@ -65942,7 +65944,6 @@
 0.0.0.0 pxblmj.com
 0.0.0.0 pxchk.net
 0.0.0.0 pxgdr.net
-0.0.0.0 pxl-us.fozekikikiminu.com
 0.0.0.0 pxl.ai
 0.0.0.0 pxl.bidvertiser.com
 0.0.0.0 pxl.idx.admaster.com.cn
@@ -68257,6 +68258,7 @@
 0.0.0.0 safetykit.com
 0.0.0.0 safevisit.online
 0.0.0.0 safewallhost.com
+0.0.0.0 sagescasebytes.com
 0.0.0.0 sagor.aloha-jewelry.co
 0.0.0.0 saharabet.com
 0.0.0.0 said3page.com
@@ -78497,7 +78499,6 @@
 0.0.0.0 stats.1stepchange.com
 0.0.0.0 stats.2.kitzhost.com
 0.0.0.0 stats.20137.it
-0.0.0.0 stats.24support.cc
 0.0.0.0 stats.264.at
 0.0.0.0 stats.2bmediasmart.com
 0.0.0.0 stats.2excel.com.au
@@ -87243,6 +87244,7 @@
 0.0.0.0 timelog.moviebox.baofeng.com
 0.0.0.0 timeone.io
 0.0.0.0 timepayment.net
+0.0.0.0 times.com
 0.0.0.0 timeserver.cnzz.net
 0.0.0.0 timetrade.com
 0.0.0.0 timezoneapi.io
@@ -87669,7 +87671,6 @@
 0.0.0.0 traces.ai
 0.0.0.0 tracing-http.megamarket.tech
 0.0.0.0 tracingsampler-events.g.ebay.com
-0.0.0.0 tracirfall.com
 0.0.0.0 track-app.org
 0.0.0.0 track-bremen.de
 0.0.0.0 track-cdn.39ej7e.com
@@ -93404,7 +93405,6 @@
 0.0.0.0 www.betusa.ag
 0.0.0.0 www.betvictor.com
 0.0.0.0 www.betway.co.ke
-0.0.0.0 www.betway.codncode.com
 0.0.0.0 www.betworks.com
 0.0.0.0 www.betzone.com
 0.0.0.0 www.bewaycare.com
@@ -95217,6 +95217,7 @@
 0.0.0.0 wwwstats.brgm.fr
 0.0.0.0 wwwstats.de
 0.0.0.0 wwwstats.finnova.com
+0.0.0.0 wwww.495495.com
 0.0.0.0 wwww.551144.com
 0.0.0.0 wwww.640640.com
 0.0.0.0 wwww.649649.com
