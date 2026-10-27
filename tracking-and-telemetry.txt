@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-10-26 08:39:17
+# WYGENEROWANO: 2026-10-27 08:45:12
 # KATEGORIA: tracking-and-telemetry
-# RAZEM: 96572
+# RAZEM: 96580
 
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 001union.com
@@ -144,11 +144,13 @@
 0.0.0.0 11win.dance
 0.0.0.0 11win.fashion
 0.0.0.0 11win.free
+0.0.0.0 11win.garden
 0.0.0.0 11win.link
 0.0.0.0 11win.llc
 0.0.0.0 11win.mobi
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
+0.0.0.0 11win.parts
 0.0.0.0 11win.skin
 0.0.0.0 11win.style
 0.0.0.0 11win.support
@@ -1251,6 +1253,7 @@
 0.0.0.0 9bet.care
 0.0.0.0 9bet.diy
 0.0.0.0 9bet.es
+0.0.0.0 9bet.estate
 0.0.0.0 9bet.fund
 0.0.0.0 9bet.green
 0.0.0.0 9bet.krd
@@ -2052,6 +2055,7 @@
 0.0.0.0 actiononsports.com
 0.0.0.0 active-analytics.com
 0.0.0.0 active.baofeng.com
+0.0.0.0 active.tc.skysrt.com
 0.0.0.0 activedemand.com
 0.0.0.0 activefeaturepoint.com
 0.0.0.0 actives.youku.com
@@ -17348,7 +17352,6 @@
 0.0.0.0 belmont.ag
 0.0.0.0 beloandcostats.com
 0.0.0.0 beloved.instateacher.gr
-0.0.0.0 bemao.com
 0.0.0.0 bemlwxyz.com
 0.0.0.0 bemob.com
 0.0.0.0 bemobtracks.com
@@ -19243,6 +19246,7 @@
 0.0.0.0 cdn2.topankovo.sk
 0.0.0.0 cdn2.vua88.diy
 0.0.0.0 cdn2.vua88.food
+0.0.0.0 cdn2.vua88.pub
 0.0.0.0 cdn259.talksport.com
 0.0.0.0 cdnas.hyperpromote.com
 0.0.0.0 cdnbbl.kotak.com
@@ -19543,6 +19547,7 @@
 0.0.0.0 chasingthemountainridges.com
 0.0.0.0 chat.vua88.diy
 0.0.0.0 chat.vua88.food
+0.0.0.0 chat.vua88.pub
 0.0.0.0 chata.ai
 0.0.0.0 chatanalytics.app
 0.0.0.0 chatboost-cv.algoage.co.jp
@@ -19666,7 +19671,6 @@
 0.0.0.0 chord.co
 0.0.0.0 chosendata.com
 0.0.0.0 chpsi.top
-0.0.0.0 christinadudley.com
 0.0.0.0 christybox.thankbox.com
 0.0.0.0 chrome--stats-com.webpkgcache.com
 0.0.0.0 chromecast-beacons.xumo.com
@@ -22181,6 +22185,7 @@
 0.0.0.0 counter.pcauto.com.cn
 0.0.0.0 counter.peitsche.com
 0.0.0.0 counter.pornos-unzensiert.com
+0.0.0.0 counter.privatez.link
 0.0.0.0 counter.quon.ru
 0.0.0.0 counter.raikevich.com
 0.0.0.0 counter.rolid.eu
@@ -24961,6 +24966,7 @@
 0.0.0.0 du88.art
 0.0.0.0 du88.blue
 0.0.0.0 du88.cafe
+0.0.0.0 du88.cards
 0.0.0.0 du88.care
 0.0.0.0 du88.chat
 0.0.0.0 du88.click
@@ -24970,6 +24976,7 @@
 0.0.0.0 du88.estate
 0.0.0.0 du88.fashion
 0.0.0.0 du88.football
+0.0.0.0 du88.gg
 0.0.0.0 du88.guru
 0.0.0.0 du88.health
 0.0.0.0 du88.house
@@ -28307,6 +28314,7 @@
 0.0.0.0 funcasino.com
 0.0.0.0 fundaciongruposocial.tt.omtrdc.net
 0.0.0.0 fundangky.com
+0.0.0.0 fundraiseup.com
 0.0.0.0 fundtransfer.w88bkk.com
 0.0.0.0 fundtransfer.w88club.com
 0.0.0.0 fundtransfer.w88hn.com
@@ -34680,6 +34688,7 @@
 0.0.0.0 ku6102.net
 0.0.0.0 ku88.fun
 0.0.0.0 ku88.pro
+0.0.0.0 ku88.study
 0.0.0.0 ku88.win
 0.0.0.0 kuaibaopay.com
 0.0.0.0 kuaiboads.com
@@ -40394,7 +40403,6 @@
 0.0.0.0 malm1coax.com
 0.0.0.0 malq22trk.com
 0.0.0.0 mam6.netease.com
-0.0.0.0 mamabearcoffee.com
 0.0.0.0 mamamiabingo.com
 0.0.0.0 mamasuncut-prod-assets.s3.us-east-2.amazonaws.com
 0.0.0.0 mamba-bg.advisorengine.com
@@ -40439,7 +40447,6 @@
 0.0.0.0 managed-reports.thumbvista.com
 0.0.0.0 management.ident.indapass.hu
 0.0.0.0 manalytics.xtraffix.com
-0.0.0.0 manawell.net
 0.0.0.0 manclub1.com
 0.0.0.0 mandaportal.com
 0.0.0.0 mango.dignicy.com
@@ -68517,7 +68524,6 @@
 0.0.0.0 safetykit.com
 0.0.0.0 safevisit.online
 0.0.0.0 safewallhost.com
-0.0.0.0 sagescasebytes.com
 0.0.0.0 sagor.aloha-jewelry.co
 0.0.0.0 saharabet.com
 0.0.0.0 said3page.com
@@ -88564,6 +88570,7 @@
 0.0.0.0 track.pramari.de
 0.0.0.0 track.primeagencia.com.br
 0.0.0.0 track.prismadata.fr
+0.0.0.0 track.privatez.link
 0.0.0.0 track.proofreadanywhere.com
 0.0.0.0 track.protectadvsmart.com
 0.0.0.0 track.punnel.com
@@ -89994,6 +90001,7 @@
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
 0.0.0.0 tx88.vote
+0.0.0.0 tx88.works
 0.0.0.0 tx88.zone
 0.0.0.0 txstatic.cn
 0.0.0.0 txtxz.org.cn
@@ -91000,7 +91008,6 @@
 0.0.0.0 unicorn.traineratwot.site
 0.0.0.0 unifi-report.ubnt.com
 0.0.0.0 unifiedsearchanalyticsapi.dell.com
-0.0.0.0 unifybots.com
 0.0.0.0 unifyintent.com
 0.0.0.0 union.baidustatic.guannin.com
 0.0.0.0 union.dangdang.com
@@ -91681,6 +91688,7 @@
 0.0.0.0 vic88.net
 0.0.0.0 vicclub.at
 0.0.0.0 vicclub.ink
+0.0.0.0 vicclub.legal
 0.0.0.0 vicclub.trade
 0.0.0.0 vicomi.com
 0.0.0.0 victoriametrics.com
