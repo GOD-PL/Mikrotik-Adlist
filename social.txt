@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-11-10 10:52:31
+# WYGENEROWANO: 2026-11-11 10:29:59
 # KATEGORIA: social
-# RAZEM: 4529
+# RAZEM: 4537
 
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
@@ -629,6 +629,7 @@
 0.0.0.0 applog-useast1a.musical.ly.edgekey.net
 0.0.0.0 applog-useast2a.musical.ly.edgekey.net
 0.0.0.0 applog.musical.ly.edgekey.net
+0.0.0.0 applog.snssdk.com
 0.0.0.0 applog.snssdk.com.w.kunluncan.com
 0.0.0.0 applog.tiktokv.com
 0.0.0.0 argus.byted.org
@@ -1212,6 +1213,7 @@
 0.0.0.0 d.l.bytedns.net
 0.0.0.0 d.pstatp.com
 0.0.0.0 d.snssdk.com
+0.0.0.0 d.toutiao.com
 0.0.0.0 d0gsjbullz.xzcs3zlph.com
 0.0.0.0 d1.l.bytedns.net
 0.0.0.0 d10br2bir1hdgs.cloudfront.net
@@ -1259,6 +1261,7 @@
 0.0.0.0 direct.musical.ly
 0.0.0.0 dispatch.byteoversea.com
 0.0.0.0 distribution.snssdk.com
+0.0.0.0 dm-hl.toutiao.com
 0.0.0.0 dm-lq.toutiao.com
 0.0.0.0 dm-lq.toutiao.com.w.cdngslb.com
 0.0.0.0 dm-maliva-quic.byteoversea.com
@@ -1491,10 +1494,12 @@
 0.0.0.0 gcp-ineg.api.snapchat.com
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 gecko-cold.snssdk.com
+0.0.0.0 gecko-hl.snssdk.com
 0.0.0.0 gecko-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 gecko-ipv6.snssdk.com
 0.0.0.0 gecko-lf.snssdk.com
 0.0.0.0 gecko-lf.snssdk.com.w.kunluncan.com
+0.0.0.0 gecko-lq.snssdk.com
 0.0.0.0 gecko-pangle-hl.snssdk.com
 0.0.0.0 gecko-pangle-lf.snssdk.com
 0.0.0.0 gecko-pangle-lq.snssdk.com
@@ -1512,6 +1517,7 @@
 0.0.0.0 gecko-va.snssdk.com
 0.0.0.0 gecko-va.tiktokv.com
 0.0.0.0 gecko-va.tiktokv.com.edgesuite.net
+0.0.0.0 gecko.snssdk.com
 0.0.0.0 gecko16-normal-c-useast1a.tiktokv.com
 0.0.0.0 gecko16-normal-c-useast1a.tiktokv.com.edgesuite.net
 0.0.0.0 gecko16-normal-c-useast2a.tiktokv.com
@@ -1650,6 +1656,7 @@
 0.0.0.0 ic-hl.snssdk.com
 0.0.0.0 ic-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 ic-lq.snssdk.com
+0.0.0.0 ic.snssdk.com
 0.0.0.0 ic.snssdk.com.w.kunluncan.com
 0.0.0.0 ichannel-tb.isnssdk.com
 0.0.0.0 ichannel-tb.sgsnssdk.com
@@ -3693,6 +3700,7 @@
 0.0.0.0 tos16-alisg2lf-up.byteoversea.com
 0.0.0.0 tos16-alisg2lf-up.byteoversea.com.edgekey.net
 0.0.0.0 tosv.byted.org
+0.0.0.0 toutiao-frontier.snssdk.com
 0.0.0.0 toutiao-lb.b.bytedns.net
 0.0.0.0 toutiao.com
 0.0.0.0 toutiao.com.bytedns.net
