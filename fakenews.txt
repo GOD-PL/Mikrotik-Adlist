@@ -1,6 +1,6 @@
-# WYGENEROWANO: 2026-11-14 09:55:13
+# WYGENEROWANO: 2026-11-15 10:31:09
 # KATEGORIA: fakenews
-# RAZEM: 314
+# RAZEM: 308
 
 0.0.0.0 100percentfedup.com
 0.0.0.0 20minutenews.com
@@ -10,6 +10,7 @@
 0.0.0.0 70news.wordpress.com
 0.0.0.0 abcnews.com.co
 0.0.0.0 actualidad.rt.com
+0.0.0.0 africannewsupdates.com
 0.0.0.0 aljazeera-channel.com
 0.0.0.0 almastandard.com
 0.0.0.0 americanmilitarynews.com
@@ -39,6 +40,7 @@
 0.0.0.0 cartelreport.com
 0.0.0.0 cedarfallsguide.com
 0.0.0.0 channel16news.com
+0.0.0.0 channel17news.com
 0.0.0.0 channel5000.com
 0.0.0.0 clancyreport.com
 0.0.0.0 clashdaily.com
@@ -57,7 +59,6 @@
 0.0.0.0 delawarecoguide.com
 0.0.0.0 deutsch.rt.com
 0.0.0.0 downtrend.com
-0.0.0.0 drudgereport.com.co
 0.0.0.0 dubuquecoguide.com
 0.0.0.0 eaglerising.com
 0.0.0.0 educate-yourself.org
@@ -91,7 +92,6 @@
 0.0.0.0 holyroodguide.com
 0.0.0.0 humansarefree.com
 0.0.0.0 idasacguide.com
-0.0.0.0 imzansi.co.za
 0.0.0.0 indiaarising.com
 0.0.0.0 indianolaguide.com
 0.0.0.0 indiantownguide.com
@@ -119,7 +119,6 @@
 0.0.0.0 laharpeguide.com
 0.0.0.0 libertyunyielding.com
 0.0.0.0 linncountyguide.com
-0.0.0.0 livemonitor.co.za
 0.0.0.0 lucidawakenings.net
 0.0.0.0 mabeltoday.com
 0.0.0.0 madisoncountyguide.com
@@ -138,12 +137,10 @@
 0.0.0.0 myfoodepic.com
 0.0.0.0 myzonetoday.com
 0.0.0.0 nahadaily.com
-0.0.0.0 nbcnews.com.co
 0.0.0.0 nehalemguide.com
 0.0.0.0 netlivemedia.com
 0.0.0.0 newobserveronline.com
 0.0.0.0 newshubs.info
-0.0.0.0 newsnow.co.za
 0.0.0.0 newsnow17.com
 0.0.0.0 newspunch.com
 0.0.0.0 newswatch28.com
@@ -261,7 +258,6 @@
 0.0.0.0 www.infowars.com
 0.0.0.0 www.inquisitr.com
 0.0.0.0 www.intrepidreport.com
-0.0.0.0 www.jewsnews.co.il
 0.0.0.0 www.kkk.com
 0.0.0.0 www.landrypost.com
 0.0.0.0 www.libertyvideos.com
@@ -272,7 +268,6 @@
 0.0.0.0 www.newsmax.com
 0.0.0.0 www.nowtheendbegins.com
 0.0.0.0 www.palmerreport.com
-0.0.0.0 www.peoplemagazine.co.za
 0.0.0.0 www.powerlineblog.com
 0.0.0.0 www.pravdareport.com
 0.0.0.0 www.presstv.ir
@@ -294,14 +289,12 @@
 0.0.0.0 www.theblaze.com
 0.0.0.0 www.thecontroversialfiles.net
 0.0.0.0 www.thedailysheeple.com
-0.0.0.0 www.theearthchild.co.za
 0.0.0.0 www.thegatewaypundit.com
 0.0.0.0 www.themoralofthestory.us
 0.0.0.0 www.theoccidentalobserver.net
 0.0.0.0 www.thepoke.co.uk
 0.0.0.0 www.thepoliticalinsider.com
 0.0.0.0 www.therebel.media
-0.0.0.0 www.theshovel.com.au
 0.0.0.0 www.tmn.today
 0.0.0.0 www.trueactivist.com
 0.0.0.0 www.truthdig.com
@@ -314,5 +307,6 @@
 0.0.0.0 www.westernjournalism.com
 0.0.0.0 www.whatdoesitmean.com
 0.0.0.0 www.youngcons.com
+0.0.0.0 www.zambianobserver.com
 0.0.0.0 www.zerohedge.com
 0.0.0.0 yournewswire.com
